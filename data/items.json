@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T02:21:50.500726+00:00",
+ "generated_at": "2026-10-07T02:25:03.577345+00:00",
  "sources": [
   {
    "name": "STAT",
@@ -62,7 +62,7 @@
    "name": "TechCrunch Health",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://techcrunch.com/category/health/feed/"
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://techcrunch.com/category/health/feed/"
   },
   {
    "name": "KFF Health News",
@@ -188,22 +188,22 @@
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
    "ok": true,
-   "count": 60
+   "count": 61
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
    "ok": true,
-   "count": 39
+   "count": 41
   },
   {
    "name": "Google News: CMS (rule OR reimbursement OR payment) (AI OR di…",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
    "ok": true,
-   "count": 50
+   "count": 48
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
@@ -773,6 +773,36 @@
    "dental": false
   },
   {
+   "id": "12521e59aca23f55",
+   "title": "IDEXX Laboratories acquires CoVetAI: what it means for IDEXX Laboratories stock",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORUdJc0t6RjRCQno1Q011NkxmZW5ocHlwcG1Pd2F0clRySHI1ZmFVTnhaamFrTXE0clJTS0tManc1RTN0VURzZEhFdGZfREdRcnd0c1dHb3RLQ1MtZ0FSdXRJV3FMSW5vejFWN2R6cmRPVWpwMFkzRDMzdVI1ZjJ5dDdCYkVydHJLUG5UbEpMcEtuM0dxQjNmVnlyT2RUQzgySmd2YnRsQkluSjJGZTdRSzFUaXIzdm5zMS1JdmRhaFFlTkM1eUdoQmpLTQ?oc=5",
+   "source": "AD HOC NEWS",
+   "lane": "deals",
+   "published": "2026-10-07T00:53:33+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T02:25:03.577345+00:00",
+   "cluster": "12521e59aca23f55",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "c8a3cf701c85228d",
+   "title": "Trump administration sending $90 Medicare checks to 20 million seniors",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EZWJjNDZucFAwZ3NuTnNLRW1LX2VWNmltUGJVWTljYUFBdlZESzJIZ1AxOXhZV2I5RFhjT0Z3UGlRb2VyYVdaaEE2bm1BQnExd0ppWkJ1VVJsQk1VeHpzTi1HdGw5M1lvRWxJNk9n?oc=5",
+   "source": "qz.com",
+   "lane": "regulatory",
+   "published": "2026-10-07T00:41:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T02:25:03.577345+00:00",
+   "cluster": "c8a3cf701c85228d",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "72dd87b8a6ff51b9",
    "title": "MFN Raises the Stakes for Japan Launch Pricing",
    "summary": "",
@@ -1103,6 +1133,21 @@
    "dental": false
   },
   {
+   "id": "3f71439915aac66e",
+   "title": "FDA Accuses 10 Retailers Of Selling Unapproved STI Meds",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2FuanVYLXNJYTJRcWc3TUJlcHpNa0E5QUVXaUV5SFhvSGt2Wl9IN01fejJTSG5RUENGMHRzWkhfM1l2R3M0aF8zdDRGVEhCZG10Mk1FQUYyVnZhM1dwMW42cVBVaXROamk1aGcyMlhjOUVwaDRUSmw4YWFySURnelB5eWxOaFJESkNFbUNVdnFWcEl0Mm5QdlJ6cnA2ZzJUdlpfWWRXamFla2JuV2tnVVAyYXdkTWlhbGlLVnRLMG9PWVpJYmx5QWhlOXYtUmPSAXJBVV95cUxNTGgwdTJEUVppdVBpNXVOdFZoUjJaUEppLV9XN3VQTGdFS2VuYTBFMG5ybmdTbVZoWUN0VVcyQ1Y0TnhBSzRIMHprdk9keTZEbVhheTV4ZGNYSzB2dXRoTUxtSkhnYWxlVFJSQmdOOGZHUXc?oc=5",
+   "source": "Law360",
+   "lane": "regulatory",
+   "published": "2026-10-06T22:06:31+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T02:25:03.577345+00:00",
+   "cluster": "3f71439915aac66e",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "5e1fffeac49f291e",
    "title": "Altaris Completes Acquisition of Clarivate’s Life Sciences & Healthcare Business",
    "summary": "",
@@ -1143,6 +1188,21 @@
    "tier": 0,
    "first_seen": "2026-10-07T02:21:50.500726+00:00",
    "cluster": "83adc353c439dec5",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "a55721a531551efc",
+   "title": "Five stocks jump 21%-53% on news of acquisitions, blockchain, AI, and federal financing.",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wUUxBZ2t4eFdOMHJvREplMVBFWERHNmRXWmw5cTVhNlNkaWZRVVNxT2JzQ0FteHliSU9jOFNKRGFOOUN6am8xS0RORHVFMEFwdW5tQTFoeDFzV09ES2Y0NTZQdlYwcUZva3NkYUJ4UG9VTmdtRXo5SDZLVXZ6QQ?oc=5",
+   "source": "Pluang",
+   "lane": "deals",
+   "published": "2026-10-06T21:26:55+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T02:25:03.577345+00:00",
+   "cluster": "a55721a531551efc",
    "coverage": 1,
    "heat": 2,
    "dental": false
@@ -2498,6 +2558,21 @@
    "dental": false
   },
   {
+   "id": "c589a6df2ce11f29",
+   "title": "Eagle & Times Events - 2nd Structure-Based Drug Design Summit San Diego",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWs4SlJFRmdxSjUxOXlQLXd2VHYybUVmcmdiTmxWTHd6SVRVNUZHaWE0cnBJZVdUVlZiZ3JJMUJ3WjdqOWNMOS1FalRYYmVMS3U0ZXVjQ2lMY3VwZVo3MmhIWkpVVkNyc1pDNkNTelNMQk9QSUdFU0lXWXdJRnU3NDg3SGF6eldRdUczQXpnbnZ4bzByQjJpNFNueTlFR0hqS2NrcFJYNnBRVTJLWUhfZWhjWjByUWh2QVdKNVJQcExqbWRfV1dzRldB?oc=5",
+   "source": "imperialbeachnewsca.com",
+   "lane": "regulatory",
+   "published": "2026-10-06T14:01:25+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T02:25:03.577345+00:00",
+   "cluster": "c589a6df2ce11f29",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "8ea81c43b4b0ae56",
    "title": "Top medtech conferences in 2027",
    "summary": "From AdvaMed’s meeting in San Francisco to a robotics conference in Rome, next year’s calendar is already filled with medtech events to attend.",
@@ -3789,6 +3864,21 @@
    "dental": false
   },
   {
+   "id": "4ae50540efde7e72",
+   "title": "Doc Talk | How AI Is Making Oral Cancer Detection Faster And More Precise",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanhIVUV6RzNwcFBlOFByQWN2enNRaHlVclJmWkJoU2VRYVpjcHJpNTVFYjljd2FnOGVmb1Jwbkp0WE1lbzE5eTBPZUd4enRZd2QtcldjTDNtQ0c5Ym5GaHp4dy13V0pRc2g4dmc4Tlc0TDJ0MlhCTEVsY1lxdUdybm1qcHl6Q3N0UzBoYkhSSGgwLUdvUl91dtIBngFBVV95cUxNOUVOOVFiVkxQUzVHZjBGbmxjbW9IOE9tYTVTaU00UDBSY1NRZlozYkZrcUYyaFZBMTBUOF83WEZfbDF1UXo3NFdhc1VWLUwtU2wtMTYwRGtXY3IzWjE3RW5YbG03eUlqYmVEUEZoRUJhd3FONWU1d1NIMlVsQ2xLbkg2OXF1VDNNVU0wazJrX3dSZXZKaHdPeTF5ejZrQQ?oc=5",
+   "source": "ABP Live English",
+   "lane": "industry",
+   "published": "2026-10-06T09:10:54+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T02:25:03.577345+00:00",
+   "cluster": "50edabcd906d14e8",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "d3f88c23d0310960",
    "title": "Nanoscale engineering raises heat tolerance of lead-free piezoelectric ceramics",
    "summary": "",
@@ -4134,6 +4224,21 @@
    "dental": false
   },
   {
+   "id": "59fe00ff64208f87",
+   "title": "Angelini Ventures and EIB Co-lead $58 Million Series A",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOQk1VMGdQcnhFM1BSRGs5ZFRfNzRMaWtUaXRETGZpMndrcE14dTVCak1vU2RkTnktUW5XdVdlUTZsamoxNG5wRjhFUnNybEc5QUpYNVJRNExvTTFVZ2t5TWxNbU1WRm5LVFZjRXppN1E3Uld4dEg5dWZnR2MzTmNjWGRSTWpuTC0wQ3owOXhxeTZBUDcyOC1QbFBPS2o4S0JzYjVZSU1mNGl0SDE3dnZvUWQxZ3VPM3pYa1JRc2V5RHFCRFJvaC1HZ0JMdTdBLWlfN0czTm9kdUx5Q3BYbnZULTI2STR3cm5JNWpISXNiV0JWaVlNaGcwaDkzZDRoSXhuLWFrT2pycW9vdVgtbHI2NVlGazBieUV2aldjYTc5eWpVNUIyTDlIaFBHVUZBWl9hTWdKbC1mdG5BTUZ1SDRSaEVtUGFfZU9LYVoxMVQ3Y0tPR2M5RVo5enJR?oc=5",
+   "source": "GlobeNewswire",
+   "lane": "deals",
+   "published": "2026-10-06T07:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T02:25:03.577345+00:00",
+   "cluster": "f5053b0a43d8f039",
+   "coverage": 2,
+   "heat": 3,
+   "dental": false
+  },
+  {
    "id": "f9486201918ba50d",
    "title": "Kinetic Age Raises $250,000 From AJVC and Agrasar Ventures to Expand Coordinated Healthcare for Adults Over 40",
    "summary": "",
@@ -4284,6 +4389,21 @@
    "dental": true
   },
   {
+   "id": "735652b397a2dd45",
+   "title": "Dr. Oregonin Completes U.S. FDA Registration for OLTIS DENTAL-X, Unveiling Oral-Care Innovation Rooted in Trans-Pacific Alder Research",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOLWFsdlVoaDdsdkR0clc5X2lTQkZXSTJyc1NmWUhyYjZOc2hoYUVaSW5CYTdKcnVQNm5INVRrbF9TQmhoWjdkcGN5ZXdHdWJfT3RNOE5UdFp2bzB5clVzRGRJYjg4bk9XY0pjZ0pKUTQ1RXctU1FFZ3gzWHRJclBCdkVaSEFYc1ZvUEpVZzJPTURkaDZ2ODZHRDZOdHBZS0ZxbUlRS1kxc2E0S2NpVVVkWDFtTXk0dFFScUhYUE51dkd1RzNuTzZmRzYxMDZ6SXNXRlNNWTVROThRc0NLUmpZQkpKZGdXRnV1M05MQXNZYUV2cmc1WXFyU2lJZDdrczAtT2tvS3dzNWdTUFRLeDhJSTBoOTVEZk5EYkEw?oc=5",
+   "source": "StreetInsider",
+   "lane": "regulatory",
+   "published": "2026-10-06T05:55:31+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T02:25:03.577345+00:00",
+   "cluster": "54fee2145e76aae4",
+   "coverage": 2,
+   "heat": 3,
+   "dental": true
+  },
+  {
    "id": "e472b3896f676824",
    "title": "FDA clears AI solution for aiding with MRI body-composition assessments",
    "summary": "",
@@ -4309,8 +4429,8 @@
    "tier": 0,
    "first_seen": "2026-10-07T02:21:50.500726+00:00",
    "cluster": "54fee2145e76aae4",
-   "coverage": 1,
-   "heat": 2,
+   "coverage": 2,
+   "heat": 3,
    "dental": true
   },
   {
