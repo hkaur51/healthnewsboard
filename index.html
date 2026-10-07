@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Reaction Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+/* Layout: a wire-service triage desk. The freshness clock leads every story; lanes filter one queue. */
+:root{
+  --bg:#eef1f5; --panel:#ffffff; --ink:#151b26; --muted:#5b6577; --line:#d6dce6;
+  --accent:#2949c7; --accent-ink:#ffffff;
+  --fresh:#13814f; --aging:#b26a00; --stale:#8a93a3; --bad:#b2381f;
+  --lane-deals:#7a3fb8; --lane-research:#1f6fa8; --lane-regulatory:#b2381f; --lane-takes:#4d7a12; --lane-industry:#5b6577;
+  --f-display:"IBM Plex Sans Condensed","Arial Narrow",sans-serif;
+  --f-body:"Source Sans 3",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#10141c; --panel:#171d28; --ink:#e6eaf2; --muted:#9aa4b6; --line:#2a3242;
+  --accent:#7d95ff; --accent-ink:#0d1220;
+  --fresh:#4cc98a; --aging:#f0a43a; --stale:#6c7587; --bad:#f0846b;
+  --lane-deals:#b98bec; --lane-research:#6db6ea; --lane-regulatory:#f0846b; --lane-takes:#9fd05a; --lane-industry:#aab3c4;
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#10141c; --panel:#171d28; --ink:#e6eaf2; --muted:#9aa4b6; --line:#2a3242;
+  --accent:#7d95ff; --accent-ink:#0d1220;
+  --fresh:#4cc98a; --aging:#f0a43a; --stale:#6c7587; --bad:#f0846b;
+  --lane-deals:#b98bec; --lane-research:#6db6ea; --lane-regulatory:#f0846b; --lane-takes:#9fd05a; --lane-industry:#aab3c4;
+  color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body)}
+.wrap{max-width:1080px;margin:0 auto;padding:24px 16px 56px;display:flex;flex-direction:column;gap:20px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px}
+h1{font:700 30px/1 var(--f-display);letter-spacing:-.01em;margin:0}
+.sub{color:var(--muted);margin:6px 0 0;max-width:62ch}
+.clock{font:500 13px var(--f-mono);color:var(--muted);text-align:right}
+.clock b{display:block;color:var(--ink);font-size:20px;font-weight:500}
+.summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.summary div{background:var(--panel);padding:12px 14px}
+.summary .n{font:500 26px/1 var(--f-mono);font-variant-numeric:tabular-nums}
+.summary .l{font:600 11px var(--f-display);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:6px}
+.summary .hot .n{color:var(--fresh)}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{font:600 13px var(--f-display);letter-spacing:.03em;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:6px 12px;border-radius:999px;cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip .dot{width:8px;height:8px;border-radius:50%}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.row2{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+.row2 input[type=search]{flex:1 1 220px;min-width:0}
+label.tog{font-size:13px;color:var(--muted);display:inline-flex;gap:6px;align-items:center;cursor:pointer}
+input,textarea{font:15px/1.5 var(--f-body);color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:8px 10px}
+.queue{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.item{display:grid;grid-template-columns:84px minmax(0,1fr);gap:16px;padding:16px 0;border-bottom:1px solid var(--line)}
+.item.done{opacity:.6}
+.age{font:500 22px/1 var(--f-mono);font-variant-numeric:tabular-nums}
+.age small{display:block;font-size:11px;margin-top:4px;color:var(--muted);letter-spacing:.04em}
+.age.fresh{color:var(--fresh)} .age.aging{color:var(--aging)} .age.stale{color:var(--stale)}
+.meta{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:center;font:500 12px var(--f-mono);color:var(--muted)}
+.lane{font:700 11px var(--f-display);letter-spacing:.1em;text-transform:uppercase}
+.heat{letter-spacing:2px}
+.cov{color:var(--accent);font-weight:500}
+.item h3{font:600 19px/1.25 var(--f-display);margin:6px 0 4px;text-wrap:balance}
+.item h3 a{color:inherit;text-decoration:none}
+.item h3 a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+.item p{margin:0;max-width:72ch}
+.also{font-size:13px;color:var(--muted);margin-top:6px;max-width:72ch}
+.also a{color:var(--muted)}
+.angle{margin-top:8px;padding:8px 12px;background:var(--panel);border:1px solid var(--line);border-radius:6px;max-width:72ch;font-size:14px}
+.angle b{font:700 11px var(--f-display);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-right:6px}
+.actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;align-items:center}
+button{font:600 13px var(--f-display);letter-spacing:.03em;border-radius:6px;padding:7px 12px;cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--ink)}
+button.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.status{font:600 11px var(--f-display);letter-spacing:.08em;text-transform:uppercase;padding:2px 7px;border-radius:4px;border:1px solid currentColor}
+.status.posted{color:var(--fresh)} .status.skipped{color:var(--stale)}
+.hint{font-size:12px;color:var(--muted)}
+.empty{padding:32px 0;color:var(--muted);max-width:60ch}
+details.health{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+details.health summary{cursor:pointer;font:600 14px var(--f-display);letter-spacing:.03em}
+.srcs{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:4px 16px;margin-top:10px;font:13px var(--f-mono)}
+.srcs .bad{color:var(--bad)}
+.more{align-self:flex-start}
+@media (max-width:640px){
+  .summary{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .item{grid-template-columns:1fr;gap:6px}
+  .age{display:flex;gap:8px;align-items:baseline;font-size:18px}
+  .age small{margin:0}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Reaction Desk</h1>
+      <p class="sub">Healthcare where tech meets business: deals, research, regulation, investor takes and industry news, sorted by freshness. React while the clock is green.</p>
+    </div>
+    <div class="clock"><b id="now">--:--</b><span id="sync">Loading…</span></div>
+  </header>
+
+  <section class="summary" aria-label="Queue summary">
+    <div class="hot"><div class="n" id="s-fresh">0</div><div class="l">Stories under 24h</div></div>
+    <div><div class="n" id="s-hot">0</div><div class="l">Heat 4–5</div></div>
+    <div><div class="n" id="s-multi">0</div><div class="l">Covered by 2+ outlets</div></div>
+    <div><div class="n" id="s-posted">0</div><div class="l">You posted (7 days)</div></div>
+  </section>
+
+  <div class="controls" role="group" aria-label="Filter by lane" id="lanes"></div>
+  <div class="row2">
+    <input type="search" id="q" placeholder="Search headlines, companies, sources" aria-label="Search">
+    <label class="tog"><input type="checkbox" id="dental"> Dental only</label>
+    <label class="tog"><input type="checkbox" id="hotOnly"> Heat 4+ only</label>
+    <label class="tog"><input type="checkbox" id="showDone"> Show posted &amp; skipped</label>
+  </div>
+
+  <div class="queue" id="queue"><div class="empty">Loading the latest sweep…</div></div>
+  <button class="more" id="more" hidden>Show more</button>
+
+  <details class="health">
+    <summary id="health-sum">Sources</summary>
+    <div class="srcs" id="srcs"></div>
+    <p class="hint">Add or remove sources in sources.json. A source in red failed on the last run; the rest of the desk still updates.</p>
+  </details>
+</div>
+
+<script>
+const LANES={deals:"Deals",research:"Research",regulatory:"Regulatory",takes:"Newsletters & takes",industry:"Industry"};
+const PERSPECTIVE="a dentist (BDS) with a Johns Hopkins MSPH in global disease epidemiology, NSF I-Corps fellow building dental AI, now in life sciences consulting";
+let data={items:[],sources:[]},stories=[],shown=40;
+const st=load("rd-state",{}),prefs=load("rd-prefs",{lane:"all",dental:false,hot:false,done:false});
+function load(k,d){try{return JSON.parse(localStorage.getItem(k))||d}catch(e){return d}}
+function save(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const hrs=it=>{const t=Date.parse(it.published||it.first_seen);return isNaN(t)?null:Math.max(0,(Date.now()-t)/36e5)};
+const ageTxt=h=>h==null?"—":h<1?Math.max(1,Math.round(h*60))+"m":h<48?Math.round(h)+"h":Math.round(h/24)+"d";
+const ageCls=h=>h==null?"stale":h<24?"fresh":h<72?"aging":"stale";
+const ageWord=h=>h==null?"UNDATED":h<24?"REACT NOW":h<72?"STILL WARM":"BACKGROUND";
+
+function buildStories(){
+  const by={};
+  for(const it of data.items){(by[it.cluster||it.id] ||= []).push(it)}
+  stories=Object.values(by).map(g=>{
+    g.sort((a,b)=>(b.tier||0)-(a.tier||0)||(a.source==="Google News")-(b.source==="Google News")||String(a.published).localeCompare(String(b.published)));
+    const lead={...g[0]};
+    lead.others=g.slice(1);
+    lead.sources=[...new Set(g.map(x=>x.source))];
+    lead.heat=Math.max(...g.map(x=>x.heat||1));
+    lead.dental=g.some(x=>x.dental);
+    lead.angle=g.map(x=>x.angle).find(Boolean)||"";
+    lead.earliest=g.map(x=>x.published).filter(Boolean).sort()[0]||lead.published;
+    return lead});
+}
+
+function renderLanes(){
+  $("#lanes").innerHTML=[["all","All",null],...Object.entries(LANES).map(([k,v])=>[k,v,`var(--lane-${k})`])].map(([k,v,c])=>{
+    const n=k==="all"?stories.length:stories.filter(s=>s.lane===k).length;
+    return `<button class="chip" data-lane="${k}" aria-pressed="${prefs.lane===k}">${c?`<span class="dot" style="background:${c}"></span>`:""}${v} <span class="hint">${n}</span></button>`}).join("");
+}
+
+function render(){
+  const q=$("#q").value.trim().toLowerCase();
+  const wk=Date.now()-7*864e5;
+  const live=stories.filter(s=>!st[s.cluster||s.id]);
+  $("#s-fresh").textContent=live.filter(s=>{const h=hrs({published:s.earliest});return h!=null&&h<24}).length;
+  $("#s-hot").textContent=live.filter(s=>s.heat>=4).length;
+  $("#s-multi").textContent=live.filter(s=>s.sources.length>1).length;
+  $("#s-posted").textContent=Object.values(st).filter(v=>v.s==="posted"&&v.t>wk).length;
+  renderLanes();
+  let list=stories.filter(s=>{
+    const key=s.cluster||s.id,mark=st[key];
+    if(prefs.lane!=="all"&&s.lane!==prefs.lane)return false;
+    if(prefs.dental&&!s.dental)return false;
+    if(prefs.hot&&s.heat<4)return false;
+    if(!prefs.done&&mark)return false;
+    if(q&&!(s.title+" "+(s.summary||"")+" "+s.sources.join(" ")).toLowerCase().includes(q))return false;
+    return true});
+  list.sort((a,b)=>{
+    const ha=hrs({published:a.earliest})??1e9,hb=hrs({published:b.earliest})??1e9;
+    const fa=ha<24,fb=hb<24;
+    if(fa!==fb)return fa?-1:1;
+    if(fa&&b.heat!==a.heat)return b.heat-a.heat;
+    return ha-hb});
+  const total=list.length;list=list.slice(0,shown);
+  $("#more").hidden=total<=shown;
+  const qd=$("#queue");
+  if(!list.length){qd.innerHTML=`<div class="empty">${stories.length?"Nothing matches these filters.":"No stories yet. The first scheduled run fills this within the hour."}</div>`;return}
+  qd.innerHTML=list.map(s=>{
+    const key=s.cluster||s.id,mark=st[key],h=hrs({published:s.earliest});
+    const pub=s.published?new Date(s.published).toLocaleDateString([], {month:"short",day:"numeric"}):"";
+    const others=s.others.filter(o=>o.url).slice(0,5);
+    return `<article class="item${mark?" done":""}" data-key="${esc(key)}">
+      <div class="age ${ageCls(h)}">${ageTxt(h)}<small>${ageWord(h)}</small></div>
+      <div style="min-width:0">
+        <div class="meta"><span class="lane" style="color:var(--lane-${esc(s.lane)})">${esc(LANES[s.lane]||s.lane)}</span><span>${esc(s.source)}</span><span>${pub}</span>
+          <span class="heat" title="Heat ${s.heat}/5">${"●".repeat(s.heat)}${"○".repeat(5-s.heat)}</span>
+          ${s.sources.length>1?`<span class="cov">${s.sources.length} outlets</span>`:""}
+          ${mark?`<span class="status ${mark.s}">${mark.s}</span>`:""}</div>
+        <h3>${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>`:esc(s.title)}</h3>
+        ${s.summary?`<p>${esc(s.summary)}</p>`:""}
+        ${others.length?`<div class="also">Also: ${others.map(o=>`<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.source)}</a>`).join(", ")}</div>`:""}
+        ${s.angle?`<div class="angle"><b>Angle</b>${esc(s.angle)}</div>`:""}
+        <div class="actions">
+          <button class="primary" data-act="prompt">Copy reaction prompt</button>
+          ${mark?`<button data-act="clear">Back to queue</button>`:`<button data-act="posted">Mark posted</button><button data-act="skipped">Skip</button>`}
+          <span class="hint" data-hint></span>
+        </div>
+      </div></article>`}).join("");
+}
+
+function promptFor(s){
+  return `Write a LinkedIn post reacting to this. I'm ${PERSPECTIVE}.
+
+Story: ${s.title}
+Source: ${s.source} ${s.url||""}
+${s.sources.length>1?`Also covered by: ${s.sources.filter(x=>x!==s.source).join(", ")}\n`:""}Published: ${s.published||"unknown"}
+${s.summary?`Context: ${s.summary}\n`:""}${s.angle?`Angle to consider: ${s.angle}\n`:""}
+Open the link first if you can. 120-180 words. Lead with a specific claim, not a recap. Give one insight from the clinical, epidemiology or market-access side that most posts will miss. Say plainly what I'm unsure about. End with a pointed question. Max 2 hashtags, no emojis, no em dashes, no hype words.`;
+}
+
+document.addEventListener("click",async e=>{
+  const chip=e.target.closest(".chip");
+  if(chip){prefs.lane=chip.dataset.lane;shown=40;save("rd-prefs",prefs);return render()}
+  const b=e.target.closest("button[data-act]");if(!b)return;
+  const key=b.closest(".item").dataset.key,s=stories.find(x=>(x.cluster||x.id)===key),act=b.dataset.act;
+  if(act==="prompt"){
+    const hint=b.parentElement.querySelector("[data-hint]");
+    try{await navigator.clipboard.writeText(promptFor(s));hint.textContent="Copied. Paste it into Claude."}
+    catch(_){const t=document.createElement("textarea");t.value=promptFor(s);t.style.cssText="width:100%;min-height:120px;margin-top:6px";b.closest(".actions").after(t);t.select();hint.textContent="Copy the selected text."}
+    return}
+  if(act==="clear")delete st[key];else st[key]={s:act,t:Date.now()};
+  save("rd-state",st);render();
+});
+$("#more").addEventListener("click",()=>{shown+=40;render()});
+$("#q").addEventListener("input",()=>{shown=40;render()});
+for(const [id,k] of [["dental","dental"],["hotOnly","hot"],["showDone","done"]]){
+  const el=document.getElementById(id);el.checked=!!prefs[k];
+  el.addEventListener("change",()=>{prefs[k]=el.checked;save("rd-prefs",prefs);render()});
+}
+
+function renderHealth(){
+  const s=data.sources||[],bad=s.filter(x=>!x.ok);
+  $("#health-sum").textContent=`Sources: ${s.length-bad.length} of ${s.length} working${bad.length?`, ${bad.length} failed last run`:""}`;
+  $("#srcs").innerHTML=s.map(x=>`<div class="${x.ok?"":"bad"}" title="${esc(x.error||"")}">${x.ok?"✓":"✕"} ${esc(x.name)} ${x.ok?`<span class="hint">${x.count}</span>`:""}</div>`).join("");
+}
+
+async function refresh(){
+  try{
+    const r=await fetch("data/items.json?t="+Date.now(),{cache:"no-store"});
+    if(!r.ok)throw new Error(r.status);
+    data=await r.json();buildStories();renderHealth();render();
+    const g=new Date(data.generated_at);
+    const mins=Math.round((Date.now()-g)/6e4);
+    $("#sync").textContent="Updated "+(mins<1?"just now":mins<120?mins+" min ago":g.toLocaleString([], {month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}));
+  }catch(e){$("#sync").textContent="Couldn't load data/items.json"}
+}
+function tick(){$("#now").textContent=new Date().toLocaleTimeString([], {hour:"numeric",minute:"2-digit"})}
+tick();refresh();
+setInterval(tick,30000);
+setInterval(refresh,10*60000);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden)refresh()});
+</script>
+</body>
+</html>

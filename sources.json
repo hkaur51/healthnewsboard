@@ -1,0 +1,58 @@
+{
+  "_help": "Edit this file to add or remove sources. lane: deals | research | regulatory | takes | industry ('takes' is shown as 'Newsletters & takes'). filter: 'intersect' keeps only items that mention tech or business, 'health' keeps only health items (for general tech/VC feeds), null keeps everything. 'feeds' need an RSS/Atom URL. 'pages' is for newsletters with no RSS (many beehiiv sites): give the archive page and a piece of text every post link contains, usually '/p/'.",
+
+  "feeds": [
+    {"name": "STAT", "url": "https://www.statnews.com/feed/", "lane": "industry", "filter": "intersect", "tier": 1},
+    {"name": "Fierce Healthcare", "url": "https://www.fiercehealthcare.com/rss/xml", "lane": "industry", "filter": "intersect"},
+    {"name": "Fierce Biotech", "url": "https://www.fiercebiotech.com/rss/xml", "lane": "industry", "filter": "intersect"},
+    {"name": "Healthcare Dive", "url": "https://www.healthcaredive.com/feeds/news/", "lane": "industry", "filter": "intersect"},
+    {"name": "MedTech Dive", "url": "https://www.medtechdive.com/feeds/news/", "lane": "industry", "filter": null},
+    {"name": "BioPharma Dive", "url": "https://www.biopharmadive.com/feeds/news/", "lane": "industry", "filter": "intersect"},
+    {"name": "Endpoints News", "url": "https://endpoints.news/feed/", "lane": "industry", "filter": "intersect"},
+    {"name": "MobiHealthNews", "url": "https://www.mobihealthnews.com/feed", "lane": "industry", "filter": null},
+    {"name": "MedCity News", "url": "https://medcitynews.com/feed/", "lane": "industry", "filter": null},
+    {"name": "Healthcare IT News", "url": "https://www.healthcareitnews.com/home/feed", "lane": "industry", "filter": null},
+    {"name": "HIT Consultant", "url": "https://hitconsultant.net/feed/", "lane": "industry", "filter": null},
+    {"name": "TechCrunch Health", "url": "https://techcrunch.com/category/health/feed/", "lane": "industry", "filter": null},
+    {"name": "KFF Health News", "url": "https://kffhealthnews.org/feed/", "lane": "industry", "filter": "intersect"},
+
+    {"name": "NEJM", "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss", "lane": "research", "filter": "intersect", "tier": 1},
+    {"name": "NEJM AI", "url": "https://ai.nejm.org/action/showFeed?jc=ai&type=etoc&feed=rss", "lane": "research", "filter": null, "tier": 1},
+    {"name": "JAMA", "url": "https://jamanetwork.com/rss/site_3/onlineFirst_67.xml", "lane": "research", "filter": "intersect", "tier": 1},
+    {"name": "JAMA Network Open", "url": "https://jamanetwork.com/rss/site_214/onlineFirst_214.xml", "lane": "research", "filter": "intersect"},
+    {"name": "JAMA Health Forum", "url": "https://jamanetwork.com/rss/site_219/onlineFirst_219.xml", "lane": "research", "filter": null},
+    {"name": "Nature Medicine", "url": "https://www.nature.com/nm.rss", "lane": "research", "filter": "intersect", "tier": 1},
+    {"name": "npj Digital Medicine", "url": "https://www.nature.com/npjdigitalmed.rss", "lane": "research", "filter": null},
+    {"name": "Lancet Digital Health", "url": "https://www.thelancet.com/rssfeed/landig_online.xml", "lane": "research", "filter": null},
+    {"name": "Health Affairs", "url": "https://www.healthaffairs.org/action/showFeed?type=etoc&feed=rss&jc=hlthaff", "lane": "research", "filter": null},
+
+    {"name": "FDA press releases", "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml", "lane": "regulatory", "filter": null, "tier": 1},
+
+    {"name": "Out-Of-Pocket (Nikhil Krishnan)", "url": "https://www.outofpocket.health/p/rss.xml", "lane": "takes", "filter": null, "tier": 1},
+    {"name": "Hospitalogy (Blake Madden)", "url": "https://hospitalogy.com/feed", "lane": "takes", "filter": null},
+    {"name": "Second Opinion (Christina Farr)", "url": "https://secondopinion.media/feed", "lane": "takes", "filter": null},
+    {"name": "Health API Guy (Brendan Keeley)", "url": "https://healthapiguy.substack.com/feed", "lane": "takes", "filter": null},
+    {"name": "Ground Truths (Eric Topol)", "url": "https://erictopol.substack.com/feed", "lane": "takes", "filter": null},
+    {"name": "Doctor Penguin (AI in medicine papers)", "url": "https://doctorpenguin.substack.com/feed", "lane": "takes", "filter": null},
+    {"name": "The Health Care Blog", "url": "https://thehealthcareblog.com/feed/", "lane": "takes", "filter": null},
+    {"name": "Rock Health", "url": "https://rockhealth.com/feed/", "lane": "takes", "filter": null},
+    {"name": "a16z", "url": "https://a16z.com/feed/", "lane": "takes", "filter": "health"}
+  ],
+
+  "pages": [
+    {"name": "Health Tech Nerds", "url": "https://www.healthtechnerds.com/archive", "link_contains": "/p/", "lane": "takes", "limit": 10},
+    {"name": "Healthcare Huddle (Jared Dashevsky)", "url": "https://www.healthcarehuddle.com/archive", "link_contains": "/p/", "lane": "takes", "limit": 10}
+  ],
+
+  "google_news": [
+    {"query": "(\"digital health\" OR healthtech OR \"health tech\" OR medtech) (raises OR funding OR \"Series A\" OR \"Series B\" OR \"Series C\")", "lane": "deals"},
+    {"query": "(healthcare OR hospital OR pharma OR medtech) (acquires OR acquisition OR merger OR IPO) (AI OR digital OR software)", "lane": "deals"},
+    {"query": "(\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR \"De Novo\") (AI OR software OR algorithm OR digital)", "lane": "regulatory"},
+    {"query": "CMS (rule OR reimbursement OR payment) (AI OR digital OR telehealth OR \"remote monitoring\")", "lane": "regulatory"},
+    {"query": "(dental OR dentistry) (AI OR startup OR funding OR FDA)", "lane": "industry"},
+    {"query": "(\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR \"Thrive Capital\" OR \"Kleiner\") (health OR healthcare)", "lane": "takes"}
+  ],
+  "google_news_window": "1d",
+  "openfda_510k": {"enabled": true, "days": 45, "keep": "ai_software_dental"},
+  "keep_days": 21
+}
