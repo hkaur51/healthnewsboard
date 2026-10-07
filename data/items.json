@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-07T02:25:03.577345+00:00",
+ "generated_at": "2026-10-07T10:14:58.785218+00:00",
  "sources": [
   {
    "name": "STAT",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "name": "Fierce Healthcare",
@@ -14,7 +14,7 @@
   {
    "name": "Fierce Biotech",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "name": "Healthcare Dive",
@@ -62,12 +62,12 @@
    "name": "TechCrunch Health",
    "ok": false,
    "count": 0,
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://techcrunch.com/category/health/feed/"
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://techcrunch.com/category/health/feed/"
   },
   {
    "name": "KFF Health News",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "name": "NEJM",
@@ -182,33 +182,39 @@
   },
   {
    "name": "Google News: (\"digital health\" OR healthtech OR \"health tech\"…",
-   "ok": true,
-   "count": 43
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22digital+health%22+OR+healthtech+OR+%22health+tech%"
   },
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
-   "ok": true,
-   "count": 61
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28healthcare+OR+hospital+OR+pharma+OR+medtech%29+%28acq"
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
-   "ok": true,
-   "count": 41
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22FDA+clearance%22+OR+%22FDA+clears%22+OR+%22510%28k"
   },
   {
    "name": "Google News: CMS (rule OR reimbursement OR payment) (AI OR di…",
-   "ok": true,
-   "count": 35
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=CMS+%28rule+OR+reimbursement+OR+payment%29+%28AI+OR+digi"
   },
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
-   "ok": true,
-   "count": 48
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28dental+OR+dentistry%29+%28AI+OR+startup+OR+funding+OR"
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
-   "ok": true,
-   "count": 14
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22General+Catalyst%22+OR+%22a16z%22+OR+%22Andreessen"
   },
   {
    "name": "FDA 510(k) database",
@@ -217,6 +223,111 @@
   }
  ],
  "items": [
+  {
+   "id": "5795aff8317a9360",
+   "title": "Teladoc Health unveils new AI capabilities within Solo platform for hospitals",
+   "summary": "The two new tools aim to help health systems surface timely patient insights into their care environments while reducing technology fragmentation, executives say.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/teladoc-health-unveils-2-new-ai-capabilities-within-solo-platform",
+   "source": "Fierce Healthcare",
+   "lane": "industry",
+   "published": "2026-10-07T10:14:58.785218+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T10:14:58.785218+00:00",
+   "cluster": "5795aff8317a9360",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "76f2445e531c7455",
+   "title": "Teladoc unveils remote monitoring, ambient AI features",
+   "summary": "The company’s virtual care platform has integrated artificial intelligence scribing and camera-based vitals monitoring as it works to recover from significant financial setbacks.",
+   "url": "https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/",
+   "source": "Healthcare Dive",
+   "lane": "industry",
+   "published": "2026-10-07T10:02:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T10:14:58.785218+00:00",
+   "cluster": "76f2445e531c7455",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "eec5fb3ee06e3e09",
+   "title": "‘Medicare for All’ Message Attracts Voters Buckling Under Medical Bills",
+   "summary": "The idea of scrapping the U.S. health insurance system for a massive expansion of government-funded healthcare isn’t new. But voters hit by ballooning private health insurance costs are rallying behind midterm candidates calling for universal coverage.",
+   "url": "https://kffhealthnews.org/elections/medicare-for-all-abdul-el-sayed-michigan-midterm-elections/",
+   "source": "KFF Health News",
+   "lane": "industry",
+   "published": "2026-10-07T09:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T10:14:58.785218+00:00",
+   "cluster": "eec5fb3ee06e3e09",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "aefaea884fc82356",
+   "title": "Food Aid Enrollment Tanks After SNAP Rule Changes",
+   "summary": "It’s been more than a year since President Donald Trump signed the One Big Beautiful Bill Act, and SNAP enrollment is down more than 20% in Louisiana. Anti-hunger groups say far more people could lose access if states are required to cover more of the food program’s cost.",
+   "url": "https://kffhealthnews.org/public-health/louisiana-snap-food-stamps-enrollment-decline-hunger-work-requirements-obbba/",
+   "source": "KFF Health News",
+   "lane": "industry",
+   "published": "2026-10-07T09:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T10:14:58.785218+00:00",
+   "cluster": "aefaea884fc82356",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "fc9943afe0f0a906",
+   "title": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
+   "summary": "Caribou Biosciences is shutting down after failing to raise the money necessary to fund a late-stage clinical trial of its off-the-shelf CAR-T therapy for lymphoma.",
+   "url": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
+   "source": "STAT",
+   "lane": "industry",
+   "published": "2026-10-07T08:30:00+00:00",
+   "tier": 1,
+   "first_seen": "2026-10-07T10:14:58.785218+00:00",
+   "cluster": "fc9943afe0f0a906",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "05b5c971f550760d",
+   "title": "Opinion: My oncologist recommended active surveillance for prostate cancer. Life insurers called it ‘untreated cancer’",
+   "summary": "“I reject the idea that a man who keeps every prostate cancer surveillance appointment has ‘untreated cancer,’” writes Howard Wolinsky.",
+   "url": "https://www.statnews.com/2026/10/07/active-surveillance-prostate-cancer-life-insurance-policy/?utm_campaign=rss",
+   "source": "STAT",
+   "lane": "industry",
+   "published": "2026-10-07T08:30:00+00:00",
+   "tier": 1,
+   "first_seen": "2026-10-07T10:14:58.785218+00:00",
+   "cluster": "05b5c971f550760d",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "3ea6292f8cf49404",
+   "title": "Healthcare Is Fighting the Wrong AI War",
+   "summary": "By KIM BELLARD The Blue Cross Blue Shield Association is crying wolf about AI. Its new analysis claims that “hospital systems are increasingly billing patient hospital stays as more medically complex,” and Continue reading...",
+   "url": "https://thehealthcareblog.com/blog/2026/10/07/healthcare-is-fighting-the-wrong-ai-war/",
+   "source": "The Health Care Blog",
+   "lane": "takes",
+   "published": "2026-10-07T06:55:26+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T10:14:58.785218+00:00",
+   "cluster": "3ea6292f8cf49404",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
   {
    "id": "71ad0cd749d5030f",
    "title": "Intermountain stepping back from clinically integrated network jointly run, owned with UCHealth",
