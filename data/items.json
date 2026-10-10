@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T15:52:31.322196+00:00",
+ "generated_at": "2026-10-10T20:03:37.829506+00:00",
  "sources": [
   {
    "name": "STAT",
@@ -14,7 +14,7 @@
   {
    "name": "Fierce Biotech",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "name": "Healthcare Dive",
@@ -188,27 +188,27 @@
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
    "ok": true,
-   "count": 43
+   "count": 29
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
    "ok": true,
-   "count": 14
+   "count": 8
   },
   {
    "name": "Google News: CMS (rule OR reimbursement OR payment) (AI OR di…",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
    "ok": true,
-   "count": 23
+   "count": 15
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "name": "FDA 510(k) database",
@@ -217,6 +217,231 @@
   }
  ],
  "items": [
+  {
+   "id": "b036606bab1e4a0b",
+   "title": "450 students join UP-112 cyber safety drive, police warn against online frauds",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSDkycHZjeDZFQWpUb0JvODMwalVpYjJCblVyYkMxRllRMTRTZ1JxRlZDbzF5YXVyWlAzRk4wNzE0TFpXZkhkQ3lIQkNPekpNMUx5R1ZoTHNPLWFLTzhrRm5pUzVrMmJtd2paaEFJQnotVFVDcFIwS3U2N0RUbWRleU1XSHFLZ19LQmZuS21CLVBfVVJ1a0pqb0hDeHlVSVNEbFczUFVONTBfU1U3QWgtV2xVTXM5b2dxWFZ3OEJsWTFrU215Q3p5SU5uZ0d4aEVfODJkSHFNaHRIQlY1Q0VWQ0I4NVNEajTSAewBQVVfeXFMTnNvVV9WWGFyUnlSQXlucXBOSHJrRkxFd1VwOFBsZVNyVkVWSHBRTUNNeTdRcVBoc2dKQVB5WExRRm92dHpxZ3AzaUxaTTBmQm01dmxya1pXSTZmbm44MUhvbGlJenVGdGZRMGxKVWsyVmltX2ozbV9KOW94ODVWTFFwcXo5Ulh0VklJVHozeEo0aTBoREQzOGpzVDZwRC1ZRVRkcHVmZFZvUU16cjd3UVdaTVlqbHJCTms3NHE3WWpxaGZfbndlbkx3aUNOWlNtU3gySUJVY19RTUNqbk8tT1pnR0dnTTZGYUdRaUs?oc=5",
+   "source": "The Times of India",
+   "lane": "regulatory",
+   "published": "2026-10-10T19:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "b036606bab1e4a0b",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "064e2d29f94d84cb",
+   "title": "Peppermint Raises $4.7 Million Seed Round Led By Moxxie",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNNzFwRVAtSTZvMG5hRlgtVUFiOUpad3lPNmUyMFRJWC12LVhGSkV4WV9HRV9SUFhXYkhUQlg4aEtpS2NvQno3YzFsR3JFUjZra201WHU1SThzdGw1czMzZ21JakVPTE9sZXFsTnhWVVJLWmVsdFBfMWppUFFEa2fSAYQBQVVfeXFMT2oxeF9MUGY0Z2V0VUkwSmVoMm5wR2M5LXFiTjFMYXRKLVNhYU1vdTVmMnJZOVk0dEZiWWxJLVhRWUlfcnAxaGxoLXUwMDJlOE1GRjExbExSYjVRVFBWZC13NlVrSEFfZDdVeU5wcU0ySUVuZDFoWDh4NmR3S2RaMEFFSUto?oc=5",
+   "source": "Pulse 2.0",
+   "lane": "deals",
+   "published": "2026-10-10T18:53:42+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "064e2d29f94d84cb",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "5e2583dc14cbd73b",
+   "title": "Dr. Oz, Trump Medicaid director, in Nebraska to root for state rural health program, Big Red",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkpXOThnQ1ZmU0xXM0NyX0x2TjFoZWdpSENoUUJWbTVfQ0VaQnEzQlIzZ19iektlOFk0NnBHYzNEZFBaM2laRmNOS2hXVjkxdy1rWU03MW1fQjFEb2xlamZFVDFFdVFfWm4yMTY2dGpnNDFFVWxMWVZkT1kyYmZYbDIwMTZEYVBBWU9ad2Y4M2lfMHVwZVJLSnlMOUU5cnlQRGliVEZqZUlQRDlFTy04NGZEcnplOTNXNEJSNU56R0plc1lFc1l2NA?oc=5",
+   "source": "Nebraska Examiner",
+   "lane": "industry",
+   "published": "2026-10-10T18:30:29+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "5e2583dc14cbd73b",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "4c63f0f8d3b3cc28",
+   "title": "Pfizer And 2 Other Top AI Healthcare Stocks",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnpBa3kxcVNQaE05LTdBdml1VGxnMGJkbWZmSHZ1bEVQLWMyU3B6NVpaaDdKb0lhZlRrVTQ3R2FsNDdWRWJOZFlOYzhGNGlUeHJ6c1NMaVBXN2NLeFJMa3JfUXRQa1dxLXZiRmlYNnVQLVdYWGxpWVR0TXByeU54STNxcm40NldHaVE?oc=5",
+   "source": "Yahoo Finance",
+   "lane": "deals",
+   "published": "2026-10-10T18:14:09+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "0a8758a8c767d743",
+   "coverage": 2,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "f9a1a9b6913bd97d",
+   "title": "MintNeuro raises $5m to accelerate brain chip technology",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONHp3N3FzMGRZcE9QcHpnc0VJUTEzeTQwQnNXaWNJcnZ1RG41azIwZzhhbGlha2toZUJOMjNtVUhWRjJZODhMd2lqRnFtNTRVZEtXT1JtOWJSZ3NjVm9icEpVQW5hb1YzNjEtb1VhLWQwak96LXAtWjR2S0syMUV2Q3ZiOG1OYmlTalF4SDNGOGNYNDQ?oc=5",
+   "source": "BusinessCloud",
+   "lane": "deals",
+   "published": "2026-10-10T16:55:32+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "f9a1a9b6913bd97d",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "39f2e724448383e1",
+   "title": "3 Healthcare Software Stocks Tied To AI Spending Hospitals Can Actually Use",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUM2cHJHMnVGV0RYMW1obUlpRVdoS0RRaDQ0cU1wWG90WEQzZTh2eG9paUVIZVpPa3F6aWdXYkNiNmhDX0dGSGJQZFNPWjByWFRHdENON0t3N0ZiVGN3cUo3bmlTN2FZR3JiRlFmTWE4ZEdEVmkxQ0RsM3Y2NUVmLXo5WlcyOUNiVnFZWGg1VjBTNXJtY1hzLVpLX25YWWdiZVNLRXNGV2d0cFZKM2prRS1MWlV4UFM0TlV1TzFsSUJ2RngycC1hdnJB0gHKAUFVX3lxTE45QzZwckcydUZXRFgxbWhtSWlFV2hLRFFoNDRxTXBYb3RYRDNlOHZ4b2lpRUhlWk9rcXppZ1diQ2I2aENfR0ZIYlBkU09aMHJYVEd0Q043S3c3RmJUY3dxSjduaVM3YVlHcmJGUWZNYThkR0RWaTFDRGwzdjY1RWYtejlaVzI5Q2JWcVlYaDVWMFM1cm1jWHMtWktfblhZZ2JlU0tFc0ZXZ3RwVkozamtFLUxaVXhQUzROVXVPMWxJQnZGeDJwLWF2ckE?oc=5",
+   "source": "Simply Wall Street",
+   "lane": "deals",
+   "published": "2026-10-10T16:53:40+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "39f2e724448383e1",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "54db15db130c4939",
+   "title": "Thane District Gets ₹400 Crore Development Blueprint For School Modernisation, Healthcare And Civic",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdWJPMWJGRmc2T3ZPek5RV0QzNmFSVlZLWW5mMGlaT0NMdWlHRTBNeFozZkg3S2hVdURINXk2QmxSeVphbEU1WlE2b1JLZGczd1NybGNMREFJbFJLeFRuTlBTdi1ycnhKTXN5d240QzlhTlRER29Fd2l4NlBwZVprVUNfdXU1ZTlIMW9aeVhJSjhMY0ZoTmVtYTZnOVNmN1JuZUt6WHdCMzg0OFppdHo4TkliLXdta2dVdUpqYWVVTWxXLTdBbVFiWDFlVkx3VExLTmZXOXJHTURCYk45eE1JeWdfRdIB6AFBVV95cUxNN3VqanJkek1PSTB4akxQSjZ0WVVSUW14MVVMZTFCWjZXbEFhRERVYlV0T29SMkl4REwzeEhOVmZud29qZWEzSHNHTTdYajRGelJsaEtaX2xHM1BHRkNfc1lsQkFuTHEzTzJmSkYydE01MkJaQVc5SzRxbWZDbTZ0bTVVYlhUYXlKS0JLMUl2M1E1cjhFUFgycTBXVFN1ZWhnU180T0xsVGRyZkhUQnJZbTVXX09VeE9NdTlqdDVFU3B3UFExQzBiR2hqNzZ0Q1FZRk9NeWx2ZjNKcTBNcXJ2XzJSM1V1ZUJ4?oc=5",
+   "source": "Free Press Journal",
+   "lane": "deals",
+   "published": "2026-10-10T16:08:47+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "54db15db130c4939",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "82cf01d1b37d7512",
+   "title": "2020 Delhi riots: Court convicts Tahir Hussain of abetment to rioting, acquits 12 others",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQy0wdW1xcUtvY1h3VC1CRVBhRGtCbEFkX1liSGotQ3I2NmR6MFg4R09mZTVON0FZbzJ0Z3liMk15MkpuMmhicnlZYjBPcTA1bHZ2WkpHcXVLSnY0NjVPWE1xX00tQkN5QWcxc1BJV19aOHdXdTFVZkFLM0Q4SmRaZUZHTDkzbVFLbGlEWHU2T3lYWDROeUpOUGxVX1dqS1NRWlNTTVhSZ01xM09vTGx0ekdaa2lUb0EyUWVQQzZ5MmlqejNwVDl3NHNDVURrUTdvd3ptR19rMVNvNzJsZ1dweExHNzhpZWg0RzEw0gHrAUFVX3lxTE9DLTB1bXFxS29jWHdULUJFUGFEa0JsQWRfWWJIai1DcjY2ZHowWDhHT2ZlNU43QVlvMnRneWIyTXkySm4yaGJyeVliME9xMDVsdnZaSkdxdUtKdjQ2NU9YTXFfTS1CQ3lBZzFzUElXX1o4d1d1MVVmQUszRDhKZFplRkdMOTNtUUtsaURYdTZPeVhYNE55Sk5QbFVfV2pLU1FaU1NNWFJnTXEzT29MbHR6R1praVRvQTJRZVBDNnkyaWp6M3BUOXc0c0NVRGtRN293em1HX2sxU283MmxnV3B4TEc3OGllaDRHMTA?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-10T16:03:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "82cf01d1b37d7512",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "bf8c70e849ac87f9",
+   "title": "'COVID vaccine has worst side effects ever': Dr Rogers' explosive claim rocks fiery Senate hearing",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSjlwZXFGZEFHZ21CLXlFOUZHeVNsQVNmUVplZ200UXl0QmlsMmM2X0twaHREZkNuT3FjRTRrTl9HQUY2cFhJR0xMVGYzZ3QxbTVNdGtqandBc1ZubThJSGstQlZJQXVqX1dKdDZlVHh0Q3lnUjBsTkJ3UUtGQ2pnaTVmWWlWTlQ2T1pMUk15QzRXN2pMWmZEbVFaV1Vnd3Z6N2pUaDJhZWZIR3ZWRTZZSzMtSVN5czVSVGRPTjlwU2JRUzFuWmFiYkVCR0NWTTRfZWlaRlY5RWk3QVJEbWxNUkxLT3p0RThfdmRYTlJpQmdQTnBxbTBIelZmVzJqVndfSlNuT1BUbm1jZ3JS0gGMAkFVX3lxTE5KOXBlcUZkQUdnbUIteUU5Rkd5U2xBU2ZRWmVnbTRReXRCaWwyYzZfS3BodERmQ25PcWNFNGtOX0dBRjZwWElHTExUZjNndDFtNU10a2pqd0FzVm5tOElIay1CVklBdWpfV0p0NmVUeHRDeWdSMGxOQndRS0ZDamdpNWZZaVZOVDZPWkxSTXlDNFc3akxaZkRtUVpXVWd3dno3alRoMmFlZkhHdlZFNllLMy1JU3lzNVJUZE9OOXBTYlFTMW5aYWJiRUJHQ1ZNNF9laVpGVjlFaTdBUkRtbE1STEtPenRFOF92ZFhOUmlCZ1BOcHFtMEh6VmZXMmpWd19KU25PUFRubWNnclI?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-10T16:01:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "bf8c70e849ac87f9",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "a3aed878c4f5f8d0",
+   "title": "Social Security $90 extra deposit: When will payments arrive, who qualifies and why some Medicare beneficiaries will miss out",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNEJlbUdGWmM0LXN5ZzBfSXNkVndISnR6RHJ1Ry16Sl9yVlZzTmp5S2xia2RqLVRyMkJjWkMyaGxnS3R1N0NFanp4VW9jdXRVSktZRFdvdC1tTVZ6VW5tc1BGWHBWQkhjOW91T2JiN1hranE1dzJlUVowS28tQWVzOWVJQ205STVTR3Q4LXBUUUVqdlM5SlhjYmgzdU5qN29nSE53UFBpSXF0Ry12X0NIcG5HWDhaOUhYRHFkRVluWGR4N2pHTXZzcUhTT0JaTkt2OFFHWFdudC1yYnlMYjFhMUVSdmtGaS1vSGozLWVYc3VUWndnQ1JiRldfZkJjWjZJU3lPQmtvN09FM2trTzA1Vmx6UG85UU1Kc1NreFktR1ljRXJ1bG5UNzBfckZvNEtLcE1VWU1rY3B6QW1hR0tKVkdZb0w5Zw?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-10T15:58:31+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "3686fc1196e358cd",
+   "coverage": 3,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "40780bdcb69d7638",
+   "title": "Dental Pulp Stem Cell Secretome Shows Promise for Stroke Recovery in Mice",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjNITTktY3d0UjdYUElDTENlZlFyc29YZktsQm9Xb242Qk1EcXhhM21EdWVQZDhUcXI0cHlJdjFzRlhkLXdGNloxYmlnbWlzQ25JX213SEZMekRSdmtjcG1QREZPSExBaGdkdHFLZENsYW85RkxablpuRTU2UWZEaHFVdWVXZkxqeGQwZm9nMV9WS3FfV3lwekJidVU4TkE?oc=5",
+   "source": "Bioengineer.org",
+   "lane": "industry",
+   "published": "2026-10-10T15:53:23+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "40780bdcb69d7638",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "c5a89b90918c5371",
+   "title": "CJP protest: SC to hear plea seeking contempt action against Home Secretary, DMRC on metro, train closure",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNekd1emdjUWxTZ2Ewcy1mYUdvMHVpcEJjMlZDOGdjRHZjOUpFbjZPUGx4ZmtzdWNyQ29SSXlRTVJZOHRqRW1QdnNwYjlIZWFkbUdSRVZfLXZEWlUxYTVjVE8ydWVoR3IzbWczOC04ZzZHbUpNN3hMVUtDb3FHajJNWFlyMlZLdU1YbnNoX2hFdDZEZEJlVUdUbVg1WVMtZHM2dW53MHF5dG1FZGtFZmtYeHJRVDAyaXVIMkRIOHdEVHBBWHM3bWVOUjdPTjI3dExnejlURlI4RmJWcUtsVmFTcllUbi0wYm1XZGptUUkyQ3FTc2FkTkVvNEtZZDE4ZzV2M1lCMlRYczM4ODhDdDFJWS00VdIBkwJBVV95cUxNekd1emdjUWxTZ2Ewcy1mYUdvMHVpcEJjMlZDOGdjRHZjOUpFbjZPUGx4ZmtzdWNyQ29SSXlRTVJZOHRqRW1QdnNwYjlIZWFkbUdSRVZfLXZEWlUxYTVjVE8ydWVoR3IzbWczOC04ZzZHbUpNN3hMVUtDb3FHajJNWFlyMlZLdU1YbnNoX2hFdDZEZEJlVUdUbVg1WVMtZHM2dW53MHF5dG1FZGtFZmtYeHJRVDAyaXVIMkRIOHdEVHBBWHM3bWVOUjdPTjI3dExnejlURlI4RmJWcUtsVmFTcllUbi0wYm1XZGptUUkyQ3FTc2FkTkVvNEtZZDE4ZzV2M1lCMlRYczM4ODhDdDFJWS00VQ?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-10T15:52:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "c5a89b90918c5371",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "19bf7b61f6155ea6",
+   "title": "'Destroying democracy': Rahul Gandhi attacks PM over Delhi protest crackdown",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEFEektiX0ZtU2o0SU1rSkhUZEx3aER1RTlIV0RJNE5fcjVDdFhidVFzNHNSaUlxeW5ySDRaYVF5Qk9qSEpOb0FQX1BfSUJUcHJYZmc2VS1CaXQza1NrbElIMFpFaEJnWGtGQUQxejVtQUgxaGN4dDVvVDhTSmlwSGFxTXYyVGdOY2NvYXVQdkZOeTY3ODhRYzVTUk1ZWm9sVjdHY095RW5MVmZBd2dqR01TaTI2OFB1WVRDMUxITllTbHo5U3JJTHEyRTRZTXPSAc8BQVVfeXFMTmRBRHpLYl9GbVNqNElNa0pIVGRMd2hEdUU5SFdESTROX3I1Q3RYYnVRczRzUmlJcXluckg0WmFReUJPakhKTm9BUF9QX0lCVHByWGZnNlUtQml0M2tTa2xJSDBaRWhCZ1hrRkFEMXo1bUFIMWhjeHQ1b1Q4U0ppcEhhcU12MlRnTmNjb2F1UHZGTnk2Nzg4UWM1U1JNWVpvbFY3R2NPeUVuTFZmQXdnakdNU2kyNjhQdVlUQzFMSE5ZU2x6OVNySUxxMkU0WU1z?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-10T15:42:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "19bf7b61f6155ea6",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "c5d2a4f1f7513157",
+   "title": "Inside Silicon Valley's bet on a new path to landing a job in the AI era",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXItWFZiYzhmdmtpX1ZJLUc1SVR2OEQ4cENOR1hfQkRUVnRSbXZ0UUZwaXRXa3Bhclc1QjRuTWFOTjFYeWtqQUlKV3VEMzdNTGNLZmpLdld6WktDR25QVGxXUkFfaVFuQnJfb2dabFFpcUdBUXk4SkhOYkdaS0dKbFQ3VWlCRVNHZ051N0hMbG9qeVpmeVFqVm1mbUdoUdIBngFBVV95cUxQZXItWFZiYzhmdmtpX1ZJLUc1SVR2OEQ4cENOR1hfQkRUVnRSbXZ0UUZwaXRXa3Bhclc1QjRuTWFOTjFYeWtqQUlKV3VEMzdNTGNLZmpLdld6WktDR25QVGxXUkFfaVFuQnJfb2dabFFpcUdBUXk4SkhOYkdaS0dKbFQ3VWlCRVNHZ051N0hMbG9qeVpmeVFqVm1mbUdoUQ?oc=5",
+   "source": "Fox Business",
+   "lane": "takes",
+   "published": "2026-10-10T15:20:10+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "c5d2a4f1f7513157",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "4203d17cca6535f6",
+   "title": "Manipur CM seeks Congress MP Bimol Akoijam’s resignation after JNU dismissal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbFg0U19lTnA4STJmYkZON3djQ3ZpdmUteFV2NTdQWHhyUWQtOWJrWVotSDhXbjAzZmQ4NlFIQ0JqYnp6S2FGYW5zVmZ1RUk5Q1dqYS1YQmgtRk1BYUV4dHlRcGh0UEc0U2VTUmJNd3oxWlBtdl95RXk1dUswbTBrbFJiTEZEV2lMdHlIWWN3dmlUeHRrSHAzQzBZaDlNMDY2NHVOd1VYSlV0a3A5VWEzWEprOWhTTXVIbHFQRUtzWjY3cHZ2MFdJMW9zSVZGUGdOMFY3dDRfeDdadnlSYktBMC0yQkVZOXJCbEHSAe8BQVVfeXFMT1dBc3RXZzhwMGhHUUdCSEpUS2EtcEtOOElIa2N2UzFnNnlWM0RnRUFobFRCUWw2THBvdVZhYTUtdE9yYVJfSXVQMlF2Y2NackRQZHEyYXN1T1dBTjg0T2RuSFgwdEFDZFRlNjdJclB1SHotSDFGaF9SSFNFUjBJTG93amp5amI2bGpLV21naFdZZUJQUHBXeXFscm9sYjhjV25wLVJ3OVl5NkVJSVhUQWJoUDB4cFJSWHd2UFNtc3hZV2NCYV9fWU1DT2xQejREa0Jpa3Q3cFFWT3o2VjY4cXZmMndZMVZ2dVY5RWtuTFU?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-10T15:17:21+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "4203d17cca6535f6",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
   {
    "id": "b4a4ff048d8ff879",
    "title": "Social Security: Eligible seniors to get $90 Medicare payment in October: Who qualifies and who misses out",
@@ -248,6 +473,21 @@
    "dental": false
   },
   {
+   "id": "a8895b0740c9c5a5",
+   "title": "Did Reimbursement Tailwinds Just Shift CareDx (CDNA) Stock Narrative?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbjhMWDgyaHhVMHAwZmJGV2dPYTRXMElQRHVTTXc4LW9SVXJfX3pGUV9EQ1B2aFQ0bWRGOUMtMEV5WFRwb0hzRDY5MjI2QV9ZbG51TDBfRm5XZmZrZUJZQjdvczZDcWRvLWJ0dXB6S0stZGpiclpWckh6Wk91SmZPUFNzeG1KVVNaSWpZdTB2RjRaTlhnWVpvVTRVTG9ZcTNWRFRNUW5GNmVzRW9XaF9HVGwxOVZNY3pfVVgySUZfMTBxb29CWGZpWldjZTFzYVZNRHl3TVp4czUydC160gHcAUFVX3lxTFBuOExYODJoeFUwcDBmYkZXZ09hNFcwSVBEdVNNdzgtb1JVcl9fekZRX0RDUHZoVDRtZEY5Qy0wRXlYVHBvSHNENjkyMjZBX1lsbnVMMF9GbldmZmtlQllCN29zNkNxZG8tYnR1cHpLSy1kamJyWlZySHpaT3VKZk9QU3N4bUpVU1pJall1MHZGNFpOWGdZWm9VNFVMb1lxM1ZEVE1RbkY2ZXNFb1doX0dUbDE5Vk1jel9VWDJJRl8xMHFvb0JYZmlaV2NlMXNhVk1EeXdNWnhzNTJ0LXo?oc=5",
+   "source": "Simply Wall Street",
+   "lane": "deals",
+   "published": "2026-10-10T14:55:35+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "693e94a0358c2832",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "693e94a0358c2832",
    "title": "Did Reimbursement Tailwinds Just Shift CareDx (CDNA) Stock Narrative?",
    "summary": "",
@@ -273,6 +513,21 @@
    "tier": 0,
    "first_seen": "2026-10-10T15:52:31.322196+00:00",
    "cluster": "2b15dd2995d5bd87",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "753696f818493b23",
+   "title": "European Startups Push AI From Screens to Factory Floors",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjR5YmdkbGVsMHNXZk5EMTNrUTFKWHVtLXNfVTIyaHB3eGFFNVVYNlk3QTUtM3Q2aVFpV255WGpxVUxXS2xUSkZheFpPOGc5NXItT2NQWE1TcXFjYWI5Wkc0R0FCLUpQT2dvSkFNVVRldllNU2VldU5zXzJ5aFg3TzZ6LUxGNGhmMmFyMzRnWDIwLUkyaVJTbw?oc=5",
+   "source": "n24.com.tr",
+   "lane": "deals",
+   "published": "2026-10-10T14:15:23+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "753696f818493b23",
    "coverage": 1,
    "heat": 2,
    "dental": false
@@ -348,7 +603,22 @@
    "tier": 0,
    "first_seen": "2026-10-10T15:52:31.322196+00:00",
    "cluster": "06c281fb27445c11",
-   "coverage": 2,
+   "coverage": 3,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "314e9181f3975fa1",
+   "title": "Social Security $90 checks: Why Trump is sending extra money to millions of seniors",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSkJDaEZSNkhVaEdfemMzS3BqSG43MFVSYjdXNU5LbGlLd19kUDZoWFFFMk9pekhhV2JCSWtxNFhVMU1ZNmxEeF9jc1Nqd1JZaE1tM0RqdEJJT285R1JEc3hEWEdXSHRpcWVBS1VWLVhsVzRid1VLbE44YzYtOEtDYkVDaU9wSGZaRFRTVHV0eHJiSXRteklSanZMOVgwd1VyWGFMbVpGQXRFaXprcjRqbk1Na3JuX19yQS1MX0l6WmR1MURfZzhBU3BuUmZBS1BhVFpuSlV1UFVQamPSAdsBQVVfeXFMTkpCQ2hGUjZIVWhHX3pjM0twakhuNzBVUmI3VzVOS2xpS3dfZFA2aFhRRTJPaXpIYVdiQklrcTRYVTFNWTZsRHhfY3NTandSWWhNbTNEanRCSU9vOUdSRHN4RFhHV0h0aXFlQUtVVi1YbFc0YndVS2xOOGM2LThLQ2JFQ2lPcEhmWkRUU1R1dHhyYkl0bXpJUmp2TDlYMHdVclhhTG1aRkF0RWl6a3I0am5NTWtybl9fckEtTF9JelpkdTFEX2c4QVNwblJmQUtQYVRabkpVdVBVUGpj?oc=5",
+   "source": "Livemint",
+   "lane": "regulatory",
+   "published": "2026-10-10T13:10:09+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "06c281fb27445c11",
+   "coverage": 3,
    "heat": 2,
    "dental": false
   },
@@ -443,6 +713,21 @@
    "dental": false
   },
   {
+   "id": "22f5e6aea0783b49",
+   "title": "South Korea's DIO Unveils AI Implant Platform 'DIO AX,' Targets ₩100 Billion in Revenue by 2030",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kZ2ZwbHJNbjZVSmtNWTd1aVd4bDg3UGcxQlJNR3haSUZiSXoyLW04dFdWb2lqTW9Cd1lIalctQ2lBQnVJTGQ3OGtCTG14bjJKWDN1UndDcG5NUjNWLVFNZ2JCZkgwRkJtTktVd2xZRmFkS2s5Vmc?oc=5",
+   "source": "BigGo Finance",
+   "lane": "industry",
+   "published": "2026-10-10T12:05:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "22f5e6aea0783b49",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "d94e524a96305a51",
    "title": "'India is not a democracy anymore': Priyanka Gandhi calls Modi-Shah rule a 'dictatorship'",
    "summary": "",
@@ -488,13 +773,28 @@
    "dental": false
   },
   {
+   "id": "155f191eb382f8b2",
+   "title": "India’s growing public health investment expands MedTech procurement",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHphYWJaTGswZnBQRHF0ZVdSaV9rN3ZFNURVdGlRRWRBNU5PY1ZBRmZfeWxpU2lkNDc5ZHhSTXNVZ0pkMXlUTDZXN0kycWFPcFhFTDhBemNTZF9FS0s3Znc5TzdRc0ZqbjVPVmx3OE1GTUdxQXVWSnZxUHkzZ202XzF6TTU1eHZRTV83aWh4bUNzVVJDVktGMktQMA?oc=5",
+   "source": "Medical Buyer",
+   "lane": "deals",
+   "published": "2026-10-10T10:38:18+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "155f191eb382f8b2",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "1e23d14c304de550",
    "title": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDVHWUxEbzFjQm1keEJON1NZMy1tWjFBdl8zcmw4T3JpcWNMelRjNkZzSUk3aW80VGItaUN4VmRBU0VIYTRHVUIwV1U1eExLMzNLb2paQXpOV09JNzJFU25sd1hUQWdRXzRwbEpMckl6X0JjY3FTMXJYcjlDdW51UThFUkI?oc=5",
    "source": "Fortune",
    "lane": "regulatory",
-   "published": "2026-10-10T10:07:04+00:00",
+   "published": "2026-10-10T10:32:34+00:00",
    "tier": 0,
    "first_seen": "2026-10-10T15:52:31.322196+00:00",
    "cluster": "1e23d14c304de550",
@@ -618,6 +918,21 @@
    "tier": 0,
    "first_seen": "2026-10-10T09:49:37.997473+00:00",
    "cluster": "4d166ff18e020ea7",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "8d209a6c15676e49",
+   "title": "8 midcap stocks rally up to 135% in a year; 2 turn multibaggers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWG51MzVSYV9iS3Q0al8tOW10RlZqazEyelVESjVPY3Q2X3dkUjBGN1lxbDhUNS1jTTVJOWJIaUtyOGRpVElnTnhNRWpxcWtqczZMVEduNWdZZC0ycklONGk2RmQ0SVA0WEtHdm9VeHVVZW1KM0swc1NEMHBsTEV1ZUJxZlZDdHdkRVJibTVuWlFxWjRLUDB5QTkzcE80OFJSMTRHZFZYYVRaekZETUNPTHRtWGRqamp1R0hxVnEzdzdlWlU5ZjAxdHZBdm01YVhQVVZtWG9UblV2MUhkMUExcll3SQ?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-10T08:18:58+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "8d209a6c15676e49",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -1004,7 +1319,7 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVW5kMUUxd2pGZE5vSWVtUDJxdWlFcU9FdXZaVVZBSU8xY003eWNkNVcyUHR4SWxHN2dVTUdlS0JKZmgwZ0V3VVZEMHZqaXowM2hWdndJS05kU2x2RzdnbTBIdjVZWVNSaEVlaFJhRnhzUUtXTXFlZzVpNFVxR0VTRjRJV0xzaVo0U2hYNk9PbFlZWFpBbzBIWkJGS21WenNtYVBFcEMyT1hYelQxcDNHalllVXpySC1iZF9vZ3ZPbTl4cTRyZ0RqUHZn?oc=5",
    "source": "News24",
    "lane": "deals",
-   "published": "2026-10-10T01:50:25+00:00",
+   "published": "2026-10-10T02:20:28+00:00",
    "tier": 0,
    "first_seen": "2026-10-10T09:49:37.997473+00:00",
    "cluster": "903577297fbcd7b5",
@@ -1373,6 +1688,21 @@
    "dental": false
   },
   {
+   "id": "ecaa1102dabdca48",
+   "title": "Heidi Secures $340 Million to Expand Into Clinician-Supervised AI Agents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFdRWUhGMjRkM1F5bGxqdWM3YUVxclczMUdXeVl6SVFWUWJOenFRWjNCWFhaX0UyZjBROFVZaXdtaEk4U3BoVnZrc3lvU2NGUEZWMHdsQnI4UzdRc0JqOVl5Y1YwZnZ3ZWhUSGZ6RmlTUTZHdlJNeGNseVM0QlozOTc0c0ZKd24xYTJ3MWlfYS02RXhqLUZWaloxaHZMc1d1UkI4?oc=5",
+   "source": "RamaOnHealthcare",
+   "lane": "takes",
+   "published": "2026-10-09T21:27:57+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "ecaa1102dabdca48",
+   "coverage": 1,
+   "heat": 4,
+   "dental": false
+  },
+  {
    "id": "0ab896e13321a731",
    "title": "Stuart Therapeutics seeks FDA clearance to study ST-100 in corneal wound healing",
    "summary": "",
@@ -1383,6 +1713,21 @@
    "tier": 0,
    "first_seen": "2026-10-09T23:15:45.402679+00:00",
    "cluster": "0ab896e13321a731",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "304271d7d1af7fa8",
+   "title": "Five Ways Health Systems are Responding to the Medicare Supplemental Phase Out",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM25XbzhqX1V5QUhBUE9JaWNoWmxnd0RsSWZ6S3dhZGpkbmZfSTRhQ0RCdzdEcjd6aXpwaXBtekhVYnBzQjZFQVBwN0hNUnVfVkl4LTVhSU9jeE9Jakw3OWxVaGplcTZzVE0zakFKeERtZnFFS0EtSjlEcmYySFdtLUlfMUduNi1IbUE?oc=5",
+   "source": "JDSupra",
+   "lane": "regulatory",
+   "published": "2026-10-09T21:19:04+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-10T20:03:37.829506+00:00",
+   "cluster": "304271d7d1af7fa8",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -4459,7 +4804,7 @@
    "tier": 0,
    "first_seen": "2026-10-09T23:15:45.402679+00:00",
    "cluster": "3686fc1196e358cd",
-   "coverage": 2,
+   "coverage": 3,
    "heat": 2,
    "dental": false
   },
@@ -5749,7 +6094,7 @@
    "tier": 0,
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "3686fc1196e358cd",
-   "coverage": 2,
+   "coverage": 3,
    "heat": 2,
    "dental": false
   },
@@ -6334,7 +6679,7 @@
    "tier": 0,
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "06c281fb27445c11",
-   "coverage": 2,
+   "coverage": 3,
    "heat": 2,
    "dental": false
   },
@@ -7279,8 +7624,8 @@
    "tier": 0,
    "first_seen": "2026-10-08T17:52:26.371513+00:00",
    "cluster": "0a8758a8c767d743",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10296,7 +10641,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "252711dbb92dcb3c",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10326,7 +10671,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "f09d28503a0b84a9",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10386,7 +10731,7 @@
    "first_seen": "2026-10-08T17:52:26.371513+00:00",
    "cluster": "a3428bd113269de3",
    "coverage": 4,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10401,7 +10746,7 @@
    "first_seen": "2026-10-08T10:34:04.155330+00:00",
    "cluster": "8fc4aaddb7956272",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10416,7 +10761,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "e646fd9a2a138aa0",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10431,7 +10776,7 @@
    "first_seen": "2026-10-08T17:52:26.371513+00:00",
    "cluster": "71fc82cefdfe1448",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10461,7 +10806,7 @@
    "first_seen": "2026-10-08T10:34:04.155330+00:00",
    "cluster": "a2ecb6eb5933fe8a",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -10476,7 +10821,7 @@
    "first_seen": "2026-10-08T02:41:52.151824+00:00",
    "cluster": "da296a508f32cd6e",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10521,7 +10866,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "8f73d78277ddcdbc",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10536,7 +10881,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "b33d0314e62015ee",
    "coverage": 4,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10551,7 +10896,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "0560a10040766f8c",
    "coverage": 6,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10566,7 +10911,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "8562f3d18985e786",
    "coverage": 7,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -10611,7 +10956,7 @@
    "first_seen": "2026-10-08T17:52:26.371513+00:00",
    "cluster": "0827b6b766f2f16b",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10641,7 +10986,7 @@
    "first_seen": "2026-10-08T10:34:04.155330+00:00",
    "cluster": "0185ec2561e84fdb",
    "coverage": 3,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10716,7 +11061,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "4188995afad723e0",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10731,7 +11076,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "d7198b476682186a",
    "coverage": 1,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -10746,7 +11091,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "1b77df062fb87860",
    "coverage": 2,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10761,7 +11106,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "7608ee08e1f8c224",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10791,7 +11136,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "da53313a73d1b6f2",
    "coverage": 4,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10806,7 +11151,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "82a1b85c12864b87",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10821,7 +11166,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "8bb49745d37ef7d8",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10836,7 +11181,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "f504c9c1ffa9fb79",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10851,7 +11196,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "5acc421dca2c63f6",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10866,7 +11211,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "e6033d22e449548d",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10881,7 +11226,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "1795501d3615fbd6",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10896,7 +11241,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "6262c93210009315",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -10911,7 +11256,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "673d6db412f79984",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10971,7 +11316,7 @@
    "first_seen": "2026-10-08T10:34:04.155330+00:00",
    "cluster": "cdedf909860720e2",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": true
   },
   {
@@ -10986,7 +11331,7 @@
    "first_seen": "2026-10-08T10:34:04.155330+00:00",
    "cluster": "23f7be1f44297dcc",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -11001,7 +11346,7 @@
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "0b60d0cbb4670dc4",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -11016,7 +11361,7 @@
    "first_seen": "2026-10-08T10:34:04.155330+00:00",
    "cluster": "e272bdf0af08e784",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -11031,7 +11376,7 @@
    "first_seen": "2026-10-07T23:04:58.078695+00:00",
    "cluster": "7e0afa6dea89ce2e",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
