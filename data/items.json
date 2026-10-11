@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T18:04:25.989107+00:00",
+ "generated_at": "2026-10-11T21:57:52.360202+00:00",
  "sources": [
   {
    "name": "STAT",
@@ -34,7 +34,7 @@
   {
    "name": "Endpoints News",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "name": "MobiHealthNews",
@@ -182,33 +182,39 @@
   },
   {
    "name": "Google News: (\"digital health\" OR healthtech OR \"health tech\"…",
-   "ok": true,
-   "count": 12
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22digital+health%22+OR+healthtech+OR+%22health+tech%"
   },
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28healthcare+OR+hospital+OR+pharma+OR+medtech%29+%28acq"
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
-   "ok": true,
-   "count": 1
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22FDA+clearance%22+OR+%22FDA+clears%22+OR+%22510%28k"
   },
   {
    "name": "Google News: CMS (rule OR reimbursement OR payment) (AI OR di…",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=CMS+%28rule+OR+reimbursement+OR+payment%29+%28AI+OR+digi"
   },
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
-   "ok": true,
-   "count": 12
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28dental+OR+dentistry%29+%28AI+OR+startup+OR+funding+OR"
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22General+Catalyst%22+OR+%22a16z%22+OR+%22Andreessen"
   },
   {
    "name": "FDA 510(k) database",
@@ -7177,7 +7183,7 @@
    "first_seen": "2026-10-09T06:07:49.020778+00:00",
    "cluster": "6697343d6e7dac38",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7192,7 +7198,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "94b01096e6c74ef5",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7207,7 +7213,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "b0ba96725221ec32",
    "coverage": 4,
-   "heat": 4,
+   "heat": 3,
    "dental": true
   },
   {
@@ -7222,7 +7228,7 @@
    "first_seen": "2026-10-09T06:07:49.020778+00:00",
    "cluster": "fb2569a1b9c0e767",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7252,7 +7258,7 @@
    "first_seen": "2026-10-09T06:07:49.020778+00:00",
    "cluster": "d24e33eced5a2382",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7267,7 +7273,7 @@
    "first_seen": "2026-10-09T18:51:02.353014+00:00",
    "cluster": "d24e33eced5a2382",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7282,7 +7288,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "d3d5c2b7339542b7",
    "coverage": 3,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7297,7 +7303,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "fab4a8bb44e2c0ed",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7327,7 +7333,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "a8aa497277992b0b",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7342,7 +7348,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "cdc8999dc2bfe5bd",
    "coverage": 3,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7372,7 +7378,7 @@
    "first_seen": "2026-10-09T18:51:02.353014+00:00",
    "cluster": "726245b75300e337",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7387,7 +7393,7 @@
    "first_seen": "2026-10-09T23:15:45.402679+00:00",
    "cluster": "726245b75300e337",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7402,7 +7408,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "2628b4feafaabd9b",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7447,7 +7453,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "3686fc1196e358cd",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7477,7 +7483,7 @@
    "first_seen": "2026-10-09T06:07:49.020778+00:00",
    "cluster": "d3d5c2b7339542b7",
    "coverage": 3,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7507,7 +7513,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "d467b1e0b45a4d1a",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7522,7 +7528,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "8e5455e637449f0b",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7537,7 +7543,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "be13f664502c7df0",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7552,7 +7558,7 @@
    "first_seen": "2026-10-09T18:51:02.353014+00:00",
    "cluster": "6fe2baca5beb596e",
    "coverage": 4,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -7582,7 +7588,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "b08229ccfc31f237",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7597,7 +7603,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "21845aa967811f2d",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7642,7 +7648,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "6cc514250145569d",
    "coverage": 1,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -7657,7 +7663,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "2c71a24f7a03b4cd",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7687,7 +7693,7 @@
    "first_seen": "2026-10-09T18:51:02.353014+00:00",
    "cluster": "ce43d2fe4f9bcb3d",
    "coverage": 2,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7702,7 +7708,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "b08229ccfc31f237",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7717,7 +7723,7 @@
    "first_seen": "2026-10-09T18:51:02.353014+00:00",
    "cluster": "b33d0314e62015ee",
    "coverage": 4,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7747,7 +7753,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "881a485a6c05953c",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": true
   },
   {
@@ -7762,7 +7768,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "260f5078fe7236eb",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7777,7 +7783,7 @@
    "first_seen": "2026-10-08T17:52:26.371513+00:00",
    "cluster": "4a26dd1077763c7c",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7792,7 +7798,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "e8070e1bfd20333e",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7807,7 +7813,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "cdc8999dc2bfe5bd",
    "coverage": 3,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7837,7 +7843,7 @@
    "first_seen": "2026-10-09T13:15:59.139299+00:00",
    "cluster": "277b857939bf567b",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7852,7 +7858,7 @@
    "first_seen": "2026-10-08T17:52:26.371513+00:00",
    "cluster": "ce43d2fe4f9bcb3d",
    "coverage": 2,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7867,7 +7873,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "547c07469992db32",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7882,7 +7888,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "b08229ccfc31f237",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
