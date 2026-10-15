@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-15T07:26:08.478007+00:00",
+ "generated_at": "2026-10-15T13:25:46.357576+00:00",
  "sources": [
   {
    "name": "STAT",
    "ok": true,
-   "count": 6
+   "count": 9
   },
   {
    "name": "Fierce Healthcare",
@@ -14,7 +14,7 @@
   {
    "name": "Fierce Biotech",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "name": "Healthcare Dive",
@@ -34,7 +34,7 @@
   {
    "name": "Endpoints News",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "name": "MobiHealthNews",
@@ -67,12 +67,12 @@
   {
    "name": "KFF Health News",
    "ok": true,
-   "count": 3
+   "count": 1
   },
   {
    "name": "NEJM",
    "ok": true,
-   "count": 1
+   "count": 3
   },
   {
    "name": "NEJM AI",
@@ -183,32 +183,32 @@
   {
    "name": "Google News: (\"digital health\" OR healthtech OR \"health tech\"…",
    "ok": true,
-   "count": 56
+   "count": 55
   },
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
    "ok": true,
-   "count": 51
+   "count": 57
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "name": "Google News: CMS (rule OR reimbursement OR payment) (AI OR di…",
    "ok": true,
-   "count": 23
+   "count": 28
   },
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
    "ok": true,
-   "count": 36
+   "count": 41
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "name": "FDA 510(k) database",
@@ -217,6 +217,1101 @@
   }
  ],
  "items": [
+  {
+   "id": "afbde17308786c60",
+   "title": "American Academy of Family Physicians joins physician social network Roon",
+   "summary": "AAFP members will be able to use the platform to connect with peers as part of the collaboration.",
+   "url": "https://www.fiercehealthcare.com/providers/american-academy-family-physicians-joins-physician-social-network-roon",
+   "source": "Fierce Healthcare",
+   "lane": "industry",
+   "published": "2026-10-15T13:25:46.357576+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "afbde17308786c60",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "77c570c6efa721e7",
+   "title": "As prior auth becomes an AI ‘arms race,’ Otter Health raises $8M for a different approach",
+   "summary": "The company built an AI-powered real-time clinical quality platform to better manage healthcare utilization by influencing care decisions rather than requiring clinicians to get permission for them.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/otter-health-launches-8m-take-prior-authorization",
+   "source": "Fierce Healthcare",
+   "lane": "deals",
+   "published": "2026-10-15T13:25:46.357576+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "3dec482551a6490d",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "af0ce02f44a8fd13",
+   "title": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
+   "summary": "AstraZeneca is paying insitro $40 million upfront to find novel drug targets for liver and heart diseases using artificial intelligence.",
+   "url": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
+   "source": "Fierce Biotech",
+   "lane": "industry",
+   "published": "2026-10-15T13:25:46.357576+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "af0ce02f44a8fd13",
+   "coverage": 1,
+   "heat": 4,
+   "dental": false
+  },
+  {
+   "id": "04d2bd3038788551",
+   "title": "Binance Coin Price Today: BNB Trades Near $720 After Binance AI Launch as Remittix's $0.28 Entry Raises the Stakes",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0g1VFBBZXpRTWFiWUNPSnZIV0pZSUc0N3FhTVJrNWxKUjBRRUJfc2xmRUl5NExYdk0tbWduRFI3eUhZX0t3c0tfU1VVZVFOejR2TmF1SGVabHl3ei1uczF0cjV3OHNQY0Q2NHVXZzV5Q21NNGFJZmRHMjJKckRVRnpoVHh4RHlISUM4bHVkYUdhaGp2SGJfam9ZQlRDWUJoN3lYamMzNFlNdHZ2WVFqRUlkelhtVHlnQlpJNktEX0pvSDFVdDIybXhoOXpjUXlm?oc=5",
+   "source": "TechBullion",
+   "lane": "deals",
+   "published": "2026-10-15T13:19:56+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "04d2bd3038788551",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "bf07a868993d1040",
+   "title": "STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future",
+   "summary": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.",
+   "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss",
+   "source": "STAT",
+   "lane": "industry",
+   "published": "2026-10-15T13:14:37+00:00",
+   "tier": 1,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "bf07a868993d1040",
+   "coverage": 1,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "5d3eb62aedd29779",
+   "title": "Specialty1 Partners Invests in AI to Expand Dental Practice Efficiency and Patient Care",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOak92aWlNaDB2aFlSOXZkVmV3d3p4LUZ6bF93clpQX052YkxWV1ljN283N0NTaE9Uajh1Tk9CWnh5Ykw4Wk9RZnJMUlE0TE42QU16eWF6V3hFb0h3U0Vkb1NrZGY5ZGRxU3d6MVh0QmlBZFNCOXpkR0hHRWFrc1FLNG03VWowbmJFMnlNTnRNbWFyU09DdWxTNE81MVhaRWtxTWwxUElwQjI2bDJrV29fT3BvZWE2Zms4NEc1b1NUM0NKYmN1?oc=5",
+   "source": "citybiz",
+   "lane": "industry",
+   "published": "2026-10-15T13:08:55+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "5d3eb62aedd29779",
+   "coverage": 1,
+   "heat": 3,
+   "dental": true
+  },
+  {
+   "id": "bad0cea51d3ba548",
+   "title": "Dentist-led startup My Orl-Care, founded by Dr. Snehal Dhatrak, is bringing innovative, problem-solving oral hygiene products to the market",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlBKNTJfY2JXOWNSa0hFY2Zpbm15YmZmTGxYUDN3LVUtdGJScUc5UzNTWTlwMjg4VUtYTTBkMHBoSGlORUdyX05XZ0JKSHRycmRyd05acVZGbzM5Q24xcDBrY3ZOY0UtNGVYSGpRRnRlYl96WVZvelRGUDJTZkJFdXdNTU9Kd0VHNTBWOXR5WUVMY0R3ODFUbmFKUlFkTVB4MnltTzVnd1JMZkxyWGxSSDlpdmxGZFhhcDdxRVIyOFMwRmpyTERxaUhnd1c1bDBWa2czdHlsYm1IaDRyLTFnUUNzRE1lMUxVcEZsdHVLcS1Vc0dwcVBweHQ3QTROU2x4dElPUmZXWFUzQnM?oc=5",
+   "source": "The Tribune",
+   "lane": "industry",
+   "published": "2026-10-15T13:06:20+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "bad0cea51d3ba548",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "aafc0c094bad0d6b",
+   "title": "AI will force doctors to focus on clinical reasoning, experts say",
+   "summary": "The growing use of AI tools is changing the skills doctors need to practice medicine, experts said during a panel at an Endpoints News event on Wednesday. Doctors no longer need to memorize as many ...",
+   "url": "https://endpoints.news/ai-will-force-doctors-to-focus-on-clinical-reasoning-experts-say/",
+   "source": "Endpoints News",
+   "lane": "industry",
+   "published": "2026-10-15T13:00:35+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "aafc0c094bad0d6b",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "114fc7f633f25264",
+   "title": "PE Weekly: M&A Roundup Oct. 9-15",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kZDRReDlXS2dsX0JFLUh5czg2YUVvbEVINWRwbk1rZ0lxVHNfYjNiVHgtSmp6WFZXRkw5RURGcUxSYWhCbGNwZ0FYa25TZWtRUm82R2hVb0szMkFOUGh2UEhRUEg?oc=5",
+   "source": "ACG Insights",
+   "lane": "deals",
+   "published": "2026-10-15T13:00:03+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "114fc7f633f25264",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "a6c00cf96e9c965e",
+   "title": "Carenet Health Acquires Invene, Adding Healthcare AI and Data Consulting to Its Engagement Suite",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPekNPQk9QMTNLTTMyN1FaUTVyZmdHVkotRjd1NHNCTWF0a3FsSE1kMkhVNFNKYUZwRjVJY0wwMFNkTHpCWmZhNDVEbjZINV85S2RQLWlxNG5zc09pdEc3RTdQU2J0WG9wMlNTWE85amdXS1oxVjk4WTZxVzA4U29RUUdGdmZvck1EODFQaDQtNVMzdkU1ZmROYUdKWjlzSExFQkNTcGttZFNCVC1vQXhBczNVTkVUS0Jnc0xVd3A1bGJVLXZWX3NnbmVCcUd2VHFXQk1DY3AzNC0ydUZkMVpwd2pPSHlodjg?oc=5",
+   "source": "Business Wire",
+   "lane": "deals",
+   "published": "2026-10-15T13:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "a6c00cf96e9c965e",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "90d549b5b05652ea",
+   "title": "Sunbound Acquires Richter Healthcare Consultants, Bringing Decades of Financial Trust and Expertise in Senior Living Revenue Management to Sunbound's Technology Platform",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNOS1wWGlHTnB1NW9ibzBXY21tUUVvLUFCYUViWDVScjRaQ2c0QzhueV83dVZQUGVjT0NKWGFQdnc1STNnbVd5by05cURwVUk2aDdvbW1Qb05BbFVZcVA0TzQydDduaUt1TGYtSHdzYTg3YVNuaHhTZmJ0UjA0NGFwMTJtTlp1WWNNQjc0aG1qUHZKNjM0M2FhZ2VRNkVSY0ptR0NXbWx5QlRGam9kakVTb2pxd2NMWHdNSldjQ0dkcUZERUhfcnZfOUh2dXV0MHJnMzBqTWZXRUpxdk84WFYyclFVcGJBVUVfZ193aDJXQkhRLTlGSkNkTk1zeEJaaXQwNGRjeXpuLXlxQnB4SC1TZmlPQUMtWUtlclBoclpvRWRNX3hLQ2VoaGFtdGEtMnFudjdGd0lNVTE0ekxYZ2liWEVQWGZUdw?oc=5",
+   "source": "PR Newswire",
+   "lane": "deals",
+   "published": "2026-10-15T13:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "90d549b5b05652ea",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "3960696f8e8a999e",
+   "title": "DentKits and Dentistry.One Partner to Bring Dentist-Reviewed Denture Care to Patients at Home",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcWJISllLNzFtaXMxSU0tQ1pYNFFxTkpRNXVleVNqbnZWbF9MM3NPbS11Vmx2U2k2ckhZenljWGVSUHlORm1EYk1Ra0hic0g3MlVVRnJCX05aQWZrUmR5Um95N1dSajQzTkVibFNUczFkU0Rqdk9fYXNHWVp6Y3MwTlFhQ1IyM2JBU1o4WmZNRVlyQVdmakl0d05mdzhiUEpkUENySHBhakdmc3l3VlNhWlFsTFE3Z0V1d3JwQk1ib0JXMTYwdUdXcF9qbmUyYzlWanBsX1FldFRoSUgxZmtMN0Jn?oc=5",
+   "source": "PR Newswire",
+   "lane": "industry",
+   "published": "2026-10-15T12:56:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "3960696f8e8a999e",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "16ef41b05e7fbd1c",
+   "title": "SimBioSys Wins FDA Clearance for Breast Cancer Recurrence AI Tool",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0xhZWMyQjBBQ3c2VXdINzFrbGZwU3Q1Si1tWEdEUWZmYjdOeER6R3RfX094TVNET2FMTEprUzhaMkpnbFpZZ1RCVzZFZ3ltZktfbWg3LWlBLV9MN1hXMlVVS1hKNmswNHd6b21JejVWSjZzbUY5WmNnMWhpWThYc3VXNnQtMmdfckEtZW43a3M?oc=5",
+   "source": "Unite.AI",
+   "lane": "regulatory",
+   "published": "2026-10-15T12:46:13+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "0c3e5ccb7e656c1f",
+   "coverage": 2,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "639796450fbb37e4",
+   "title": "ECGI Holdings Completes Acquisition of Avanta Group, Establishing Foundation for AI-Enabled Healthcare Platform",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxON1dDckJ2d3BWeU9iOG9MOW95MnRIekVpQWhFRWNTSW9rYVlPU2xMckNyT3M4Qk5KRVliSXpMQ2syTmtQbnZIdE9VMWM0NjZZU19uMlRXTGN0aHU1UFdkRW1Xc01uWGtLbGZmbDdqbzRWLXhPSklOSExjVHhyejA2QTVUSjJVZFUyMHZnMjE2WjNwZW5Oc2dfeFFIV3puSzdNdEhlb3AwUENuV0JDWVJteWt6NUJlNkV1MHhQaWxHODc3WDZuZmZzQXAyRnZUdGZxTWdPUFprUk1aNC1uNzhCb25ueS1RQWVSa2R3VVBVcnpkSUd1SXJHelp6YzRUQzMxSHR3ZDVHbmVudDF4TGF5U2530gGXAkFVX3lxTE9SVzJkR3E4ZGRhYkRpVEJNcFNMT0RJLWdBbUdyLXNweTI3TDlJVm96Wjl2Y1M1ZXZBZVVQMk5fUEJicVZ3VzY3RERXYjNsM25uMHVkY2JwcnNubHJWNnFZTFFJemJqOUJ6cUs2UXhMZ1JwUFlubUI3c3dObFItN2J5Q18yV0lFVGtsMFJlVXlRTTJlSWNiWG1pNFJWbzJJd3Ewb2NucXdPb1F2UDVTUV9sZGl1bHRSQWRpWE9NelktS3ppVFRKOGE3NzJxOWJZVGdWNnhkME9MdE5wUk1kcW9qQ1FqWTF2SjhyUzhHclQtYzgtRWE4YmtMUjVMVXJqRUFCdlA0MmNaUDg5QmppeGFaUnhwcm5pbw?oc=5",
+   "source": "The Manila Times",
+   "lane": "deals",
+   "published": "2026-10-15T12:41:18+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "639796450fbb37e4",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "bda57a5a8b7cb110",
+   "title": "HeartBeam Joins European EXIT-CVD Research Consortium to Advance At-Home ECG Monitoring for Early Detection of Acute Coronary Syndrome (ACS) in High-Risk Patients",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOUi1yVU9qRkxxZC1XR1hOaFd3TWUxZjI3RTdmWUc3aW5OLVhqaFk4aWx5OG1GS0ZWUXphY1YxaHJwYWFWbFR4R2hyVGdNTG1pZ0dJTlUxNTBaMHJxbTU2dE5iTkNBdmNJMHFTY2NUb011RF9IelRxeXFubW03ZkwyeTNja29NVVhIT2V2cGxaQ1cybUVXQjRoLXR2d3k4cGU1TncyWTNRVkczWWkwV3RnLUNOUnEtNDVfSDlTdE9hM1FPLVhBQ2pFWHhkeU9yd2JvdHBaQ0p0NDdKUlIyc3RPYjY0NFE2Qzd1eGVDQ0x3Z0lfWl9QVVNXRS13OGpfRlVxM0xWYTh4YlJpaFVsRWF5cXlnTVJsN3ppVjBXM1BIZHZ4UHBydHFtWXdoa2hCU1hzT3YzNF92QXcxUzJ3UlE?oc=5",
+   "source": "Business Wire",
+   "lane": "regulatory",
+   "published": "2026-10-15T12:31:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "bda57a5a8b7cb110",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "e6e1a9b637786128",
+   "title": "The Fallout From the ‘Neocloud’ Wipeout",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzZLalRKb2N6NGZSbWVpMTdZS2VFRjlMYXdfN1JwVXoxV3g4aDRQWk1JUzFnSDVrYjhRMEFZblpQaXE1RTNkaUs4WXd3c21zcnRhaWU5ckpkNG9tS2gtcVZ2YlVFbXM4MGNjMHZQeS0tSWNzWWRGZmNXWGxubjl4a0UyaWVrQUhId2FGc2kyMGo?oc=5",
+   "source": "The New York Times",
+   "lane": "takes",
+   "published": "2026-10-15T12:30:05+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "e6e1a9b637786128",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "3dec482551a6490d",
+   "title": "As prior auth becomes an AI ‘arms race,’ Otter Health raises $8M for a different approach",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVVxNGs5SlNMbU04YklhOXZ2UHhZZUJCdXJITU9MM3JNN2dCaEZyWC04alVKSm5TOWxiTUFMSnY1SXBremsxUmwwTmdDNC0xSTRmS3dnWEVXSGNGckplR3pTUGh4aGVrT3gwNnJUbjJUWXdVUnJoeUJyRV9tNUhyalNBYmFDYTdNb1VPSGFJUkx4WkdCcFc1d0VLejNqZkFNTjk4ZVlEUnFYUQ?oc=5",
+   "source": "Fierce Healthcare",
+   "lane": "deals",
+   "published": "2026-10-15T12:30:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "3dec482551a6490d",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "0c3e5ccb7e656c1f",
+   "title": "SimBioSys Secures FDA Clearance for TumorSight® Risk, Introducing the World's First AI-Powered, MRI-Derived Breast Cancer Recurrence Risk Assessment",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOeFVzMUd4TXhONkR1OGFYOTVxMGxOSFdic1l5d20tVWxfZW9QR1IzdFhVaXpiVEVzV1ZEQ2NLTjMxUEVSQ2JWSUtfYjRMaVFocjFvU2JWdnVKcXRzb3daTkxvUWZ6bkhTQlFKWU9udVF0bWdCN29TbFZvaDQ3cUFTUHpHM3VLcDlxX3FkTy02cDJEZjFsSGtQTTJ0VHA5WDBySkhUUV9aMDRRYjIzeURCU3ZpWFpGSjNQbnBQVEcwaTRWSG9oblQ5bjN2SjN4aHFRNENxSUZHT01semJwZ2xGeG0wVmV5UVdWajhlWXJmbVZSQWF1U0otWWRoT0VuSS1IeldwMjFhZnV0Qm9WZkJHVDdOZGVKUzY4Ylh0ei12bFpiQnhyTTNn?oc=5",
+   "source": "PR Newswire",
+   "lane": "regulatory",
+   "published": "2026-10-15T12:25:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "0c3e5ccb7e656c1f",
+   "coverage": 2,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "8249c6f8f479dfd4",
+   "title": "Eyonis to Present Clinical Evidence for AI-Powered Lung Cancer Screening at CHEST 2026",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFIzVkxDS3pVYUFtUUpDSExvLVdtTVZvUlllZnRUam96cjZnTjBhTWV5Rzk0emJoNnNpVlBZQnBJUUZ3XzdXWkx0bHZoTXVYLVYzTnJ6dEExQ2thNXY2bDI3VG8xMjZDbTdTTTdpbmhqZ2JxNUtyaHd6NFAyZGc2NTZETGhhZ2lISXkwNE9IOWQ4QjViRE5TVlNTNE4xUTlKOGxOdVFNbjlEOHJzWUt1QUFQVU5OWm1yVFhZUDBBTEk3U2FHVEwxSzNrVDNScWtzRmtzT3ppNzg3TklXLWMzYTJPMU01X1RDaUpweWJsTm0zQdIB9wFBVV95cUxNYjFCS1g1TTlHZHFwQkJrYU42VXo1N0pqZmtGVm41ZDlDYzl2TzV3cTE2NWNZRy13dWdwX2VRTFo0Qks1R01CbFY5ODlDUlF2SlFvUXNBRzhzTzNpelZjUVQ5dmNPQmFnY3lfOWxNOW04elJkYUt4d2IxOW5YMEdUaE93QkhncWpTbzdlZ0J3TWVLU1ZwQXpBaTdFeEZiQXk4cXBhdWczT1JwdkNNZWgxZmJGN1lZTzZBeDQ1WVAtZEhpZ2lpQ3pRckMzNjBZVTA2Q29SSXlzUTBiMjNvd01BbFE0WHhjakdjbjkyRzgtTWxvek1KRm93?oc=5",
+   "source": "The Manila Times",
+   "lane": "regulatory",
+   "published": "2026-10-15T12:20:30+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "8249c6f8f479dfd4",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "99f3ce7222d3c10f",
+   "title": "AMTZ Hosts MedTech RoboSprint 2026 to Support Medical Robotics Startups",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmVOM2ZNcHRwUHY0UUh6UXgzSDBSeWtXQnpfamlBU0hxeS1SOXdfS3Q4N1JXY1NIdUlEZ2diNDQ1SlFZOEpfWXVKYzZPd05LQ2ZjREczT1JXU1NJZVBTb3RKTVgzS0RXSW5UdDYxYkh2cTFSQURDeTREdkNZbTNxODYxdEdJS0RIVFJZMHpnUHlBaFg1THdoaHhTVXlQWVVPTHZzRE5qQlU?oc=5",
+   "source": "Machine Maker",
+   "lane": "deals",
+   "published": "2026-10-15T12:18:39+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "99f3ce7222d3c10f",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "6c42cc249ae5723d",
+   "title": "£3.7m NHS funding could create more dental appointments across Hampshire",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NT1JGU1JSN2lFQXRjVjBkRWJhUXdjRnpSTUpqMWpOYjFzSXBBVkFfZnVPT1ZIbnU4MmdMYVdMUGV0RlJURzJwYUt4dXhfaF9QanlLaUtOTnA3c1lKeEpGOXJUZzlPazMtTjlOVHN1X1k?oc=5",
+   "source": "Yahoo News UK",
+   "lane": "industry",
+   "published": "2026-10-15T12:14:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "6c42cc249ae5723d",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "c881227d204f5491",
+   "title": "Bio Essence Corporation Expands MediFlow Platform with Development of Practitioner-Specific AI and RAG Technology",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX3Bzb3ZMWGs0Um8tRXBWZEwyQlNVTVJJWnAySC16ZUdnUVdsaDRBc3RQdFlqTnp6SE1NeXRrTjJVU3VBZDE4Vko2WmFnTGdGMVJYRUdBNUZLcW94anRocEdsNUhKT1hnVHNnM3IwYlU3SkJGR25pSEtIeGpPb2x4MGJtYW9zeUMzTGc0YWRPckV5bW5UZ0VvcG1ubWlLMUpwXzdBMTVrZDVqU0FwRlBVaFdqajR3TVRmTXFmcUFYN2QxcEdLZnRDS0F1ZUlqb1gtZEF5STlROU1wZm11UjRLXzhrOHZxZ3JucktkNUt2bXA1LWFPTXhKZDRvUDd1X2s5SWZF?oc=5",
+   "source": "TradingView",
+   "lane": "deals",
+   "published": "2026-10-15T12:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "c881227d204f5491",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "219f8837d56057f3",
+   "title": "Specialty1 Partners Invests in Artificial Intelligence to Help Shape the Future of Specialty Dental Care",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVlJYVk5qVHR0N1hZTzdBOURXc0N3d3l4MWlPLU5wUmNMb2d0ZnQwOG5QUjROT1N4SUFrR29MaGVnY2RnQnVrRWFScGp1azhDQXRwSXhwaGotN0tpYldqdDJzaDN0SmRiYy14YzQzNFlXeFZMOTZrRzVWeUlwRWNZc0Y3WkZKQkktN0M3dWp3TlgyMlB3MlVDODVyb1JQRDlyaUNCejZOVXJJV3FOWkh3NHRYY0M5X0xEYmlWVGQ4djEzZElMQm45MzI0anhNSGFEWnF6a1hLajlXUFhvM0t1SzFPWFpoZTl5akdQMmNOVnlldw?oc=5",
+   "source": "PR Newswire",
+   "lane": "industry",
+   "published": "2026-10-15T12:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "219f8837d56057f3",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "dcc8054e21db9a85",
+   "title": "Iambic Therapeutics sets $16 IPO price, targets $150 million raise",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RWmtidG9zRzVGb1paVlc1V0MwbjJ3YWVBWmZuQlJDQ21YS1NMNC1zWE5hYUh2TkFBbmZUa19Db201LVdLRFhQQ0dwbThrbU1kRU9hVHY3LTB4VGZQY2tmcUNLNVNRdHllMUFWbw?oc=5",
+   "source": "Quartz",
+   "lane": "deals",
+   "published": "2026-10-15T11:55:14+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "dcc8054e21db9a85",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "c5dafe8d7e418df7",
+   "title": "AI Battlefield Season 2: Techcombank invests in the next generation of AI talent, contributing to the realization of the National Strategy on Artificial Intelligence.",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSkIzcUdYUDhoZkRmWURRRTc5TU1UMThGZUNPSmVMNnVYaUJFOWg2ZXNDTXVyZ29maHJ3OWRoaHliY3dIaE9qRzkxWmk2LWQwbGF6TDFWbE1MNlF5Z0dSWFE0TEdjZUs1b1JJdEVXNDNldzZoOENKRVpsRGM4M2xnZGhwSzlIX0NhVWlQa3NxV2tWLVl5TXZ2bDkxSmxKd3p6VHFNQk5uRmR3TDI0U2NFNzJSMEp5SkNDWGxPSzBsWWdQeHhDbnVOQW1PeU1ETjd2N0NsNzcxdC1zVG5CbTE4?oc=5",
+   "source": "Vietnam.vn",
+   "lane": "regulatory",
+   "published": "2026-10-15T11:54:40+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "c5dafe8d7e418df7",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "6ed8d5fce8db81e3",
+   "title": "Startup Abby Care raises $82 million to turn family members into paid caregivers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjluTXo5RTNidk9ISkFHWERjMU8wRHhrN1ZaRjhkaFQzc1hWczBYMUo4VGo5N2VUUHZVWUhSVVdwSW5jZWFtblA2eDhEMXY1WnZ2ZG5hcTdYNXlKYjFnN21sbUlDOWc2Z1p5TWZGQzZrRjk3Sl9pMGE1LVp5anJyMjJGOV9rYlNEQk5zZmdRdnBKTkVDdFBoYlNRYmtVNC1kOUNZTnlfblJ0eC1MZ2I2Qw?oc=5",
+   "source": "Fortune",
+   "lane": "takes",
+   "published": "2026-10-15T11:45:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "6ed8d5fce8db81e3",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "c3624d40a7d5f3a0",
+   "title": "The Role of Hospital Stewardship to Improve Outcomes and Manage Costs",
+   "summary": "[Sponsored] Panelists in the webinar, sponsored by Inovalon, will explore how near real-time surveillance, smart risk prioritization, and closed-loop intervention are shifting stewardship programs to proactive, technology-enabled decision-making that lets pharmacists work at the top of their license. The post The…",
+   "url": "https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/",
+   "source": "MedCity News",
+   "lane": "industry",
+   "published": "2026-10-15T11:30:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "c3624d40a7d5f3a0",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "a6b4da59bfb77921",
+   "title": "Confido Health Raises $12.5 Mn Series A Extension",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUldFRXVNZThfWUQzVmNNblpVQ0lDaWxGdEF1N1phYUxBaXczQXdDZ3YtNjdrZERxYlljeUR0c0NDWjBDZkdBODBfOEV5T1hENHFtX3BzUHdEZ2gxNXJJcFc3bS1SLVJWLWFOb3F6dmx6WlQ3T0MydnN0VkVkSW4yN3F0bGV1WlBKWm83Wk96aEJVVlhscXJDcGt1NA?oc=5",
+   "source": "Bharat Fast",
+   "lane": "deals",
+   "published": "2026-10-15T11:17:03+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "5860c728a1364563",
+   "coverage": 6,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "94ac2e216b977fc0",
+   "title": "The future of the UK dental market: five takeaways from the HealthInvestor UK Summit",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQm80UEsxcHN5SEFmTWRrRHVENmZfb0ZOWnJ5SV9Uc2hkZ3dYVWxQeU4wSURic0N5YW5wNDE4S0FRX21hX1ZNbGhGYlRFOFVGSTBvNGVOTWUwYXl0RGFJYmhHVXFNSm1PY2ZmYjlDV3pZaDQ2Qy1yX2NtX1ZlOURsdDlsR3htWVpmVEt6YXZJbWZTZlRETUd0d3Jn?oc=5",
+   "source": "Christie & Co",
+   "lane": "industry",
+   "published": "2026-10-15T11:14:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "94ac2e216b977fc0",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "a9cdc1b2c766881a",
+   "title": "Shellz India IPO GMP, Grey Market Premium Today",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSXJtSTF2N1JlNl9lZ3FxaGNCbDliZ2dDZjRBa0FLcjl2RWl6THQyNTlCX0hEWmFSdG9vMVhQRi1rMTBlODczd1EyWi1mTUU0X2pFR3VDZWd5c2dFa3JaX19LM1lkVXpIak1HTTBR?oc=5",
+   "source": "IPO Watch",
+   "lane": "deals",
+   "published": "2026-10-15T11:03:23+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-13T01:21:06.895033+00:00",
+   "cluster": "54c2ccdcf3a6e5bf",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "3585c0191d445971",
+   "title": "Undecimal Bio raises €16m to advance AI-powered RNA drug delivery",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVNLaVNlb3JlTTRsblc3QXNUWTdkSjNWVHZpM1M2ZHNhc1RQVE83NUppd1NfdmxHOWM0dlFXcUpwMmY1dGZ4b0E2dkRQaWtub21CNHd0aXVzS19aMDBfYzhUeW1xTjF5RTZnWDBaZnFYbmhYZ2ZKemRzRjVyMEU2enlNVkVfUHR2bm1MbjdIZ3N2Wms5dzNTSnpwcDJzRU5XanJZUGhCYkJBRzl1alg2Wg?oc=5",
+   "source": "Health Tech World",
+   "lane": "deals",
+   "published": "2026-10-15T11:02:53+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "3585c0191d445971",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "8bfe179adae67a6e",
+   "title": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech sectors - EU-Startups",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOGtSeXRDa3hSZ05lb25RRGIycEZsTFFJY05iZ1Z6bU1aZ2ttWDhoNDJYTDJTV2pjUDN3SDAxVmJGaW91WXprUjlIa29GWGZpM28yWGk2SE1QSDJxSWJMMlZxQzRtY0wzeGFocDFXOXFqYVFIWVUza0FHVDAxOTVJVE1UUnZCN09PNzJXR3piNmxBU0JhLVZWcXY4MVVkMkUzYlBuaGJ1Sm1HelB4ZGdkS2I3VS1sYzZLX0VQcWY3OXN3WkFqSWtzeXNObVIycnVOb0x6X1ozUUhHSkhYMTJydHVwOA?oc=5",
+   "source": "EU-Startups",
+   "lane": "deals",
+   "published": "2026-10-15T10:57:53+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "8bfe179adae67a6e",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "700ca9ea5b3c4caa",
+   "title": "Bonfiglioli Transmissions IPO GMP, Grey Market Premium Today",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Dc2VIZVdYcFhtQVNQWklFdnZXMV9yRzNSZDM5SG5SRC1FRUpka1JYUWI4VmlwZDI0NHdYVzVBMXVGUms0YVdzRUh2VmEzSl9wZkI1S2pNbFNCUS1KME5lTEhucmdsLVBrNmRWYQ?oc=5",
+   "source": "IPO Watch",
+   "lane": "deals",
+   "published": "2026-10-15T10:57:28+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-13T17:35:52.695800+00:00",
+   "cluster": "54c2ccdcf3a6e5bf",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "4b39a9b6c7e34669",
+   "title": "FMD - PharosAI awarded funding to explore AI ‘digital twins’ of human tissue",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQldTaTFVVlBwVWhhU0ltcjU4WTU0bzNDOVduemVSeGZtbU9TMzVTdHhMbnNEOUpBakZQMkVlYWRmSTVXY0poTkgtQ0VHX2VmNVVvMUFyYmJ5VzlqOXQ4N1hUeS1haWNKdkZxUkxfQ1pKLTdES3BpNlJleWNtVDJ5X3BrSzdGOUVCb1d2d3ZVeXByOWtHMmx5cDlGWUVtRVF4UUZsUEJUd01wWTVQUGV3bDdtYlcwblp5cy1SYXZCMFdEUnlGZlFtRmhtQ3M5ZGhmZFJaWENvZkZDN0kwZFE?oc=5",
+   "source": "Queen Mary University of London",
+   "lane": "industry",
+   "published": "2026-10-15T10:55:22+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "4b39a9b6c7e34669",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "c3a94acd7c69dadb",
+   "title": "Fusion CX IPO Date, Review, Price, Allotment Details",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UcFlHN2lJTE91T2N2QWVndEllUm9SV1FTWGpKdmVQaWo5TWQ0RmN4Rk9yTEY3RDloSl9aSGhIYzh2aG5lejBka3dR?oc=5",
+   "source": "IPO Watch",
+   "lane": "deals",
+   "published": "2026-10-15T10:53:20+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-11T12:48:50.615556+00:00",
+   "cluster": "950b727563c632e4",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "e490643b283a0416",
+   "title": "LCMD explores how AI could reshape healthcare and dental education",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ1dOYzlCTTg0RW1rWjY5WXZPQjdFNS1JTVVRTW9DaTdmOF9uS0RFYUVTTHJreDM1bGw0Z21sWHNEYlF5QVpyS1BCMVFVZ0NFYW0xTHVRMkJkVVZPU1BqbnpsZXJCaENvS2FBUWZrcmZXVl9tR1l3RUhZYjlGNFEwcmRONjNpSUpIc1JCX3lxMDRlVDR2QVdvbnEwR3jSAZwBQVVfeXFMTmdXTmM5Qk04NEVta1o2OVl2T0I3RTUtSU1VUU1vQ2k3ZjhfbktERWFFU0xya3gzNWxsNGdtbFhzRGJReUFacktQQjFRVWdDRWFtMUx1UTJCZFVWT1NQam56bGVyQmhDb0thQVFma3JmV1ZfbUdZd0VIWWI5RjRRMHJkTjYzaUlKSHNSQl95cTA0ZVQ0dkFXb25xMEd4?oc=5",
+   "source": "Dental News",
+   "lane": "industry",
+   "published": "2026-10-15T10:49:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "e490643b283a0416",
+   "coverage": 1,
+   "heat": 3,
+   "dental": true
+  },
+  {
+   "id": "3ccb79f0eb82a454",
+   "title": "ToothLens Expands Across Plum, Loop, Pazcare, and Onsurity as Dental Emerges as a New Frontier in Employee Health Insurance",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQNTQtajBVako5T01sVEJYbnYwX1N5WHhQYlN0d3RuSHd0WUx6SElPVFAwYW9iLVl6MDZCMFFQcFJMN04yaE9YdE44ZHZNV0xBcUlrNzZNNms5WTJ5S1ZuWmVuTi1rR3VrUENMbmtkUmVJWU4wQ0d0UUJTcXJuMFppb3hVb1JLdzNOaU5sVXdhMnUzRmhIQkJCUzJOeHVyeGF4cE1LVS12MV93VHNYcFZCeE8tZjBJbmxfQV9yc1lLZHhwTms3ZF9GVVRNYW5kMnJMUEdLWk9scWZMNWJzTUtMUWVsb2JlcE5UUDFTcTVmUDk3TnRrMDVnVXpvMWZQMDhZOEhYcHlsNFNSd0R5OEpzT1FKcVhqS0JhVWloV3lXMWlQV2czZ3ZHZUM3dXdvZ9IBrgJBVV95cUxQNTQtajBVako5T01sVEJYbnYwX1N5WHhQYlN0d3RuSHd0WUx6SElPVFAwYW9iLVl6MDZCMFFQcFJMN04yaE9YdE44ZHZNV0xBcUlrNzZNNms5WTJ5S1ZuWmVuTi1rR3VrUENMbmtkUmVJWU4wQ0d0UUJTcXJuMFppb3hVb1JLdzNOaU5sVXdhMnUzRmhIQkJCUzJOeHVyeGF4cE1LVS12MV93VHNYcFZCeE8tZjBJbmxfQV9yc1lLZHhwTms3ZF9GVVRNYW5kMnJMUEdLWk9scWZMNWJzTUtMUWVsb2JlcE5UUDFTcTVmUDk3TnRrMDVnVXpvMWZQMDhZOEhYcHlsNFNSd0R5OEpzT1FKcVhqS0JhVWloV3lXMWlQV2czZ3ZHZUM3dXdvZw?oc=5",
+   "source": "Business Standard",
+   "lane": "industry",
+   "published": "2026-10-15T10:45:05+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "3ccb79f0eb82a454",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "3a0e9caf51633db2",
+   "title": "HD Fire Protect IPO GMP, Grey Market Premium Today",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VOGRuTFcwV2RrZzVjM2xUWnRLNkpfVHBNRXQtUlRxdlB3QzF1T2Rlem9tcE1kUkNQNDYweVppaTllSnRUR2ljMTZXa2NDMHdnZW1PVGxCRUJBSUNLcDVQeW1nVnYyUFlQc29mbmRTRmtNZw?oc=5",
+   "source": "IPO Watch",
+   "lane": "deals",
+   "published": "2026-10-15T10:41:19+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-12T09:11:33.423597+00:00",
+   "cluster": "54c2ccdcf3a6e5bf",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "48eb971ba1e5d1d3",
+   "title": "AstraZeneca strikes $40 million AI drug discovery deal with insitro",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDdfb3pRbDFRdVZHbzI4aERvTXZwWUVGOXk5YkU5bDhWR2NWUXZFcGJqQXpFeVQ0aHk0T3hONkpvY2lISjZpTVJUUHpraUpic1lMY0czYUhQanhaWWNtVlNfRkJ1ZVJlYzZvVmdlTk5fUlYwNTVfVmVHRHhfZV8xa2RBajZnWmEycGdiYXo4ZzlSRmVLTnVjZzZKMEh5QW5nXzI4YmhqOERGcUNLcEZyR2tJSGxlUndtMDgtQkFtN21QVGhkUVM0RWFkLUhaUmNS0gHWAUFVX3lxTE83UWxfTVFwejQwV0YzR05KdzR1X3R6OWhGalBwN2JPdUROOWpNY0hndk1rcFZXd2pXcjl4T2tqa21NTUR5MUh3QkdjR1J5c2dZMklzdk9fMktvVmswQ0IycnFhUUItb3BIZlNUQWg3RGRxYktsWU50TjRqTTFCdkRnSnlLNWRpUDY2RkpXX3BOYzdFczFyanlqV2dkdWRuWkpZVkxMd1BJN0pOczJ4d2NENk5HbHR3cmphdml0dzJTRXh5S1RLS18wb2YwVmxueFZKUG9zU2c?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-15T10:30:42+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "48eb971ba1e5d1d3",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "63387fcb0858d628",
+   "title": "STAT+: On Wall Street, there’s trouble stirring for biotech",
+   "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.",
+   "url": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
+   "source": "STAT",
+   "lane": "industry",
+   "published": "2026-10-15T10:30:00+00:00",
+   "tier": 1,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "63387fcb0858d628",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "acb1c35ff88acb72",
+   "title": "Andreessen Horowitz lays off majority of portfolio recruiting team",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEY4TTFQQ3lfbjNGVzFZMWtyV0pOTTJVYWFuQVNvZWNVdEhVcFN2TlhZOXFaQ1NXOEtTR1hMd3BVVWlkSHVRQnpXcGlKSWZfNzZBU24zMEc5WC0wS1Z5ZnBVWHQ1a2pXOWJnZkJ6MUt0dVh0RV9UbjhCaXdITS12M20zYmQtU2hvSTYxOTJtdHMyTW8xcEFrWWZraGExY0ZoOXRVRlZ3eXB3WEwxbWlzLUFxaXRUdVVDUXIzNDg4cjFqX19lb1hFX0ZLOTdtWXdVUmfSAdcBQVVfeXFMT2NDVEt6RXliZ2ExOW5qT3dNNmVMRU9TMVlTSVQ1WjhzLW8wTWo0WkQ0bGNNWDVYTVV2Y3F5RHl6SUZoZEk1R1dEOGEzZjM0V1ZIMkc0WTB2UXNPcnNUUnAwdFZhRms1WnFlcVVubmVtT1BZTW9PVkV6RHRRQ0Q4aWxhU0lRSHh4X2RsSDdieEN6MUpYaHFDV0xIM2FLVG5PUHM0SWx3SlczM29uNXZNVVNqc0xDNkdiaFVLXzZ2VWFzSmpFamFZNEd4bmlmREJ2dmRRQlVoajQ?oc=5",
+   "source": "The Economic Times",
+   "lane": "takes",
+   "published": "2026-10-15T10:26:02+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "dc0fcfb67fc53c7a",
+   "coverage": 2,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "0a73f7848b610a21",
+   "title": "Collective X Raises $3.2M to Build Data Infrastructure for Women’s Health",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0NFLV9nTHdKRG9Cakx2VmF3VFhJRnZHVGtQTVVjZXBpaU9KNmhmT3dKRXJpU0hiaVJ5N09JMmlrMG9vbm1zSFd0Qm1sOEdfX3prVEFncWFhSzhVdmE1Z2FCZGpXOEh6eXVsU1ZxMEE2aExxcHB0ejJ2MGhqaGlkakFwV1VrWFRPNHlZR1lLaG1wS1RndkpLa01IUzZld05Md29LeHpfMmNwVUJMWldB?oc=5",
+   "source": "citybiz",
+   "lane": "deals",
+   "published": "2026-10-15T10:23:49+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "ab5f5476f40d82c3",
+   "coverage": 2,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "43ff1fdda2d93983",
+   "title": "AI healthcare startup Confido Health raises $12.5 million in funding led by Z47",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUM1SzV4OEJ6LVE2dlQzWU5DMTFLVkJ0WFl3NFVTUjJQSGpfWWgzZzgzajRUUU1GWGpabkhzYy1MZjltNFhHQldxT1lhUEFja2ZKNTc1MFFZVFB5MUdEOEJCOGhjY1RUd3hja0pzZnN1S1pFR25Ob0NoNVBKS0NwaHhCX1lTVmtLdTlYWXhMa25kUGlqVjAzTzVCVDQ4WU9kZ0NaQ193UUVDX1V2T3lCdXBHQk0yMUdxN1Z2NUowQ2NRQdIBwgFBVV95cUxPOUM1SzV4OEJ6LVE2dlQzWU5DMTFLVkJ0WFl3NFVTUjJQSGpfWWgzZzgzajRUUU1GWGpabkhzYy1MZjltNFhHQldxT1lhUEFja2ZKNTc1MFFZVFB5MUdEOEJCOGhjY1RUd3hja0pzZnN1S1pFR25Ob0NoNVBKS0NwaHhCX1lTVmtLdTlYWXhMa25kUGlqVjAzTzVCVDQ4WU9kZ0NaQ193UUVDX1V2T3lCdXBHQk0yMUdxN1Z2NUowQ2NRQQ?oc=5",
+   "source": "Indian Startup News",
+   "lane": "deals",
+   "published": "2026-10-15T10:22:58+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "5860c728a1364563",
+   "coverage": 6,
+   "heat": 4,
+   "dental": false
+  },
+  {
+   "id": "0a120c79d8e659d7",
+   "title": "Charges for Inpatient Neurologic Care Outpace Medicare Reimbursement",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PX2dycFJEM3FkemQ1ZzJwY05WeFBYTml1ZmtWMDE0TjRCc2tua095c0VtNTltRTNoanl3NlNXNkpxR2dnZFBhOTJTM0Qza01JTlhOY3VnbnhlR2huM2pWU0dieHM1SDhCNE16cldkV2hva2dwTkQzTw?oc=5",
+   "source": "Neurology Today",
+   "lane": "regulatory",
+   "published": "2026-10-15T10:19:13+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "0a120c79d8e659d7",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "bb8a72c88ebbed24",
+   "title": "Rising Healthcare Costs Squeeze Low-Income and Wealthy Voters Alike",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWJEaWtxWW1TUkFlUkJGc0ZnallXQ0RyTnNOSUR3bjhCelZhVF9PcmMtSy1CNzlSYXNsRERxQm91U3pzR0hZeFM0aS1sQkVxaGlWT2g1VUFUTGZoY0YtcGRUbUNVVDZKT0ZKcGlsM1dpbmpabFpsY0tvYkNxLVRZVzlXS2tzOThHWDNYeUxzZEV3bHBnRlZNc3dHU1VnSFlSZDNQMEtTLURGLXpXZGY5SU92QzlvS3A5bm5sN2dDb0U4UERtWVE?oc=5",
+   "source": "Bloomberg.com",
+   "lane": "industry",
+   "published": "2026-10-15T10:15:33+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "bb8a72c88ebbed24",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "fb48dfab14a51767",
+   "title": "AI could expand access to weight loss drugs and improve patient outcomes, expert says",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmlCazRYaHkxdWxMeEdSRmFRdXBWTWg5U0FsLWpyWUIzRVU4QXVWaV80MHloNDA5VzF6cHA5YUFES1REY29SRlhtRXdrTWpqZ1ZKcXFhd1JBeDNLbVlBQWdldGNzdHhuNTlHTUd2dmtndmtxSHJEVV9SS0I5X0pDX3BLT0RwUHkxWDdPd2pqeFhBTFowWndjeHJDYVhxd2Y5TjRkbWF2Y1puY01ua0FQRHR3c1ZGZw?oc=5",
+   "source": "Health Tech World",
+   "lane": "deals",
+   "published": "2026-10-15T10:12:08+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "fb48dfab14a51767",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "e3b4447931496447",
+   "title": "Pro Medicus (ASX:PME): Commercial Rollouts of Dedicated AI Breast Density and Cardiology Algorithms?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXFfckItOFlKMXdIYW94QU1nOFVBWlR1bnFlLUgzbkJqYlIyM2tyeDU4Rks4bGdTT193cTdWOFVMTTNQMGlIQ1VqQWZscTVOT3hBUEtJWko1dU9ueFR2ZDV1aV9ZN3hQOWdZQktTNzVKX19vekhVTUR5X2JxcmQ3czdEWTZUZDVGQmVTaGFjWmpTbUZkanh2WlBHVmVBejY1RFB4MWNsVmt5eWtmYmE2U3dUSEV0enNCRU92SE5pMjc3MDBRRXhob2tQa0JzN0E?oc=5",
+   "source": "Kalkine",
+   "lane": "regulatory",
+   "published": "2026-10-15T10:05:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "e3b4447931496447",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "3aacac5d3c18a6ae",
+   "title": "From chart to insight: Practical data science for the dental practice",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjEtZ005eHNhdk9jcjNMMkp3SFluTnFlVU9QTHVseW1hTGZHMl85aE42ZmJJV3VDRTd4cmhEbXVFVUdCRm1jWVkxQzV6MkxlR0I3eGdOZ1VycU0xY1hWT1h6d0NfMlVmcVVjNFk3bExtZ3BEMXEtSEJweHVnNHpDdGQxS3dsZzhEOTEzM0VoLVd2NmxQTTF3eWdRSTBad0ZMcGhBT0RBdXJQdV8zNVRz?oc=5",
+   "source": "Oral Health Group",
+   "lane": "industry",
+   "published": "2026-10-15T10:05:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "3aacac5d3c18a6ae",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "7f255e2557880333",
+   "title": "Paras Healthcare Fixes INR 660-693 Price Band for INR 1,450 Cr IPO",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG5RRG51M09Rbno3M3ZxU2NKSFdZd1JGRkhMdXlzS0QyRzFueTZjeUtSZnBkMmlHbWtiRXJ6NUxnQk5QZzhVV0gwYzRhLS1rYUVhcmhyQ2pFSTRoMDBFQmJZR3J2SmFEQ3lvS2FtVVE5RE1STnQ3bU9sUExtY0ZlZlBQdmV3U0xIQzRTTTNJdmJsMkZIREdVZEZaTkhreE05dFE?oc=5",
+   "source": "Digital Health News",
+   "lane": "deals",
+   "published": "2026-10-15T10:04:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "c623f4443bcf82a8",
+   "coverage": 6,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "06faf3cc2a1e22c8",
+   "title": "Finnish biotech raises 28 million euros for next-generation allergy treatments",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZXk5U1l4ZFN1bDJFQ0JLX0xmNm9rclhoR2RmQVJScnQ2UkhLM0padVFPLXkyU2dHemZLTGw4LVlsUmdWZl81NHFHaS1qbEtOZWVLdGVPT0NyNmpobVpYcHhyUWw1c2g4aVg2ekJpMWZ2elgxdzBVaG1KTlh3NWRZNng4b0FSOVN3NmRWTk5qM2lfZ0g4SFpYYnNJZDJ5RWRTNG9YcmI0Qmo1S0tBYy1PZTVCaThpd0VRTzNVdlZtSktFd2tDaXU0NFJ2Zw?oc=5",
+   "source": "lifesciencesweden.se",
+   "lane": "deals",
+   "published": "2026-10-15T09:59:28+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "06faf3cc2a1e22c8",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "d58a7b2aecf741f2",
+   "title": "Johnson & Johnson Raises 2026 Outlook After Q3",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1NGNi1yeWhpWmdPM3E3SXNfY2xNNFN5bjI4X3JObE45UXVqZWIzNTVvbjlUbWJuV3I0ODZVOGdDdHZfVWpuekZBbnZCSkM3QlpVLWpXRjhGU2dDclFRNC1rSTFaTGJXQ0Z2RkFwNVFQYnc0cV9ad3F0c1hNSEdnUGl4S01IaVJxZ0lyR005bDE?oc=5",
+   "source": "Value The Markets",
+   "lane": "deals",
+   "published": "2026-10-15T09:45:29+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "13316fe7ce543e07",
+   "coverage": 6,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "98652e51c5bd4583",
+   "title": "GSK to cut 1,200 jobs in Belgium",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXV4ZFA1ZEJuR2xvUEc3V1FGdXVLeW1XTTh4aVNtYUpTc1lVRjROV2pEZDRqa3VHNW5xMEppbFNweWFQQW41dnMwenJkM25IZnYzajJkY1Bnb2tSeGxXSjhlWFlVTTJQdEVfX1ZJbmVHcGRQSnp0Z09tRDNQTVBtR19nMmxneDJmS1M4RVJ3?oc=5",
+   "source": "lifesciencesweden.se",
+   "lane": "deals",
+   "published": "2026-10-15T09:40:06+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "fcc173b26a51ad92",
+   "coverage": 2,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "4ef87546f15f6f35",
+   "title": "REMED Raises KRW 10 Billion via Convertible Bonds to Fund Global Neurotech Expansion",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNS2lhd2hvaDBiZklvWEpyQTdIbDQ3aXhIRzRqTG1RZUNCRFpYOVhXSVJFMHlLVGduYkRYR3RqUVl4T1c2TGxVakpqMzJSSTVzUmxJRzhEaHd4aFVhRmpOeEVXbmFGc3k5VjJpN0VXdlBuTjZQV2VNaE9KTkJKM3lSX1pQTkF0Wk5ZV1BjTkJMUVl4Y2pyNHZ0UDF4bjlPYjRrWW9IcFpGc08yN3Q1V1BBZkprOUxPSV8tNnhCX1ROVDVaUVhPek53bm9YSFNuWlNaWkdqclNTekJuU2lhaFk3VFdsdnhRR3ZIcnRpd0tVekNlMUsybS1SMw?oc=5",
+   "source": "The Globe and Mail",
+   "lane": "deals",
+   "published": "2026-10-15T09:34:14+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "4ef87546f15f6f35",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "aba681995964899d",
+   "title": "5G in Healthcare Market to Reach USD 308.24 Billion by 2033,",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHJzYS1JTk4yYTZVWnA1WW93T1JUWXJjYmFIY3FWRFE5cGxLM0ZEeXdRaHl1MXQ0V3RPTGlmQXliaGg2Tk9jVklHNlZaT2ZsSmhwd05DMGVndUlHV0d3ZGllRlV4OU92bUhqOHpIS01vUlRmUTdEVjlMY3diVEw3dk5zMGllMHdCMW1NeVRORm9EekYtZTFhb2xLcw?oc=5",
+   "source": "openPR.com",
+   "lane": "deals",
+   "published": "2026-10-15T09:19:22+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "aba681995964899d",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "84b103b15d9a4bdb",
+   "title": "AI in Medical Imaging Market to Reach USD 17.50 Billion by 2035,",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOFJVRU1wRm9sZEtLZk8xM1hQQ0RLdG1kN1NKU1BzU0ViaU5hcFpteUpPZW5fR1djOTQ1Q1B6UEdLZkVOU1dUUnNJeWxPV3ZQNUh5cDE5OW1CLTB1WnlHbS05d0JMVzVfb2VTQ1FkcHhmc1ZqSDlqNTRDN09LU2didnE4UTVKdFVvOVlZNGhaSHNwR0dBSE5YQkxqRHhRUGdh?oc=5",
+   "source": "openPR.com",
+   "lane": "regulatory",
+   "published": "2026-10-15T09:11:33+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "dafb06db99dbf988",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "128958bf88ee7749",
+   "title": "BPL Medical Technologies Acquires Majority Stake in Medec International",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZEdaZURVSEY4eWlfTnV4d2szOFBWWTFxQzh5ck41YXhjcFoxX0k1RmlLMV81UFRsejdIRUpLVTdVakwzX3BWcGVuNkEtNmVHeEtNeHpLLTRyaENLSmhkMTA4dXU0Q2JUT2JvYWhwZmxfSEhqVWVFMy1WWEF3MzFQWmx3a2ZIOHpBalA0NW5Zcng3RkJDTXNHMjZvdXF0LTFFRXlEZTJ5MTk?oc=5",
+   "source": "Digital Health News",
+   "lane": "deals",
+   "published": "2026-10-15T09:08:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "c8d3c92f90943dc7",
+   "coverage": 3,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "05707a82db0f3e36",
+   "title": "Why FDA clearance matters for DiaSorin stock - ad-hoc-news.de",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2M3UVVReGVMMWszMWZKYnFNU0VkLWdOXzRwWS1pVUZuOFAyUW9uRVNGSFk2bUk2MFZLUWRxVS1OYUx4S0lBdk50QjltRXp2VWxZemg4cTNsZnlwTHhkUzZjck1MRWRfbWpWVmJzUmF0eUkyQ3VFWFpQZVBObnFhazdhVTJiaDY0V29JRGFpVGNnSHlRa0lDREtYamtsNDZxUVlZWTFpUUZVaTA?oc=5",
+   "source": "ad-hoc-news.de",
+   "lane": "regulatory",
+   "published": "2026-10-15T08:56:47+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "8e5ccc2c996efb5d",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "82b9f01ff552d25f",
+   "title": "AI Battleground Season 2: Received nearly 1,000 applications, 100 outstanding teams.",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHg2QVRwMDMxeU1OMG1hODEtZU83OUZFNzhJeGNvWnBNVHpheG9aYk1FSnkyUTdKX21RNFluUmp5OUs0bmhGbnZOb3RjMGFib0xSaThJMzVJY0VpbXFVdU42RU1oX2dOR3E3SHJXMUdudEk0RXVwZy1fdmJsc2tlOUZpV3ZNanp3UTRhLUlQUQ?oc=5",
+   "source": "Vietnam.vn",
+   "lane": "regulatory",
+   "published": "2026-10-15T08:56:13+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "82b9f01ff552d25f",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "28c7847371bf3f6e",
+   "title": "Modus shares halve after safety-related trial pause",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1F6NHE2bXJGeENBUnBCczdfZlQ5c3dSdjVNNW5sYS15M2Y3QktuaHI5c0tpaHhBYy1HV2t1Q3RRZWdnOGRtNlZ3RWNOUXlVczcwWUk3NXJhX2FHeGRTaGJvQlR2cERKNXdvR2pCMW1zVVE4elZvSDBELWQ3N0gzZ0pYOTl3TVpBVklHUnpZSkRYN1JmeUlhU3JLVHFBUGhXdmhuLVlpRQ?oc=5",
+   "source": "lifesciencesweden.se",
+   "lane": "deals",
+   "published": "2026-10-15T08:39:11+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "28c7847371bf3f6e",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "52e29dd672147543",
+   "title": "BrightSpring Health Services (BTSG) Lifts 2026 Outlook Again Following Integration Progress And Valuation Debate",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYzd1Z0dpWDRMZUlyYjNjNGNWdTRxU2tNZklWNEZhLVQ5UTZMalNCdG5PZEtWSFFWS1g1R1B3Rk50ZUdaYk45U2t2dmhkRnFoUXppZG5US0F2U1VaWW84Y3hCTk5TVTNTM1ROdGdOalFUNktGdmpGUWZYUEZDMkJoUEtWeExNLW0wbV9ZSTVnUmJwWHhveDRDTW51MXNWNzduTWY4QXRSZGpVQmN0M1IwUkViOHg3eGhTWF9fOFduT0JwRkZSYWU0VXNXeXh3cjNIS2JCc3V2MmhHRXRuVzQ2cEV4NjdUNGs10gHoAUFVX3lxTE1jN3VnR2lYNExlSXJiM2M0Y1Z1NHFTa01mSVY0RmEtVDlRNkxqU0J0bk9kS1ZIUVZLWDVHUHdGTnRlR1piTjlTa3Z2aGRGcWhRemlkblRLQXZTVVpZbzhjeEJOTlNVM1MzVE50Z05qUVQ2S0Z2akZRZlhQRkMyQmhQS1Z4TE0tbTBtX1lJNWdSYnBYeG94NENNbnUxc1Y3N25NZjhBdFJkalVCY3QzUjBSRWI4eDd4aFNYX184V25PQnBGRlJhZTRVc1d5eHdyM0hLYkJzdXYyaEdFdG5XNDZwRXg2N1Q0azU?oc=5",
+   "source": "Simply Wall Street",
+   "lane": "deals",
+   "published": "2026-10-15T08:37:39+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "52e29dd672147543",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "d8471ac8be5a3bc8",
+   "title": "Digital Health Africa 2025 Identifies Infrastructure and Policy Gaps as Barriers to Scaling Medical Technology",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNWw3ZzdpdWdVeTYyYnNXdTU1d0tKcmdDM1EtX0VHOWFmeFZYM0hCa2dPeVczYmVNdERhYnNoZUNTTFFHcEtBSGlwRlFYWi0tNmFyMkNWYU9FQ0JUeVFLTWRRN2FIczZsR1hfZTA5Y1NTU2dWR1E5QU9sTzZ6ZExTOHpmUzFtekx3R0JNV0Z5a004ZzJ5QkdrdkhSN1pBYThVVGZHak5YTnN3ZnNnQXF3Q1hOczNpQUo1czNZTVlYc21iVFloU0hmSF90MC1nSktWTkVIRQ?oc=5",
+   "source": "GeneOnline",
+   "lane": "deals",
+   "published": "2026-10-15T08:34:37+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "d8471ac8be5a3bc8",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "3f9b0aa584ee10a7",
+   "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+   "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.",
+   "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
+   "source": "STAT",
+   "lane": "industry",
+   "published": "2026-10-15T08:30:00+00:00",
+   "tier": 1,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "3f9b0aa584ee10a7",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "8febeac3d7e70b8e",
+   "title": "Zealand Pharma enters partnerships worth up to USD 1.2 bn",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalF4bG51eWtFSGp2U0lISGYwZ29yMlcyb1Zya2hMZDN1cG9CdDBtdzFZYm5oRlFLOWNKUlY2eS15d2x5Z0lYbWZuRkhhbEM5QUJRdjVCMWZwRnE2LUtLUWV5TTNDUE83WEY0N1BheVZFZXNDWnI3RUtXZjUxVnBkdmVsRTA2Y2FnT1RCc252MXRBcy1xSndwMEFoLXZnNXZiTUhYUkp3a1U4UHhGaVc4?oc=5",
+   "source": "lifesciencesweden.se",
+   "lane": "deals",
+   "published": "2026-10-15T08:29:41+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "8febeac3d7e70b8e",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "4f93eb80f1646812",
+   "title": "Swedish Life Science industry needs more than another funding wish list",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTTh4THBlU2pyUjVCWHlWWGEyM01WajhGM2lCNDJQOUtfTWw3cS1nMndoZXZ0blpxV3JFNEh3UHRsZlNuZHRWSEVpUnRBMkM3WlBuUXEwN0xaYXpJWDdWSFJLdnpoUXl2cDJDeUJWSXBXTHpScktWbmF5Q0QxeFlEVlh5NGplQkNvam1zb1lYeWV0bWxjMTJwSmhsSW9VOElwVGtOVl9oaFJFQmJEajVwU1ZkSEhJVHBxSFc5TGpEZk43RDg?oc=5",
+   "source": "www.lifesciencefocus.com",
+   "lane": "deals",
+   "published": "2026-10-15T08:25:02+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "4f93eb80f1646812",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "0d11c4ffc4e1840e",
+   "title": "Pennsylvania brothers facing 400 years for racketeering conspiracy, $32M Medicaid fraud; RFK Jr. undergoes surgery; GLP-1 users still love chocolate treats – Morning Medical Update",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNa29PbGRPUkhYcEVJRlhGbVdPNU1OWHVVcFp5b2Q5U0xxLUdGWHJqQkw3Mks4Qm9fWjFYN2RrUnU3MF9PN0Q0cUZyY1N5b3AwVWpmcldhRlB4blQwb0ZteUdRRVBwdWhoNTB1ZERQZDhlMHB3aEpHMFJ5bWdEZXdqQl9mN0U2blduVmpndFlYVUdMdHVLX3l0bVJqX1RpeVZrSG5ITThsOWZqaHVlRlZGMzdlUkkydFpfZFdid21FbVctLWZReTRoOVJaNXIyZHk2VnRpRW15TlJDdTg4NUk2NVN5cVk5bFZCWjJ4T2hfLUoyUkc2S04xdlQzc255eVg2N1R5aXZSeFBHMHZBbWpmeEpHRHNpRHdrZ0VOa0JpdTBuY2NkMjBMQXhaWXB3MnFmLUdPeE1B?oc=5",
+   "source": "Medical Economics",
+   "lane": "industry",
+   "published": "2026-10-15T08:20:37+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-07T17:26:45.145733+00:00",
+   "cluster": "0d11c4ffc4e1840e",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "3506ec1e0146b464",
+   "title": "AI Ghost Stories, Suki, and the Funding Hype Cycle",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQUdRYXdzeGVUU2pfdzI5Q0dteFgyT0QtOTZTdldfdU9valRtdTJSQVE4NUd1YktMdjFJcnNqVXJ6RmhKdXUzSnItU3lVR01CeDRDdGd5aWRUVHcyUXVxTkxiRDF6amowdVd6S2FTVU9NSEJldElBdnBoZTZSUl80NGNaLXA1S2RuUGpWUm4yU0RpdGxX?oc=5",
+   "source": "Digital Health Wire",
+   "lane": "deals",
+   "published": "2026-10-15T08:11:05+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "3506ec1e0146b464",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "706ea43e6ea82796",
+   "title": "PB Health Opens First 100-Bed Multispecialty Hospital in Gurugram",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0xtYTdDNUR5MmxQTllTbk1iWUNpTGNUdXFXSmNuOWRybWozaHR0aU1ubWJ3Znk5NVN3ZDdaY1JuNjV4TkpUQXY2WE8zR2xVdFBRSWhWcVp6dEliZUQyMWJJZGtBbk4wc1E2ZEZfczJlNEF4NVdRRndpRThYNkhNVjhwRXUwWHplZnNYeFRoXzQ0OUhXSUplV2kzVHNzME15?oc=5",
+   "source": "Digital Health News",
+   "lane": "deals",
+   "published": "2026-10-15T08:04:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "706ea43e6ea82796",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "727264d0cf735210",
+   "title": "Iambic snags $150M IPO for AI-driven cancer pipeline",
+   "summary": "Nvidia-backed Iambic Therapeutics will begin trading Thursday after pricing its $150 million initial public offering Wednesday night. The cancer-focused biotech sold 9.38 million shares {$IAM} at $16 apiece. The float adds ...",
+   "url": "https://endpoints.news/iambic-snags-150m-ipo-for-ai-driven-cancer-pipeline/",
+   "source": "Endpoints News",
+   "lane": "deals",
+   "published": "2026-10-15T08:01:53+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "727264d0cf735210",
+   "coverage": 1,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "b9eb48ef52475e77",
+   "title": "Healthcare Activos acquires two mental health clinics in Germany for more than €50 million - Capital-Riesgo.es",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHdHNWpfR1Vvcm9BQklaNHdvaDcyaEx4aU05QXlrYktFel9IV1luSG1FSDJpZnBpcTdwM3pQNXVwRFpIT0xTX2Rlc1N1TktIY05ZbDduc0JMVlkxZUJnTThCY01DR2lEZ0lMdnVqTlFfV2dteFJPMUQwdzM4M0FabEt2VVZjR2VwVlY0ZkFyODg1WnRhNlQwLS15YjNfNzgweXFEdnRkc3I0ZXRPWGpFOXJiOGkyUU91OHVkTjVfaU5iS3JzaVg4?oc=5",
+   "source": "Capital-Riesgo.es",
+   "lane": "deals",
+   "published": "2026-10-15T07:59:10+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "b9eb48ef52475e77",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "75f15ce517661a4b",
+   "title": "Generate, Zealand Sign $1.2B AI Drug Deal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMTdVSmJVT0loeHZnRlotcjlOTU1hWTJRN2JQTl9mWE92SmlrVDZoMjZwSTRBRVczb3BjRjhXdGF4aHlacWNaQTdBRDMtOFpRdlNOUjhrNUcwWUNPcDlIdlJiX2JQdVY0WjloTjJVTzZkN2p5TldGN2FSSzkxbXRxZVpreFRPa1ZvSlkyWjlkZkgtaDhSSWtYRTZBdmxTNlF4enFydTJSOXZyRFBVcndVbXZ2T0NKckpnVW4tVGhwN0loVFhfYzhzNnE4akp6d2RaNG9BMUl4S0U?oc=5",
+   "source": "Voice of Healthcare",
+   "lane": "industry",
+   "published": "2026-10-15T07:40:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "6daeb39e813e4653",
+   "coverage": 4,
+   "heat": 5,
+   "dental": false
+  },
+  {
+   "id": "b7a89c7d7fabd2c0",
+   "title": "Rush, Endeavor Health plan merger to form 12-hospital system",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjNXZ0ZVOXBuODYwRTZ4Rjg4V21GNVZpTFpkQjduaUVMN05sQ200ZWJDRUY3emFBdzRfOU80YmpiOGhPTHhUS2JtdS1SQjB4MG94NFlQVnkwX1NyeHV2dkI2d2NaRVdpTXpld2I4YzMxVkNBVlN6RklEU0ZoNjNCSjFRZkM2R1dvNDZXTWpFblpGNGZlQWphcnZMRHdscGVuaGRQV1JHUTg?oc=5",
+   "source": "Chief Healthcare Executive",
+   "lane": "deals",
+   "published": "2026-10-15T07:38:02+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "8cbaccd48613f4e6",
+   "coverage": 2,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "9397783c3fc72715",
+   "title": "Dental Intraoral Cameras Market Led by DEXIS, Carestream Dental, Planmeca and ACTEON Group | SNS Insider",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHZxNE5LZVVOOFAxZDRLYmV2bFNsN0pDcWhqdGQwMGVTNVZxN0UzX2Z5NmdlbXhjbDV4eFREbC01d2t4WUliejNWRUV0cjFsRUFwUEkxQnVHN3dTc1E4OUhJc2xPTmktY2x0a25nMWtOYnhNTGNlY0NIeGVNeHRMRlY4ODNYNUdWUEhZSzRDc3NES3FDM3c?oc=5",
+   "source": "openPR.com",
+   "lane": "industry",
+   "published": "2026-10-15T07:36:37+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "9397783c3fc72715",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "b1de236bbd8078f2",
+   "title": "Confido Health Secures $12.5 Million In a Series A Funding",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcEhEblZFMzVTbGU2a1FsODI0anJFcXRZdlEweTNGQXhnbjk3ZTBaZEVCZEFKeW5fVThPR2k0UkI1NnRvRTMxaTlneEkyMk1DY0xaZm5IUWFoZWU1RUVyclZFcjZSeENraG9iVVE2QUhoRm85dk5qeHdrSnhrQURPVXZIQ0RNcE16WkhpNDVzLVo?oc=5",
+   "source": "Equitypandit",
+   "lane": "deals",
+   "published": "2026-10-15T07:32:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "5860c728a1364563",
+   "coverage": 6,
+   "heat": 3,
+   "dental": false
+  },
   {
    "id": "028390ba025be49c",
    "title": "Iambic goes public with $150M IPO to accelerate clinical development of oncology pipeline",
@@ -248,6 +1343,21 @@
    "dental": false
   },
   {
+   "id": "d38eb25f49398601",
+   "title": "Embodied AI in dentistry: From diagnosis to action",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV19uOVVQYkpZcTBUTG82UXozaDZQdEJsQmhUa0lWRnEyMDkwUXN6UUFRMUlGbnJac3g1MkhGNzFhUG84bk15ZWhQR1daR1VpVnpmWnlXWVVTLTRpUUNjc0tBMk5razlwalJyN2JheHpDUmY4MFRtd1czRkRCNENmbG5XSkFYdzdIY0NaVlJXcw?oc=5",
+   "source": "Dental Tribune US",
+   "lane": "industry",
+   "published": "2026-10-15T07:18:45+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-14T18:37:30.945337+00:00",
+   "cluster": "d38eb25f49398601",
+   "coverage": 1,
+   "heat": 3,
+   "dental": true
+  },
+  {
    "id": "65e52fdc479612da",
    "title": "£8.4m contract to accelerate quantum eye MedTech",
    "summary": "",
@@ -273,6 +1383,66 @@
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
    "cluster": "dd44e5c60e28b238",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "5bfb2a79cc3575d2",
+   "title": "Tempus AI, Inc. (TEM) stock price, news, quote and history",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tQWcxTnF2Zm1BaUdzd0pFbTZvRWZ4UTZ2ZEZRMmxZT0JSazllZDhhWlJvcUd2ZTNlM1BKTzM0UklSWHBINjR0MlNsbl9HdWR6?oc=5",
+   "source": "Yahoo Finance Australia",
+   "lane": "regulatory",
+   "published": "2026-10-15T07:09:48+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-14T01:54:30.947476+00:00",
+   "cluster": "ae4353e8dea2b286",
+   "coverage": 2,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "174625f20541614d",
+   "title": "2026-10 - Wits celebrates a century of dental firsts",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmhBdVJCU1gwZW5YLXVsMzQ1UnIzVG00dERzWFAxVTkxYV9CUTNvUXdicnZYX25ibm9KR1dQaHowczJLZzZfVlp3NDl0MFE3ZHZ5NFZqSDVjSWctZTd1T2JJcGVvbXFjTWZlX2x6dW1UYmVCcE9zWjBVbnhwUHJKN1dmY2VnTWRHNDg4cGlhaGRuRXI0N24xQXloSmoxZGZ3eHpNTG9QRnB3b0ZDVjZRTkVFbWU?oc=5",
+   "source": "Wits University",
+   "lane": "industry",
+   "published": "2026-10-15T07:09:36+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "174625f20541614d",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "80bd55220be72c14",
+   "title": "BPL Medical Technologies advances global growth strategy with acquisition of Medec",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcGkyZURsWWZRcG9EaHlvQVR5WWRRSzZwUmlOenZ2Zkk3Vnp6c2dpY0oxQXc2SWRlRDlqSUtuTUZkMHdpLW9xcWRtSEFEdXBnNU5XbF9TdjA4Nnlyc29fRGpxOFZ3UlZjSXk4bHE3TGRCMVAyaUk5Tzk2LXVZVmRwOWlLWUE1MjZST25jeFRrSzdhdWVxOWozTklvSlhLLWpldE55NVIxNFhVX1pQN3Jvc0o3YmItbG53eFV4TzZfRnAzdHo4bEFSQUU3X3k?oc=5",
+   "source": "www.expresshealthcare.in",
+   "lane": "deals",
+   "published": "2026-10-15T06:59:51+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "80bd55220be72c14",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "9b6679e9ae6fcf29",
+   "title": "Funding Tracker '26: Ours Privacy, Arintra and Happy Health",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFJTdWtYZzBuMHVULWhJWFV3dVB3d0NfeEE1V0RMcV82Z2VFZ2ZtV2x2ZDBYTG1ZUnQ1RGFsZ0pFWmNFZW1rczNCOFRDUjFCTlFvUEplLVFuZmpHRVpfS2pZX3M1ZjZDaFUzZVV3QURjclpScmZlVndpaWlaN3hBNU11dWRpMkxmamp5ZXhR?oc=5",
+   "source": "Fierce Healthcare",
+   "lane": "takes",
+   "published": "2026-10-15T06:56:23+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-08T17:52:26.371513+00:00",
+   "cluster": "9b6679e9ae6fcf29",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -353,6 +1523,21 @@
    "dental": false
   },
   {
+   "id": "d59d826a90295af6",
+   "title": "Those aren’t baseballs: A N.Y. homeowner uncovers a mastodon jaw",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGpadkhEUkZPX0czRk42eW1QcmVOZzNzM0tfQmUwTDJ2T2FaTzNsVW9aUThCQkZHVTJxUDJZaG1HMkZBR2plZ2VUaXNjLTJ3dUcyd1ZLUi1JeXFteHlzSUNuTlJuRWIteXB1eF9lVUNnVTFMVXRnT3hMSzB3SFRDV2x0aFdjSS03Nk5JazEzMzg0Sl9ISzd5S0xXYTY1SWV3dWhHLTc4Z3pBOEw1V1FoRDN5cTNKY3dzWWNwaXRGaEU?oc=5",
+   "source": "DrBicuspid.com",
+   "lane": "industry",
+   "published": "2026-10-15T06:33:45+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "d59d826a90295af6",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "58b22128ba35cfa4",
    "title": "ThinkSono Secures FDA Clearance for Ultrasound AI Software for Blood Clots",
    "summary": "",
@@ -365,6 +1550,21 @@
    "cluster": "58b22128ba35cfa4",
    "coverage": 1,
    "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "fc1612e18b428587",
+   "title": "{Funding Alert} Confido Health Raises $12.5 Mn With Backing From Z47, Together Fund and Blume Ventures",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGhzZFc1eVByWkIzbnllY2NGOW8tMDFGVktBYUhEMm5HWGthV3dzaTkyZl9MeUVvWW1UOGZDNmRRMjhLeTBBMmtWZDd1QWVyT0pVS1ZxTlZwcWkybS1LVDU3QjFUaVdwMVZhSUVkSjZicWlOLTZmWVJlSG5yVllvSGVOSFBNWEQ5XzBOcGpfb1c2dTlpU3ZKei1SX3ZlY0VtZDNNOWhRUzdlbjd4WGV6aEhDUTFDWGhqdXc0aU9nTUs?oc=5",
+   "source": "Indian Retailer",
+   "lane": "deals",
+   "published": "2026-10-15T06:20:44+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "5860c728a1364563",
+   "coverage": 6,
+   "heat": 3,
    "dental": false
   },
   {
@@ -413,6 +1613,21 @@
    "dental": false
   },
   {
+   "id": "275a2d146bd4be8f",
+   "title": "FourNet Expands £65m Customer Experience and AI Business With SVL Acquisition",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGN1djF3SGlzRG9mdWJJYVBkNGM0QVprYVVtTlQ0RUpOSTdmdy02cFVZUDFSbWY0azljYXdvcVpkTENKMEpRc29DV1JMNUhRcFIxUG9mcE4wMXZwZ1BTQVJMTGtJUWxGVVNLMmpSa0pFekY5RXIyeC14bnVXZ0pyaURwYTNabW42d1EwWUZvY3RIa1c2VGw3YWJnOS1Senhsck9zT09B?oc=5",
+   "source": "Yahoo Finance",
+   "lane": "deals",
+   "published": "2026-10-15T06:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "275a2d146bd4be8f",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "635d08162ee5eb73",
    "title": "Medicare Opens the Door to Caregiver Training, but Early Adoption Tells a Cautious Story",
    "summary": "",
@@ -428,6 +1643,36 @@
    "dental": false
   },
   {
+   "id": "eeec42e86fa0e0c5",
+   "title": "Z47 Leads $12.5M Confido Health Funding Round",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXRPdHdIY29peGdkQ1Iza3ZtekNQZmhGMW1iSlJZaE5PcEZGbFRUYUNvZXJ3Y2c1aWNKNHo2MWJEd0U2MjNJMnd5ZndyM1NyaXRiZld5TUkwWmRGZ3Rzc0ptOUd1SldmV0x4eFhseklyc1QxV2Rod0R1Q1AwQTY0X1M0dTgtTUdVUG41clZsdnQxQWFfZlA3QzdibVFiZTF0?oc=5",
+   "source": "Voice of Healthcare",
+   "lane": "deals",
+   "published": "2026-10-15T05:40:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "5860c728a1364563",
+   "coverage": 6,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "4145bbbf4e045e82",
+   "title": "Paras Healthcare To Launch Rs 1,450-Cr IPO on Oct 21; Price Band Set at Rs 660–693/Sh",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmltU2d5MnZtZDJnMmZ1V1lSVjBycTdXMVBqQWdaZG5VMmNUb0ZMUE53cnVwNmlYU3htNVk0Qk1nVTNUY3E3elVieXg1WDItRDQwSDJtOF9Lcl9ELW5mYTJteFM4dzA5SFo3TUV2Sll1LUNNVTNxcy0yZG9TQkc2cFFSOTFQdHB2ajlYN2NtVGtYMlV5Y3JfV1QxdUtSTFR1M09WZldhOWd3aG95?oc=5",
+   "source": "HDFC Sky",
+   "lane": "deals",
+   "published": "2026-10-15T05:28:27+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "c623f4443bcf82a8",
+   "coverage": 6,
+   "heat": 3,
+   "dental": false
+  },
+  {
    "id": "9c0aa0f421bc44ec",
    "title": "UEA turns to alumni philanthropy to fund new dental school",
    "summary": "",
@@ -437,6 +1682,21 @@
    "published": "2026-10-15T05:22:39+00:00",
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
+   "cluster": "9c0aa0f421bc44ec",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "4575f391d7213096",
+   "title": "UEA turns to alumni philanthropy to fund new dental school",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRjhVMm5DZFA2cjh0eTd4SnVPekRvU0pUV2pMMHBETWs2SEF5a1ZJMWpzTjJ5Y1ZVNkExY0p5TFFNT0htVi1oSk5iV0ZVSzhQamNwNTJDOTJ3REU?oc=5",
+   "source": "BBC",
+   "lane": "industry",
+   "published": "2026-10-15T05:22:39+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
    "cluster": "9c0aa0f421bc44ec",
    "coverage": 1,
    "heat": 2,
@@ -458,6 +1718,21 @@
    "dental": false
   },
   {
+   "id": "3973331670dea3fb",
+   "title": "KMDF drives K-medical device commercialization with targeted investment matchmaking - CHOSUNBIZ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlprdENxaUZyazlZLTkyd3NCNTkyQkdZbFc4MjRkVnk3UUsxMG9rQkxXWjdyWm5GcFZZOXdTeTg2cFV1YVA2Z2g0X09UZGpGNXAxN2QtU0lsX0ZBMWdEOFVwS09IMDdDM3ZxalpJcm5kTE1BbUVQWUlzOHVLMHhPMW5aV00ycTZNQnhwd0hDWE5ocWdU0gGUAUFVX3lxTE02Wmt0Q3FpRnJrOVktOTJ3c0I1OTJCR1lsVzgyNGRWeTdRSzEwb2tCTFdaN3JabkZwVlk5d1N5ODZwVXVhUDZnaDRfT1RkakY1cDE3ZC1TSWxfRkExZ0Q4VXBLT0gwN0MzdnFqWklybmRMTUFtRVBZSXM4dUsweE8xblpXTTJxNk1CeHB3SENYTmhxZ1Q?oc=5",
+   "source": "Chosunbiz",
+   "lane": "deals",
+   "published": "2026-10-15T05:21:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "63b02b91add54fab",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "d5a808215cf4208b",
    "title": "Paras Healthcare to launch ₹1,450-crore IPO on Oct 21; price band set at ₹660-693/share",
    "summary": "",
@@ -468,7 +1743,7 @@
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
    "cluster": "c623f4443bcf82a8",
-   "coverage": 4,
+   "coverage": 6,
    "heat": 3,
    "dental": false
   },
@@ -483,6 +1758,21 @@
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
    "cluster": "485f02f5b13c846e",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "4ffdf1c38bf1ecc9",
+   "title": "DocMorris AG (DOCM) Hits Q3 EBITDA Breakeven, Raises 2026 Outlook",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUU5yYkQxLWhvR3pPVEZ5LU11em41Zy02R1lPV1dPSDB5TS1XMHVkbGJHbTZwQ3JRamhrMU5qQml5ZG55NXlQZDJvSlBtYXl6YlR1NUhOdUV5VjRaeHRuNEY3N3hQSUt2WWtwa1FkUGRmaTdrb2dHMEZQRWx6bVZyM1ZaN0ZDOG9FSlJEQTlDWkd2SVZHTHBjSW10TldFMHpiMHlMTlFzUVMxMW1qQS1NUXBmTEJ3bGV4NUJOWnFXeDluQQ?oc=5",
+   "source": "TradingView",
+   "lane": "deals",
+   "published": "2026-10-15T05:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "4ffdf1c38bf1ecc9",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -518,19 +1808,19 @@
    "dental": false
   },
   {
-   "id": "3a0e9caf51633db2",
-   "title": "HD Fire Protect IPO GMP, Grey Market Premium Today",
+   "id": "2e84124ac5770548",
+   "title": "Mobile clinics battle Mongolia's childhood dental 'disaster'",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VOGRuTFcwV2RrZzVjM2xUWnRLNkpfVHBNRXQtUlRxdlB3QzF1T2Rlem9tcE1kUkNQNDYweVppaTllSnRUR2ljMTZXa2NDMHdnZW1PVGxCRUJBSUNLcDVQeW1nVnYyUFlQc29mbmRTRmtNZw?oc=5",
-   "source": "IPO Watch",
-   "lane": "deals",
-   "published": "2026-10-15T04:39:37+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxeU9oaGdpNWlPbXNTLWFYSUh6eER3bFd4YjlBdHZqb1JndWlWb2szbEhuOUdWbmZOTTE4a1BGYXh1M2E1N2dfSXdfaw?oc=5",
+   "source": "AFP.com",
+   "lane": "industry",
+   "published": "2026-10-15T04:46:44+00:00",
    "tier": 0,
-   "first_seen": "2026-10-12T09:11:33.423597+00:00",
-   "cluster": "54c2ccdcf3a6e5bf",
-   "coverage": 1,
-   "heat": 1,
-   "dental": false
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "61ec4034502ef35a",
+   "coverage": 2,
+   "heat": 3,
+   "dental": true
   },
   {
    "id": "208ed6ef250a8dca",
@@ -543,7 +1833,7 @@
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
    "cluster": "c623f4443bcf82a8",
-   "coverage": 4,
+   "coverage": 6,
    "heat": 3,
    "dental": false
   },
@@ -588,8 +1878,23 @@
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
    "cluster": "c623f4443bcf82a8",
-   "coverage": 4,
+   "coverage": 6,
    "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "131e8029b1bf3a79",
+   "title": "Bootstrapped for 8 years, Dougs lands €50M from Expedition to automate accounting with AI agents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3kzZnB1OFdhbWtiTUFldmdLSHlEN3BoaUZOY0xmQkxWOEJlQV9ZVzlsR2JjQUZvQjJwX0RqOXJXUXRiZXVOVS1YUC05RVk3b1FmYXF3dURjOVhZblBabkwySmpSYWtleUtMLXFWQmc3TzRNV3Jzd0JFTGVoZ0NfRFJTelEwRWkyeWZVNEVTUHZzeVhNRFNr?oc=5",
+   "source": "Tech Funding News",
+   "lane": "deals",
+   "published": "2026-10-15T04:06:06+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "131e8029b1bf3a79",
+   "coverage": 1,
+   "heat": 2,
    "dental": false
   },
   {
@@ -633,7 +1938,7 @@
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
    "cluster": "c623f4443bcf82a8",
-   "coverage": 4,
+   "coverage": 6,
    "heat": 3,
    "dental": false
   },
@@ -683,6 +1988,21 @@
    "dental": false
   },
   {
+   "id": "84c4fdf39e727aa3",
+   "title": "Sahajanand Medical IPO GMP, Grey Market Premium Today",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3R6YUFSeFBqalluVG00X0o0QURjVXJxc2s4QWlKaXRUUXAzSThRb21fLTFnZWVpM1pmdGNMRG5fOTk1RjZuR01HM0VkbElEQlBGYUxzd2FtTFNtUUFJb1dzNEc1WndXNVgwYlkyR0hpekNRblBhVTFsMzhfUXNKTGt4ZFpfNW8?oc=5",
+   "source": "IPO Watch",
+   "lane": "deals",
+   "published": "2026-10-15T03:20:06+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-13T01:21:06.895033+00:00",
+   "cluster": "54c2ccdcf3a6e5bf",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "64ed0469c8d79e94",
    "title": "US Secretary of Education tours RCTC trades programs during Rochester stop",
    "summary": "",
@@ -723,8 +2043,8 @@
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
    "cluster": "61ec4034502ef35a",
-   "coverage": 1,
-   "heat": 2,
+   "coverage": 2,
+   "heat": 3,
    "dental": true
   },
   {
@@ -743,16 +2063,16 @@
    "dental": false
   },
   {
-   "id": "700ca9ea5b3c4caa",
-   "title": "Bonfiglioli Transmissions IPO GMP, Grey Market Premium Today",
+   "id": "391c457f9231c4f1",
+   "title": "US Department of Homeland Security removes 540-day grace period for immigrants after their work authorisa",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Dc2VIZVdYcFhtQVNQWklFdnZXMV9yRzNSZDM5SG5SRC1FRUpka1JYUWI4VmlwZDI0NHdYVzVBMXVGUms0YVdzRUh2VmEzSl9wZkI1S2pNbFNCUS1KME5lTEhucmdsLVBrNmRWYQ?oc=5",
-   "source": "IPO Watch",
-   "lane": "deals",
-   "published": "2026-10-15T01:56:42+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVkpOUHVxaGtyVl8yeTQwSlRMTVUxbGhMMmU4V1JkT2EwaWh4RFYtWnl0cjc4ZE51Q2VkUks1aURLOGE3Ym1Tbnl3emgwTTluTWZIdXI4eU5yNk9CaVJqb18taHpMc0lyUDBNcWJiVTNLaVRncE94YWZZcGJwT1NUY2xJRmJGaUFxcV9zNUQ0Qzk2aGtuSm1NSlNCdEh3a2Jic0d4bXI1eDZhd1RZcVVoVkVCdEJNaV8yRWZIVmlpcFVCUXpmMFdyOTduRVFiWVJGdldOSWN2ZVBHVEpUbUVEOG9zYlFJc2N4LXp5RTk2S09yaU1fV2RXbDkzeDJZbTFkWFBoeElJR2FVS3FKdXZqSlNoMEVBRlJNdGpwaF9vQ1l5TWtoWDQ5SzdMeEZncDJxNDhTNTNJMXpIaGRNRDhfWHN2aUVpTV9LYUhMM3p30gHTAkFVX3lxTE5SVmZIT3R1cE5CWXlPNl9XZ0l4RGdoT3BBNXE5LWRJUjZzMnVobTFZdnpIQzJ1emFKZHlVZGlrRGllaDF6eUZhX2FnYVZMV1VwdDJwbWRZeG1PNWtmZHhyRVdCaTBfQks2NHZ0anBabzliSExZRGJiSV8xZ1Q3TW90TUhObUFRNVRSZkhIVnhSWjgtMzNsSUM4R1hnRGNSRTljeWhXeFFCVHV6OFNwSVNKbG1TNGlGREVTMWVwYnhwN3dITlFqWUI5ZXhMb1RTdE1IRHF1WHZUSVdkcTJMMDNtSmdKQzc2ckdnbXcwRG5PWWVjWVpYTk1fOWxCLXFVVTNiRUgybVhVUXlrWUZ2eURjdHZ3cWUxTGJFOGxMVWFuS3djLVVkYlVXRFFpU2pBeU5MU0VtaHBuM05EX0tOaEd0RFk3M2hGTVBROWlXT0o5dFM5TQ?oc=5",
+   "source": "The Times of India",
+   "lane": "regulatory",
+   "published": "2026-10-15T02:08:00+00:00",
    "tier": 0,
-   "first_seen": "2026-10-13T17:35:52.695800+00:00",
-   "cluster": "54c2ccdcf3a6e5bf",
+   "first_seen": "2026-10-14T13:43:22.710238+00:00",
+   "cluster": "391c457f9231c4f1",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -798,21 +2118,6 @@
    "tier": 0,
    "first_seen": "2026-10-15T01:28:22.086064+00:00",
    "cluster": "8d4f41b0deffd957",
-   "coverage": 1,
-   "heat": 1,
-   "dental": false
-  },
-  {
-   "id": "9b6679e9ae6fcf29",
-   "title": "Funding Tracker '26: Ours Privacy, Arintra and Happy Health",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFJTdWtYZzBuMHVULWhJWFV3dVB3d0NfeEE1V0RMcV82Z2VFZ2ZtV2x2ZDBYTG1ZUnQ1RGFsZ0pFWmNFZW1rczNCOFRDUjFCTlFvUEplLVFuZmpHRVpfS2pZX3M1ZjZDaFUzZVV3QURjclpScmZlVndpaWlaN3hBNU11dWRpMkxmamp5ZXhR?oc=5",
-   "source": "Fierce Healthcare",
-   "lane": "takes",
-   "published": "2026-10-15T00:56:23+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-08T17:52:26.371513+00:00",
-   "cluster": "9b6679e9ae6fcf29",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -873,8 +2178,8 @@
    "tier": 0,
    "first_seen": "2026-10-15T01:28:22.086064+00:00",
    "cluster": "dc0fcfb67fc53c7a",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -935,6 +2240,51 @@
    "cluster": "eb7ec9dad5ef5ee6",
    "coverage": 2,
    "heat": 4,
+   "dental": false
+  },
+  {
+   "id": "ec07ac17b285622e",
+   "title": "Hidden race disparities in cancer treatment toxicity",
+   "summary": "Nature Medicine, Published online: 15 October 2026; doi:10.1038/d41591-026-00050-2 Large-scale analysis of real-world data reveals racial disparities in the occurrence of immune-related adverse events during cancer immunotherapy — which were not evident in trial data, owing to the enrollment of mostly white patients.",
+   "url": "https://www.nature.com/articles/d41591-026-00050-2",
+   "source": "Nature Medicine",
+   "lane": "research",
+   "published": "2026-10-15T00:00:00+00:00",
+   "tier": 1,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "ec07ac17b285622e",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "52f525dc0a402352",
+   "title": "Characterizing time-of-day physical activity patterns across cognitive trajectories in older adults: a longitudinal cohort study",
+   "summary": "npj Digital Medicine, Published online: 15 October 2026; doi:10.1038/s41746-026-03370-2 Characterizing time-of-day physical activity patterns across cognitive trajectories in older adults: a longitudinal cohort study",
+   "url": "https://www.nature.com/articles/s41746-026-03370-2",
+   "source": "npj Digital Medicine",
+   "lane": "research",
+   "published": "2026-10-15T00:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "52f525dc0a402352",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "e84bdc4ba132992f",
+   "title": "Implementation and effectiveness of a smartphone app targeted at improving physicians adherence to antimicrobial treatment guidelines",
+   "summary": "npj Digital Medicine, Published online: 15 October 2026; doi:10.1038/s41746-026-03401-y Implementation and effectiveness of a smartphone app targeted at improving physicians adherence to antimicrobial treatment guidelines",
+   "url": "https://www.nature.com/articles/s41746-026-03401-y",
+   "source": "npj Digital Medicine",
+   "lane": "research",
+   "published": "2026-10-15T00:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "e84bdc4ba132992f",
+   "coverage": 1,
+   "heat": 1,
    "dental": false
   },
   {
@@ -1253,6 +2603,21 @@
    "dental": false
   },
   {
+   "id": "69bf512949069088",
+   "title": "ACR says BI-RADS criteria may lead to unnecessary pediatric procedures",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdzJfMkMzYm05NE5ON2RXZ3NBSGdWYnRLY0FSWEg4aFQ0bHMwSXFrMlZqN05sNkl6UHZ2c21WczZPc3M1VG1ZaDFHN21idWVPQ1JneW1wUGUxbTM5dWIzcDY0RWV4Tldqd1RDRmtjT2ctOXNQMkNJYTA1UjVSeXFXTzdKOG5lS0ozLVVKZnYwT2JkV3BBM214QjJZbkhVUVhNQ0ExTzRfWTFsZ2w1Z2JtQ0dZS1VRbUc1QjdrYjVpMEdWMlJqM3FJd1hCZjltUjkxREF5bjFB?oc=5",
+   "source": "Radiology Business",
+   "lane": "regulatory",
+   "published": "2026-10-14T21:24:37+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "69bf512949069088",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "e75b074e3bd60fe3",
    "title": "Silo Pharma Acquires Software Assets Through Equity Issuance",
    "summary": "",
@@ -1283,19 +2648,19 @@
    "dental": false
   },
   {
-   "id": "84c4fdf39e727aa3",
-   "title": "Sahajanand Medical IPO GMP, Grey Market Premium Today",
+   "id": "89a7950963c09ada",
+   "title": "Best Medicare Advantage Dental Plans Of 2027",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3R6YUFSeFBqalluVG00X0o0QURjVXJxc2s4QWlKaXRUUXAzSThRb21fLTFnZWVpM1pmdGNMRG5fOTk1RjZuR01HM0VkbElEQlBGYUxzd2FtTFNtUUFJb1dzNEc1WndXNVgwYlkyR0hpekNRblBhVTFsMzhfUXNKTGt4ZFpfNW8?oc=5",
-   "source": "IPO Watch",
-   "lane": "deals",
-   "published": "2026-10-14T21:18:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXV4Tm5qM2ZiZktvRlAxMGpVQ2gzc0hiaThlZXRYTWRRdnVoc0tXX2s5QlFleTQzbUpDYXUyUmlDaWJ6eU1ZYUZ1eDNBaWtnQ2wzOEhYdHdmNGR3c3NTNHpCX3V5WXFVQTJqdlFSNUtRYy1felFwR1EzUnl4M3IyWm5DZzZYd0JmSDlraw?oc=5",
+   "source": "Forbes",
+   "lane": "industry",
+   "published": "2026-10-14T21:14:00+00:00",
    "tier": 0,
-   "first_seen": "2026-10-13T01:21:06.895033+00:00",
-   "cluster": "54c2ccdcf3a6e5bf",
+   "first_seen": "2026-10-09T23:15:45.402679+00:00",
+   "cluster": "b3d84f59182cd681",
    "coverage": 1,
-   "heat": 1,
-   "dental": false
+   "heat": 3,
+   "dental": true
   },
   {
    "id": "6babcc16020c694b",
@@ -1322,7 +2687,7 @@
    "published": "2026-10-14T21:13:00+00:00",
    "tier": 0,
    "first_seen": "2026-10-15T01:28:22.086064+00:00",
-   "cluster": "f3b4ad6568cdcf8f",
+   "cluster": "b3d84f59182cd681",
    "coverage": 1,
    "heat": 2,
    "dental": false
@@ -1337,7 +2702,37 @@
    "published": "2026-10-14T21:10:00+00:00",
    "tier": 0,
    "first_seen": "2026-10-15T07:26:08.478007+00:00",
-   "cluster": "f3b4ad6568cdcf8f",
+   "cluster": "b3d84f59182cd681",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "04440f2b2851a9f8",
+   "title": "Best Medicare Advantage Plans In Pennsylvania 2027",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmFpWFUyeUIxVTUxdDZyYTNtYnJOcTJ0bTJ5REJwMmNVMEEtcmFIWHUydUFrTWNFZWs3QmlxX0IxLV9obm5uTXNrdV9QSEl5MGUwQ1kzR3k3U1ZmMmJ1MmdlNHBId1VEUFJqUXZlNHJIdnBoMDAxNEFZQkMwZm50dFJmLXJOMlczejNxRmtQY0N6Ui14a3F3?oc=5",
+   "source": "Forbes",
+   "lane": "regulatory",
+   "published": "2026-10-14T21:09:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "b3d84f59182cd681",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "b3d84f59182cd681",
+   "title": "Best Medicare Advantage Plans In New York 2027",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUTU0VFR5bkV2Q195T1dvMkhLYXJGZ1Z4MUNpMjFRdUZwTHFQbWNjaHQyY2pzX0JkZlVtRC1TbHVhSTNkTXl1NHZTYWdPZy1IRVpXV0VObl9SRlBzM1g2NlRFX2M4NUxGQ25nNDBFdWJqR0dIYlB0MmVaa2c0VjFSODRrbEhmdmFmQmlaZ2pJRTJPQQ?oc=5",
+   "source": "Forbes",
+   "lane": "regulatory",
+   "published": "2026-10-14T21:06:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-09T23:15:45.402679+00:00",
+   "cluster": "b3d84f59182cd681",
    "coverage": 1,
    "heat": 2,
    "dental": false
@@ -1478,6 +2873,21 @@
    "dental": false
   },
   {
+   "id": "affb1356c532797c",
+   "title": "Navara Acquires PieQ to Accelerate Strategic Expansion into Vertical Markets and Enhance AI Solutions",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTkVyVFNUQUZmUXl2dWlROGR1T2pNVjA5OHpXMGpUU3BvQmFMS0poVUdhellkXzl3Q0RuWC11TUdFQUw2Z1JHMEFIN2dPem5BWEVyUWt0Rk5xNy1FTmNjYnN0aW1hc0I4MjR3T05zcktVRFB6b3dzZ21RSVNyMm9jR2dhamkzS3Y4cHJRMFE2bzJ6aGRibTg4ZWRwMml6SUQxb2NXaTROT3dHTjZORzhmd3M1alFUUzFhT1FBazZkRWl6NzRuT3BiSzFUZjFIRmVXMkZhZVZlN1ZxcXYwQ18yWU1IZ094RjF6cmxVZQ?oc=5",
+   "source": "StreetInsider",
+   "lane": "deals",
+   "published": "2026-10-14T20:18:46+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "b1fd740f7607a415",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "631f9037f1c01493",
    "title": "Purpose-driven marketing for dental practices",
    "summary": "",
@@ -1598,6 +3008,21 @@
    "dental": false
   },
   {
+   "id": "2b5129f744471546",
+   "title": "Exploring major trends in cardiac MRI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3dGOGdzeFllWlBqdE96QndPZFlSdjFlOVR3eTRRajBqY3lDT2k0TjR1MTZvWFFxMGl3cHdQdk9GcW0yOGNSQzJYV1ZHTTdEYTU5OUJ1SXNPR0ZRSC13SFRvMHNOTWJtR0kwN1Y2ZXI5d1NsYU9sWlMxM0RfQmFSNjI2bmJQcF9vRENZeEo0WmZNazlnUUhhZFZ3SVVWVEVwNXZBOWw3ZFJlRkNuUWNjdUJQUjl3X0JzdUhDQUU1c2Y?oc=5",
+   "source": "Cardiovascular Business",
+   "lane": "regulatory",
+   "published": "2026-10-14T19:33:26+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "2b5129f744471546",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "b1fd740f7607a415",
    "title": "Navara Acquires PieQ to Accelerate Strategic Expansion into Vertical Markets and Enhance AI Solutions",
    "summary": "",
@@ -1622,7 +3047,7 @@
    "published": "2026-10-14T19:30:14+00:00",
    "tier": 0,
    "first_seen": "2026-10-14T22:18:03.677902+00:00",
-   "cluster": "5fb9eab81b2039a2",
+   "cluster": "0a07a6436fb6914f",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -1643,18 +3068,48 @@
    "dental": false
   },
   {
-   "id": "a9cdc1b2c766881a",
-   "title": "Shellz India IPO GMP, Grey Market Premium Today",
+   "id": "0a07a6436fb6914f",
+   "title": "Cyberattacks affect 20 financial institutions; CERT-In warns on API vulnerabilities and security measures",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSXJtSTF2N1JlNl9lZ3FxaGNCbDliZ2dDZjRBa0FLcjl2RWl6THQyNTlCX0hEWmFSdG9vMVhQRi1rMTBlODczd1EyWi1mTUU0X2pFR3VDZWd5c2dFa3JaX19LM1lkVXpIak1HTTBR?oc=5",
-   "source": "IPO Watch",
-   "lane": "deals",
-   "published": "2026-10-14T19:17:26+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQXpiMkpWbVotdzNOcFNIOTBObWdkcDE4NVJHWHhYaFp1THdnTEVLcVdwd2ZFSXJvT2VJWk9ScVlIMnZRN2QydEJSaGh0d19oSnlXSHFzdElaM3FnVGdMcG5HdjE4bU9YeENheWxJMVVjQk9mek1RUDdRRmJkbS02VlU5VExNb05PRG9id3hvcjFNSVd2MmYxQmRTOWRCN1R4T0pGc013TEpCM0lvRlkzdmk1Tm9oQ09KajBTeEQtd0xoTS0temcwR01aVU5BU3FOc0xtSUtwR1Z2R1NCWnd3LWNidGFneS03Mjd1ZHVBX2U5SUhfRjk0X2VndlJEeTZobjBuem9DdEQwZ9IBlgJBVV95cUxNUW80aElWTW1VQ3JHVlJ4RkxwODZBd2JsVW0zVmc2SzNtRXRGcnZqMmdWa01LRGRxc1BORm9ZbVpFeXhrTVVaWER1LVpyaUpvcVc1Ym8yeEpTQmdUdXVOU1E5QUNrVEFhS1pEMEhaTzZoLWlkS1FsOVptek9YY0pCUnhfUjJoVVJhTndVU1pqRkxQWEMyVnVCVmk2bldHSDh3ZTdOeUMxMEdmM0puRFBtRUNJeWhyNnJaM3BPV25Yc2pETWJzZW1kVUd3WnByN0ozbWtEbXhjdW1nSmdYZ1lCaGRUOTV5V0pBNUJYSE9wLWlZTC0ybkkwc0d3Xy1rY1EtdFFhQ2tvRE1SaWR1cjEwSE55STRiUQ?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-14T19:30:00+00:00",
    "tier": 0,
-   "first_seen": "2026-10-13T01:21:06.895033+00:00",
-   "cluster": "54c2ccdcf3a6e5bf",
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "0a07a6436fb6914f",
    "coverage": 1,
    "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "474ef13638d432dc",
+   "title": "Deals tracker: Agilent Technologies to acquire Proscia",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFRqZk11amFzZnlZQnpGLWRMLUZDaXF3bUJGcUVMSTRXNVoxQzRzY2FHY3FpWjM2WWV3LVFReTJmQ0R6X2NWa3RwQ1BTcVBnT3pjV0JabVRaQ1QwNTd4MVZXeDNzR1MyRFdwT1ZXRHd0cDNJbUluYnFoUGNxM2s0dXZpNC1vaXN4ZEY4SWdHQjE?oc=5",
+   "source": "Modern Healthcare",
+   "lane": "deals",
+   "published": "2026-10-14T19:13:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "b4de045d760d224b",
+   "coverage": 6,
+   "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "04b06de6e4c5ec54",
+   "title": "Social Security raise for 2027: Cost-of-Living Adjustment (COLA) information",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43UWl0cG5rNzQ5UGotXzZ6TEp2WmJtRXI4VTNYSkpBUHZ4ZTkxSFUyd25jY1p0VC1jSlozaVFJcWxXOGVmcU9YckxvYm1nMmxzNVlrY3lfSUNucGwz?oc=5",
+   "source": "Beinsure",
+   "lane": "deals",
+   "published": "2026-10-14T19:11:25+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "57e589ccc5c5caa0",
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -1728,8 +3183,8 @@
    "tier": 0,
    "first_seen": "2026-10-14T18:37:30.945337+00:00",
    "cluster": "8cbaccd48613f4e6",
-   "coverage": 1,
-   "heat": 3,
+   "coverage": 2,
+   "heat": 4,
    "dental": false
   },
   {
@@ -1863,7 +3318,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T18:37:30.945337+00:00",
    "cluster": "b4de045d760d224b",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 5,
    "dental": false
   },
@@ -1968,8 +3423,8 @@
    "tier": 0,
    "first_seen": "2026-10-14T18:37:30.945337+00:00",
    "cluster": "57e589ccc5c5caa0",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -2028,21 +3483,6 @@
    "tier": 0,
    "first_seen": "2026-10-14T22:18:03.677902+00:00",
    "cluster": "5fea196ba25a1f73",
-   "coverage": 1,
-   "heat": 1,
-   "dental": false
-  },
-  {
-   "id": "c3a94acd7c69dadb",
-   "title": "Fusion CX IPO Date, Review, Price, Allotment Details",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UcFlHN2lJTE91T2N2QWVndEllUm9SV1FTWGpKdmVQaWo5TWQ0RmN4Rk9yTEY3RDloSl9aSGhIYzh2aG5lejBka3dR?oc=5",
-   "source": "IPO Watch",
-   "lane": "deals",
-   "published": "2026-10-14T17:10:56+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-11T12:48:50.615556+00:00",
-   "cluster": "950b727563c632e4",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -2198,6 +3638,21 @@
    "dental": false
   },
   {
+   "id": "ba2bf03d925ad401",
+   "title": "Social Security increase 2027: 5 red flags to spot before you click a message about your benefits",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRWtWX3FWQTZXUGhiWC1VQlNFMENzbTNsSHZUNnNNSnYxaVY5aklKYjVMcjJGREI0UmhCMFRwNHlmVV9KeDA0WFhadGZ5V3ZmTjJDRGhZLWJtLWxkUThUQ1k0MG14MnhVVnUzbDFYNWpfMER2aWlNY0VmTHJ6d3ZmbWpkYkF6X1Vjdk9WWTdEdVlyYzJJUkZDVnJpZWRNMkFsYk4wWDlxQUxWTzdvUnEyNGJKSl9JdFFCU2QxelM5SkpCc1pETl9vd1ZYU1pNNlUyalRRcGVOdGFvYUt0VnBHeUJQSWt2cE54c1p1QW5oSHhCTGM00gH6AUFVX3lxTE1EeW9ZRVhuZVFTQ2RGUkxpcUNWelp3eHZRT01mdGs5R1dvbFY2Vmo5XzJUTll2SFhXbER3bXU3aUtGNVRzQWFhZmVZZGVWbXBRWlZCMmpIclFpNm5vSG9fS2M0MWdxblJwOHZzd3hZNmZZMUZ2TER6WnRhQ0ExM204VFFWd3MtUTFmSVNrZmpjZlRnaDMzR1pfODd0em43SWcySjZHM3hpVVhwLXltTTZyeHNnZDBiVk1KdEFKdWFWUDVTTHFyaGhJcnlHOVFpYjc5WU8wZ0g2ckZNU0QwX1JJc1M5SzZ4cXJhOWZnYTFUdUw0Q1pJaTF5dWc?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-14T16:43:48+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "ba2bf03d925ad401",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "1f2674b0cafbb92d",
    "title": "Pharma sector doubles down on AI to slash costs, timelines",
    "summary": "",
@@ -2238,8 +3693,8 @@
    "tier": 0,
    "first_seen": "2026-10-14T18:37:30.945337+00:00",
    "cluster": "5860c728a1364563",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 6,
+   "heat": 3,
    "dental": false
   },
   {
@@ -2253,8 +3708,8 @@
    "tier": 0,
    "first_seen": "2026-10-14T22:18:03.677902+00:00",
    "cluster": "5860c728a1364563",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 6,
+   "heat": 3,
    "dental": false
   },
   {
@@ -2268,8 +3723,8 @@
    "tier": 0,
    "first_seen": "2026-10-14T18:37:30.945337+00:00",
    "cluster": "5860c728a1364563",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 6,
+   "heat": 3,
    "dental": false
   },
   {
@@ -2448,8 +3903,8 @@
    "tier": 0,
    "first_seen": "2026-10-14T18:37:30.945337+00:00",
    "cluster": "8cbaccd48613f4e6",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -2492,7 +3947,7 @@
    "published": "2026-10-14T15:35:26+00:00",
    "tier": 0,
    "first_seen": "2026-10-14T22:18:03.677902+00:00",
-   "cluster": "2bd9f4c4dfb126a1",
+   "cluster": "9128b20e0369402a",
    "coverage": 1,
    "heat": 2,
    "dental": false
@@ -2504,7 +3959,7 @@
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMVZab3Y0TG94aHdnRHBtLVRyNGhnQTNvb2ZZRnh6dWhWSng4MmwtTWtVaDVCX2s0cDRSYTNmSGVrZVJXOEp6cTNnSGNXWkNaUXNFcDZlaWRWVHdzR2Zfd2hJRndPQktzbTJHYmdhc2tmbmM1ejd2NWZtczgtVDNZZGxiYXVKU2pPSm02dlFPOWtINWxWd09fRVlnMzBxeFdQUm90X2JTbjhFUmNSeHFvWTNnUEU1OTJkaWQ5aDFYcXIwYktHM0ttWnRpSzhPM0l2NFU4eGo5X3NNT1YzbUV5WktQdmxOR1czRFk5N2V5Y193cmxhWmfSAfsBQVVfeXFMTWRla0I2ckVXcWFSbEtPUmZ2cURWWUd0ZnNjRnJhTWk2UmxKVFUxeUZndnBRQ1d6WkRJQ053RC1fOUVyWWVSR25MTTFuNVAtSDFOamxZVG1PelpBTDhscDFSQjJQM3FPbEFReHpoQ0o0SlVESGc5OGJBRklVTWtCS3NEZEZqeHRrTm56Q01vbkp1UVRPSVF6QmpqMnZMbzVPYmdpZ3hETU9PNHlid0o3bGNHQWRNcHJjdHlNQWdBaTE3SHJBbUppMXFmbFNTNWx1YWg3dGR5V3dXYXB4OFl6RFkxREVaeEljMXJpWTRUcDc3NXVUdVFhT2w1TjA?oc=5",
    "source": "The Economic Times",
    "lane": "regulatory",
-   "published": "2026-10-14T15:18:09+00:00",
+   "published": "2026-10-14T15:21:27+00:00",
    "tier": 0,
    "first_seen": "2026-10-14T18:37:30.945337+00:00",
    "cluster": "de749712853ff94a",
@@ -2918,6 +4373,21 @@
    "dental": false
   },
   {
+   "id": "d41bd94884c1c639",
+   "title": "India’s healthcare innovators: Doctors advancing precision, technology and patient-centric care",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcXVUMThOVHhURHppdkttbWRIMFBwNmVmTHdqeVVlbWFHdFAxcGR4Z0pkMVNEWlZHSm1mcFJjTzZIZ19oWEs3UlE2V1VZb0IyelNJazhONXN2bGM2NEMyMUx0WUo0dFcxam5ZSm9TWHhuaVVXVHF5SGoxRUNSZTNoQ1A4U3FtdXk1QURpV08wQ0VzSDEteUtaSmlMQmpxSkRkZXJhMzk1RlcwcHhHeGdVaThra2F4R3pNQW9jeTkwZ2hmVDc5UHhrMUFiYVVoWXVEWWt3Y1UtZTJOV0M1a2FyclhkS3dibnRkdms5NnB1ZDE3M2o4cThJ0gH3AUFVX3lxTFBxdVQxOE5UeFREeml2S21tZEgwUHA2ZWZMd2p5VWVtYUd0UDFwZHhnSmQxU0RaVkdKbWZwUmNPNkhnX2hYSzdSUTZXVVlvQjJ6U0lrOE41c3ZsYzY0QzIxTHRZSjR0VzFqbllKb1NYeG5pVVdUcXlIajFFQ1JlM2hDUDhTcW11eTVBRGlXTzBDRXNIMS15S1pKaUxCanFKRGRlcmEzOTVGVzBweEd4Z1VpOGtrYXhHek1Bb2N5OTBnaGZUNzlQeGsxQWJhVWhZdURZa3djVS1lMk5XQzVrYXJyWGRLd2JudGR2azk2cHVkMTczajhxOEk?oc=5",
+   "source": "Forbes India",
+   "lane": "industry",
+   "published": "2026-10-14T14:30:06+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "d41bd94884c1c639",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "7872bcbff8d3c12a",
    "title": "Rush, Endeavor to merge, creating the largest health system in Chicago",
    "summary": "",
@@ -3038,6 +4508,21 @@
    "dental": false
   },
   {
+   "id": "73b1c14583ac0eff",
+   "title": "Creador, 360 ONE-backed Paras Healthcare to launch Rs 1,450-crore IPO on October 21",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaWlFaGQzMFpXVzEtd2lpTWFmR0UzZ2NTVENKcVgwSkVwRWpTdkhySnhEUWVrdUdRVzE4MmZpS3UtV0FuOFEtYTZkeTJLTzJWbWZNQzZUME9mamVNOUl3S0QtS3ljVjJIdndfOW9qX3BfUXhIbFExbEJ3cVN1T194aGZPUERjZDFSS0VraHBRYVZRN293TXdsbmRhSUQ2SldZVXU3WEtFMTFZeHhWaWJSdjdyMkdBN0ZWYVBOZUhPeUhPczFKRFN0elJUeC1hTGNmMDBUenl3NnR1OVFvNzVnSNIB4AFBVV95cUxOaWlFaGQzMFpXVzEtd2lpTWFmR0UzZ2NTVENKcVgwSkVwRWpTdkhySnhEUWVrdUdRVzE4MmZpS3UtV0FuOFEtYTZkeTJLTzJWbWZNQzZUME9mamVNOUl3S0QtS3ljVjJIdndfOW9qX3BfUXhIbFExbEJ3cVN1T194aGZPUERjZDFSS0VraHBRYVZRN293TXdsbmRhSUQ2SldZVXU3WEtFMTFZeHhWaWJSdjdyMkdBN0ZWYVBOZUhPeUhPczFKRFN0elJUeC1hTGNmMDBUenl3NnR1OVFvNzVnSA?oc=5",
+   "source": "Moneycontrol.com",
+   "lane": "deals",
+   "published": "2026-10-14T14:00:42+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "c99fb3c837b3f29d",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "d64fff42ff3467f6",
    "title": "Pharma’s Billion-Dollar AI Bets May Be Chasing the Wrong Advantage",
    "summary": "2026 will be remembered as the year pharma went all in on AI. Since January, nearly every major pharmaceutical company has announced some version of the same thing. GSK signed a five-year foundation-model deal with Noetik. Eli Lilly built a co-innovation lab with NVIDIA. Merck committed a billion dollars to Google…",
@@ -3083,6 +4568,21 @@
    "dental": false
   },
   {
+   "id": "9128b20e0369402a",
+   "title": "Can AI and 5G make highways safer? ARTPARK’s Sheela Prabhakar explains",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaTRReWR1VVh3cHVSdmxkckI3MzdSVmNVYi1GVXdrWjFaakhxOGVVUjRBanhNNnlrSzlSNkxIVnhtOWZTbm0wbUJMb1duWXdMMVlLUnNOQ25IdGRCM21yQmJmNW8zS3JEbkxMWTc0U3ZJc3djd2ZTNHRNeGhKQTV1MU5LMjBLa3B0VUtGdG9Qb0lLemZINUI4Y09JX1pwMklfcV9uRmhXbk5aOFY5SHFnUkpORXJfUFpobTVUTTRXOC0yMXR3VllfRFFtZ3Y?oc=5",
+   "source": "The Economic Times",
+   "lane": "regulatory",
+   "published": "2026-10-14T13:55:55+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "9128b20e0369402a",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "ab3f1afcfb62385e",
    "title": "Social Security COLA 2027 calculator: How to calculate your monthly benefit increase",
    "summary": "",
@@ -3111,21 +4611,6 @@
    "coverage": 1,
    "heat": 2,
    "dental": false
-  },
-  {
-   "id": "d38eb25f49398601",
-   "title": "Embodied AI in dentistry: From diagnosis to action",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV19uOVVQYkpZcTBUTG82UXozaDZQdEJsQmhUa0lWRnEyMDkwUXN6UUFRMUlGbnJac3g1MkhGNzFhUG84bk15ZWhQR1daR1VpVnpmWnlXWVVTLTRpUUNjc0tBMk5razlwalJyN2JheHpDUmY4MFRtd1czRkRCNENmbG5XSkFYdzdIY0NaVlJXcw?oc=5",
-   "source": "Dental Tribune US",
-   "lane": "industry",
-   "published": "2026-10-14T13:44:10+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-14T18:37:30.945337+00:00",
-   "cluster": "d38eb25f49398601",
-   "coverage": 1,
-   "heat": 3,
-   "dental": true
   },
   {
    "id": "abf127065381103b",
@@ -3233,6 +4718,21 @@
    "dental": false
   },
   {
+   "id": "09ec4121a39aacb2",
+   "title": "Alaunos acquires Velaris Therapeutics",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNelRSTGw1SlFMVFJBaVQweHAtb2tLd2pGanJBcDlISkM0djA3RzN3NmtGRUJqdDRjcUJqRGZmZ2R4Mi00eWtZR0d4eUJFUlJmRFZrbF9jVzllMC1vS1FXeWdOdHRXcW5QaFU0aFR3bjRvTEEycXE1T2xoa0tCbzhBX2NIS1lKWW1oenc?oc=5",
+   "source": "The Pharma Letter",
+   "lane": "deals",
+   "published": "2026-10-14T13:40:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "09ec4121a39aacb2",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "777e3578148f7c08",
    "title": "Stryker receives FDA clearance for Sonopet 3 surgical platform",
    "summary": "",
@@ -3290,6 +4790,21 @@
    "cluster": "4cf59d3c2e4b376f",
    "coverage": 1,
    "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "09bad6eb3009ba7c",
+   "title": "JNJ Q3 Earnings Call Highlights Growth Outlook and MedTech Challenges",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcU9CVE5QbGsza1NVdWFEUl9FSzZvQmk4WklzR0FDQ0czWllITWs2aTZfdGUtZ3U5a1hHMnBnOXF1aDFsWDFLLTRYa3p0TXNIZG1pVW9UZFlxUERPQ2laQ0lqZVB2ckRuUzVrb3BNU0VMX3JHZVRGdzZnZ3U1SWFaaHF0MXU1akJ3dzVHc3E0ZEVwMzRNbXNoUUs3aUt0Wlpjc1Fxdlh6Tkxya2ZneFd4ODBZYlI0aHVIRmswRThsZVNHZklCOVk0cndGUmF0QWZDTmlPaUplSHBMVlZKSjZJV0pWZ21zSzJ4?oc=5",
+   "source": "The Globe and Mail",
+   "lane": "deals",
+   "published": "2026-10-14T13:28:32+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "183641fc6191443f",
+   "coverage": 5,
+   "heat": 3,
    "dental": false
   },
   {
@@ -3815,7 +5330,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T18:37:30.945337+00:00",
    "cluster": "183641fc6191443f",
-   "coverage": 4,
+   "coverage": 5,
    "heat": 3,
    "dental": false
   },
@@ -3845,7 +5360,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T13:43:22.710238+00:00",
    "cluster": "c8d3c92f90943dc7",
-   "coverage": 2,
+   "coverage": 3,
    "heat": 2,
    "dental": false
   },
@@ -3905,8 +5420,8 @@
    "tier": 0,
    "first_seen": "2026-10-14T13:43:22.710238+00:00",
    "cluster": "fcc173b26a51ad92",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -4055,7 +5570,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T13:43:22.710238+00:00",
    "cluster": "183641fc6191443f",
-   "coverage": 4,
+   "coverage": 5,
    "heat": 3,
    "dental": false
   },
@@ -4435,6 +5950,36 @@
    "dental": false
   },
   {
+   "id": "a470b45ece9d3ce0",
+   "title": "Setmelanotide for the Treatment of Acquired Hypothalamic Obesity",
+   "summary": "New England Journal of Medicine, Volume 395, Issue 15, Page 1562-1564, October 15, 2026.",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2610994?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "lane": "deals",
+   "published": "2026-10-14T09:00:07+00:00",
+   "tier": 1,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "a470b45ece9d3ce0",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "538c5ec774983538",
+   "title": "Adapting to Genomic Medicine",
+   "summary": "New England Journal of Medicine, Volume 395, Issue 15, Page 1541-1542, October 15, 2026.",
+   "url": "https://www.nejm.org/doi/full/10.1056/NEJMe2608188?af=R&rss=currentIssue",
+   "source": "NEJM",
+   "lane": "research",
+   "published": "2026-10-14T09:00:07+00:00",
+   "tier": 1,
+   "first_seen": "2026-10-15T13:25:46.357576+00:00",
+   "cluster": "538c5ec774983538",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "a8f5270d92f86eea",
    "title": "Aging Life Care Managers Can Be a ‘Godsend’ for Families",
    "summary": "These service providers, formerly known as geriatric care managers, can arrange a move to a senior living facility, deal with Medicare and Medicaid, recommend doctors, drive a client to the dentist, and much more.",
@@ -4460,7 +6005,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T13:43:22.710238+00:00",
    "cluster": "c8d3c92f90943dc7",
-   "coverage": 2,
+   "coverage": 3,
    "heat": 2,
    "dental": false
   },
@@ -4491,21 +6036,6 @@
    "first_seen": "2026-10-14T13:43:22.710238+00:00",
    "cluster": "19744c194c81bb5d",
    "coverage": 2,
-   "heat": 2,
-   "dental": false
-  },
-  {
-   "id": "0d11c4ffc4e1840e",
-   "title": "Pennsylvania brothers facing 400 years for racketeering conspiracy, $32M Medicaid fraud; RFK Jr. undergoes surgery; GLP-1 users still love chocolate treats – Morning Medical Update",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNa29PbGRPUkhYcEVJRlhGbVdPNU1OWHVVcFp5b2Q5U0xxLUdGWHJqQkw3Mks4Qm9fWjFYN2RrUnU3MF9PN0Q0cUZyY1N5b3AwVWpmcldhRlB4blQwb0ZteUdRRVBwdWhoNTB1ZERQZDhlMHB3aEpHMFJ5bWdEZXdqQl9mN0U2blduVmpndFlYVUdMdHVLX3l0bVJqX1RpeVZrSG5ITThsOWZqaHVlRlZGMzdlUkkydFpfZFdid21FbVctLWZReTRoOVJaNXIyZHk2VnRpRW15TlJDdTg4NUk2NVN5cVk5bFZCWjJ4T2hfLUoyUkc2S04xdlQzc255eVg2N1R5aXZSeFBHMHZBbWpmeEpHRHNpRHdrZ0VOa0JpdTBuY2NkMjBMQXhaWXB3MnFmLUdPeE1B?oc=5",
-   "source": "Medical Economics",
-   "lane": "industry",
-   "published": "2026-10-14T08:43:37+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-07T17:26:45.145733+00:00",
-   "cluster": "0d11c4ffc4e1840e",
-   "coverage": 1,
    "heat": 2,
    "dental": false
   },
@@ -5305,21 +6835,6 @@
    "dental": false
   },
   {
-   "id": "391c457f9231c4f1",
-   "title": "US Department of Homeland Security removes 540-day grace period for immigrants after their work authorisa",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVkpOUHVxaGtyVl8yeTQwSlRMTVUxbGhMMmU4V1JkT2EwaWh4RFYtWnl0cjc4ZE51Q2VkUks1aURLOGE3Ym1Tbnl3emgwTTluTWZIdXI4eU5yNk9CaVJqb18taHpMc0lyUDBNcWJiVTNLaVRncE94YWZZcGJwT1NUY2xJRmJGaUFxcV9zNUQ0Qzk2aGtuSm1NSlNCdEh3a2Jic0d4bXI1eDZhd1RZcVVoVkVCdEJNaV8yRWZIVmlpcFVCUXpmMFdyOTduRVFiWVJGdldOSWN2ZVBHVEpUbUVEOG9zYlFJc2N4LXp5RTk2S09yaU1fV2RXbDkzeDJZbTFkWFBoeElJR2FVS3FKdXZqSlNoMEVBRlJNdGpwaF9vQ1l5TWtoWDQ5SzdMeEZncDJxNDhTNTNJMXpIaGRNRDhfWHN2aUVpTV9LYUhMM3p30gHTAkFVX3lxTE5SVmZIT3R1cE5CWXlPNl9XZ0l4RGdoT3BBNXE5LWRJUjZzMnVobTFZdnpIQzJ1emFKZHlVZGlrRGllaDF6eUZhX2FnYVZMV1VwdDJwbWRZeG1PNWtmZHhyRVdCaTBfQks2NHZ0anBabzliSExZRGJiSV8xZ1Q3TW90TUhObUFRNVRSZkhIVnhSWjgtMzNsSUM4R1hnRGNSRTljeWhXeFFCVHV6OFNwSVNKbG1TNGlGREVTMWVwYnhwN3dITlFqWUI5ZXhMb1RTdE1IRHF1WHZUSVdkcTJMMDNtSmdKQzc2ckdnbXcwRG5PWWVjWVpYTk1fOWxCLXFVVTNiRUgybVhVUXlrWUZ2eURjdHZ3cWUxTGJFOGxMVWFuS3djLVVkYlVXRFFpU2pBeU5MU0VtaHBuM05EX0tOaEd0RFk3M2hGTVBROWlXT0o5dFM5TQ?oc=5",
-   "source": "The Times of India",
-   "lane": "regulatory",
-   "published": "2026-10-14T05:01:00+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-14T13:43:22.710238+00:00",
-   "cluster": "391c457f9231c4f1",
-   "coverage": 1,
-   "heat": 1,
-   "dental": false
-  },
-  {
    "id": "ed8e07b4db8f4e09",
    "title": "Breath testing medtech acquires longtime US distributor",
    "summary": "",
@@ -5375,7 +6890,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T07:37:51.746142+00:00",
    "cluster": "13316fe7ce543e07",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 3,
    "dental": false
   },
@@ -6065,7 +7580,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T22:44:21.234457+00:00",
    "cluster": "6daeb39e813e4653",
-   "coverage": 3,
+   "coverage": 4,
    "heat": 5,
    "dental": false
   },
@@ -6320,8 +7835,8 @@
    "tier": 0,
    "first_seen": "2026-10-13T22:44:21.234457+00:00",
    "cluster": "ab5f5476f40d82c3",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -6365,7 +7880,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T22:44:21.234457+00:00",
    "cluster": "6daeb39e813e4653",
-   "coverage": 3,
+   "coverage": 4,
    "heat": 5,
    "dental": false
   },
@@ -6380,7 +7895,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T01:54:30.947476+00:00",
    "cluster": "6daeb39e813e4653",
-   "coverage": 3,
+   "coverage": 4,
    "heat": 5,
    "dental": false
   },
@@ -7459,7 +8974,7 @@
    "published": "2026-10-13T16:32:35+00:00",
    "tier": 0,
    "first_seen": "2026-10-07T02:21:50.500726+00:00",
-   "cluster": "5bfb2a79cc3575d2",
+   "cluster": "ae4353e8dea2b286",
    "coverage": 2,
    "heat": 3,
    "dental": false
@@ -7760,7 +9275,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T17:35:52.695800+00:00",
    "cluster": "183641fc6191443f",
-   "coverage": 4,
+   "coverage": 5,
    "heat": 3,
    "dental": false
   },
@@ -7850,7 +9365,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T07:37:51.746142+00:00",
    "cluster": "b4de045d760d224b",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 5,
    "dental": false
   },
@@ -7955,7 +9470,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T17:35:52.695800+00:00",
    "cluster": "183641fc6191443f",
-   "coverage": 4,
+   "coverage": 5,
    "heat": 5,
    "dental": false
   },
@@ -7972,21 +9487,6 @@
    "cluster": "342924a3f2b19c4e",
    "coverage": 1,
    "heat": 2,
-   "dental": false
-  },
-  {
-   "id": "5bfb2a79cc3575d2",
-   "title": "Tempus AI, Inc. (TEM) stock price, news, quote and history",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tQWcxTnF2Zm1BaUdzd0pFbTZvRWZ4UTZ2ZEZRMmxZT0JSazllZDhhWlJvcUd2ZTNlM1BKTzM0UklSWHBINjR0MlNsbl9HdWR6?oc=5",
-   "source": "Yahoo Finance Australia",
-   "lane": "regulatory",
-   "published": "2026-10-13T14:52:16+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-14T01:54:30.947476+00:00",
-   "cluster": "5bfb2a79cc3575d2",
-   "coverage": 2,
-   "heat": 3,
    "dental": false
   },
   {
@@ -8285,7 +9785,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T17:35:52.695800+00:00",
    "cluster": "b4de045d760d224b",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 5,
    "dental": false
   },
@@ -8420,7 +9920,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T17:35:52.695800+00:00",
    "cluster": "b4de045d760d224b",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 5,
    "dental": false
   },
@@ -8840,7 +10340,7 @@
    "tier": 0,
    "first_seen": "2026-10-14T01:54:30.947476+00:00",
    "cluster": "b4de045d760d224b",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 5,
    "dental": false
   },
@@ -9187,7 +10687,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T17:35:52.695800+00:00",
    "cluster": "13316fe7ce543e07",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 3,
    "dental": false
   },
@@ -9262,7 +10762,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T17:35:52.695800+00:00",
    "cluster": "13316fe7ce543e07",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 3,
    "dental": false
   },
@@ -9322,7 +10822,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T17:35:52.695800+00:00",
    "cluster": "13316fe7ce543e07",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 3,
    "dental": false
   },
@@ -9517,7 +11017,7 @@
    "tier": 0,
    "first_seen": "2026-10-13T22:44:21.234457+00:00",
    "cluster": "13316fe7ce543e07",
-   "coverage": 5,
+   "coverage": 6,
    "heat": 3,
    "dental": false
   },
@@ -12653,7 +14153,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "9b670efd9fa791ea",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -12668,7 +14168,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "65db00532328c4db",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -12728,7 +14228,7 @@
    "first_seen": "2026-10-07T02:21:50.500726+00:00",
    "cluster": "62ee8d65005a221b",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -12758,7 +14258,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "a3b3f588dbaedace",
    "coverage": 4,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -12848,7 +14348,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "e9f5b23a3ed91a51",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -12863,7 +14363,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "4bf7b4073b357d73",
    "coverage": 1,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -12878,7 +14378,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "112320cafab61387",
    "coverage": 2,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -12938,7 +14438,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "ccac71d7c7b4b4d9",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -12953,7 +14453,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "8aed2334a84a65e8",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": true
   },
   {
@@ -13013,7 +14513,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "d26cebb560f71bea",
    "coverage": 2,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -13043,7 +14543,7 @@
    "first_seen": "2026-10-13T09:25:07.806422+00:00",
    "cluster": "968cec4134e0ed9e",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13088,7 +14588,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "c1479301b3e06a3d",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -13103,7 +14603,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "3d6b340335e51ab0",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -13133,7 +14633,7 @@
    "first_seen": "2026-10-13T01:21:06.895033+00:00",
    "cluster": "33df33cf0139629f",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13193,7 +14693,7 @@
    "first_seen": "2026-10-13T09:25:07.806422+00:00",
    "cluster": "a3a6af4dea54900a",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13208,7 +14708,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "ce54a276daabde3b",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13268,7 +14768,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "530ae19243967fb3",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13298,7 +14798,7 @@
    "first_seen": "2026-10-12T09:11:33.423597+00:00",
    "cluster": "e9dd9e1de13dc504",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -13328,7 +14828,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "a5d37ad5ce48977c",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -13358,7 +14858,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "2eb7cf93c593b64f",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13373,7 +14873,7 @@
    "first_seen": "2026-10-12T09:11:33.423597+00:00",
    "cluster": "35839ef418f38590",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -13403,7 +14903,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "1ed10916dda53fb0",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13433,7 +14933,7 @@
    "first_seen": "2026-10-12T09:11:33.423597+00:00",
    "cluster": "7b43f7c211ea345e",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13448,7 +14948,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "33df33cf0139629f",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13463,7 +14963,7 @@
    "first_seen": "2026-10-12T09:11:33.423597+00:00",
    "cluster": "f719658509a3a599",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13493,7 +14993,7 @@
    "first_seen": "2026-10-13T01:21:06.895033+00:00",
    "cluster": "d1f5c2506a5bdbf2",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -13508,7 +15008,7 @@
    "first_seen": "2026-10-12T09:11:33.423597+00:00",
    "cluster": "ad74397b79388346",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -13523,7 +15023,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "112320cafab61387",
    "coverage": 2,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -13643,7 +15143,7 @@
    "first_seen": "2026-10-12T09:11:33.423597+00:00",
    "cluster": "5217e7e8755c1b38",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -13658,7 +15158,7 @@
    "first_seen": "2026-10-12T09:11:33.423597+00:00",
    "cluster": "94d4a70517f6cc03",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": true
   },
   {
@@ -13673,7 +15173,7 @@
    "first_seen": "2026-10-12T09:11:33.423597+00:00",
    "cluster": "f121e0749391eb01",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -13688,7 +15188,7 @@
    "first_seen": "2026-10-12T19:02:26.740497+00:00",
    "cluster": "297c9734df5accfb",
    "coverage": 3,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -18719,21 +20219,6 @@
    "dental": false
   },
   {
-   "id": "b3d84f59182cd681",
-   "title": "Best Medicare Advantage Plans In New York (Latest 2027 Data)",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUTU0VFR5bkV2Q195T1dvMkhLYXJGZ1Z4MUNpMjFRdUZwTHFQbWNjaHQyY2pzX0JkZlVtRC1TbHVhSTNkTXl1NHZTYWdPZy1IRVpXV0VObl9SRlBzM1g2NlRFX2M4NUxGQ25nNDBFdWJqR0dIYlB0MmVaa2c0VjFSODRrbEhmdmFmQmlaZ2pJRTJPQQ?oc=5",
-   "source": "Forbes",
-   "lane": "regulatory",
-   "published": "2026-10-09T17:51:00+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-09T23:15:45.402679+00:00",
-   "cluster": "b3d84f59182cd681",
-   "coverage": 1,
-   "heat": 1,
-   "dental": false
-  },
-  {
    "id": "273db45eb9f0ef2e",
    "title": "Congressman Panetta discusses Medicare payment concerns and doctor shortages on Central Coast",
    "summary": "",
@@ -18987,21 +20472,6 @@
    "coverage": 1,
    "heat": 3,
    "dental": false
-  },
-  {
-   "id": "89a7950963c09ada",
-   "title": "Best Medicare Advantage Dental Plans Of 2027",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXV4Tm5qM2ZiZktvRlAxMGpVQ2gzc0hiaThlZXRYTWRRdnVoc0tXX2s5QlFleTQzbUpDYXUyUmlDaWJ6eU1ZYUZ1eDNBaWtnQ2wzOEhYdHdmNGR3c3NTNHpCX3V5WXFVQTJqdlFSNUtRYy1felFwR1EzUnl4M3IyWm5DZzZYd0JmSDlraw?oc=5",
-   "source": "Forbes",
-   "lane": "industry",
-   "published": "2026-10-09T16:41:59+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-09T23:15:45.402679+00:00",
-   "cluster": "800ac61ca008a68c",
-   "coverage": 2,
-   "heat": 3,
-   "dental": true
   },
   {
    "id": "2fff0e14ae9560f4",
@@ -28091,8 +29561,8 @@
    "tier": 0,
    "first_seen": "2026-10-07T17:26:45.145733+00:00",
    "cluster": "800ac61ca008a68c",
-   "coverage": 2,
-   "heat": 2,
+   "coverage": 1,
+   "heat": 1,
    "dental": true
   },
   {
