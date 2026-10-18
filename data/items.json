@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T20:42:16.791326+00:00",
+ "generated_at": "2026-10-18T23:11:28.904801+00:00",
  "sources": [
   {
    "name": "STAT",
@@ -183,12 +183,12 @@
   {
    "name": "Google News: (\"digital health\" OR healthtech OR \"health tech\"…",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
@@ -198,12 +198,12 @@
   {
    "name": "Google News: CMS (rule OR reimbursement OR payment) (AI OR di…",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
@@ -218,6 +218,96 @@
  ],
  "items": [
   {
+   "id": "9882ee14ce479496",
+   "title": "AI cloud firm Nscale faces investor pushback over IPO valuation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTJQWHFDWnRMSS1UNUY5V2pzWlhtenE5WEMxX080OEVJMkl0eHQtYklUeWluWVhiOXd5dG1ZU0dDNzFERTlEOG1lakhSaVVTUEczck9ESkg2T25fSnlRTDZlSHBDR204bm9pV0VsQlZDclFjTXo5OUNCVkVfSlpIdkdMcHhHeTh1LWx5eDlnUkVBZGphLWhBZl91VURQOE1mVHNSUVk4UXp3X3RIbUhFZklzdm0?oc=5",
+   "source": "The Business Times",
+   "lane": "deals",
+   "published": "2026-10-18T22:57:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T23:11:28.904801+00:00",
+   "cluster": "9882ee14ce479496",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "b0ce73743c51e9aa",
+   "title": "Dental Visits, Not Migration Status, Drive Oral Health Gaps Among Norwegian Parents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnR6T1VOYzFyd0xMb0NILURYOWF6Y1lvYUc0ZVBmcHhPeDNzOXhuR0I5cXBITzd3em11RlBXZnJUQmFvUzlhV0hTWlRtQjRiNlZvbGFaWmpZc2lYc1phZS1zdDVjeDJveFplalpfc0RaaHl4dTBJRHF4WnVQNU5jRlNjSmZoc0Nac3BicnRydERXQS1DZ0IwX2hTMzZvMlFhNEdnY3Y2bnItdw?oc=5",
+   "source": "Bioengineer.org",
+   "lane": "industry",
+   "published": "2026-10-18T22:11:20+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T23:11:28.904801+00:00",
+   "cluster": "b0ce73743c51e9aa",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
+  },
+  {
+   "id": "65720ea9d53047e0",
+   "title": "What Dentsply Sirona (XRAY)'s Wider US Distribution Means For Shareholders",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjRsMHNfa3cyOWRWekQ3bTEwTTk3S0dWWDlUcnZtYW9mUnIxNWhfdjhwajdPNXJ5RkpUMHpPSUYzeUFZSGhRMkdvajJVRkROZTRQS3RnMXpMRDhEWVNzamF6bzdEb01Zc21OWjA0UzB3VmV0bFFyZ0xRcHRMS0lPd2RhWXZDSUhYTGNIem0zVjh0aDJMRGkzYnZodVY1X2JBZEJkSjRROTJYdlFhMWxhNFp0dmhkTjlyMjI5VmVlN0Y5RUNKa0M4bnl0UVF2TzJ5V0HSAdcBQVVfeXFMT3NfakQwVVdYXzJLUjF0bEd0SC0zX2NLbFJRckpwcUstTVMtTHJTTm9PaHRCZXY3RENSbjNCbkl2WHNkazNsY0dWN3h1YTZWanFsOUF1VVpTX1B2OWFjS1hpaWxpbUdBUEZUX3YzR1RnNGx3cG1GQ0xkTzRKRmktSmhTeHZwMlZhVmNfS05qX0M1TEVzOEZRZ3BPM3lCM0pWWENKdW9iNUlYbzN5MEYzVXpSVzF4TC1NdExYTm51OEdqS0hQNDFqZzdwYjFyUktBbFJRcGY1eDA?oc=5",
+   "source": "Simply Wall Street",
+   "lane": "industry",
+   "published": "2026-10-18T21:32:22+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T23:11:28.904801+00:00",
+   "cluster": "65720ea9d53047e0",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "50a751d78a23d591",
+   "title": "Intuit Bets on AI-Powered Revenue Automation with Sequence Acquisition",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEEyalR1Y0hURUc1Y1Yxc09VOE9Kei15XzRHVEtUenpxVGZGSzBFMTRNb0p4cUtnT0EyVkRSXzdqVV80N2dJNVBnVTlIc3BXd2VSc3ZzMjgxUXpkTW5XMGd3YVA2U1I5RzRYV2dBdW9yRm9kcmhtdHhVYXJReVZwVThSWDg3RnA4eS1wU0RNZnNabk1UUUpCQTRn?oc=5",
+   "source": "Yahoo Finance",
+   "lane": "deals",
+   "published": "2026-10-18T21:30:11+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T23:11:28.904801+00:00",
+   "cluster": "50a751d78a23d591",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "0e763dd5acd4c04c",
+   "title": "Nelson Advisors: The Leap from Rules Based Chat Assistants to Agentic AI in Healthcare - Architectural Foundations, Enterprise Orchestration and the Autonomous Clinical Workforce",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb19pVVJhSnN5Zl9Lb2lQclNQZk95eFlTSWpXYTY1a0ZBaFF2U2VMTVlzUzZuWUgwdklGMEFBYUsyUE45bWdEbko1NnR1WGpfbjRKM0s0ZEg0dmcxTXk1UHB5YWlfRnZJX3B1aTRKMTRnUGFnRVhrZURLMEU1VmNtamVDa0R1TVhsbFc4M3Q3WTVGX2ZuSjdZWGxDWUN1bWxjcW04Mk9nMENZbGhiMng4OERuVHlYUEQ3UmstTlhqOGZ1NjFxdmkzLWRXY0hDVXJDaXRrcF9URQ?oc=5",
+   "source": "https://www.healthcare.digital/",
+   "lane": "regulatory",
+   "published": "2026-10-18T21:21:47+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T11:03:31.292316+00:00",
+   "cluster": "0e763dd5acd4c04c",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "34b4d09c30d38a29",
+   "title": "Telehealth Use Is Settling Into Its Post-Pandemic Rhythm, National Survey Shows",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVk2NzBrNFlVdGpldThjNnp0OVNfejdhUjlJaGNCdW53YUl0QUxkVzJ2X0pYdkNuQmpld3Nwa1U5MDVMdFN5alpHUklCWXhwRXhFWGFwTXhwbXUwRmxnUDdaVzFUdWFXTW5ZX2tacXZpVnJFM1JhS3dLMjI5LUE2YjZKVEVyT1V1c21ELURfc2RKVVNLalB6a3F2TXo3TEVFTG5YQTB3?oc=5",
+   "source": "Bioengineer.org",
+   "lane": "regulatory",
+   "published": "2026-10-18T20:41:20+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T23:11:28.904801+00:00",
+   "cluster": "34b4d09c30d38a29",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "b5598481a829ebc7",
    "title": "The Weekly Notable Startup Funding Report: 10/19/26",
    "summary": "",
@@ -227,6 +317,21 @@
    "published": "2026-10-18T19:28:35+00:00",
    "tier": 0,
    "first_seen": "2026-10-18T20:42:16.791326+00:00",
+   "cluster": "e820e79303377c38",
+   "coverage": 3,
+   "heat": 2,
+   "dental": false
+  },
+  {
+   "id": "2e86afb3138b78cd",
+   "title": "The Weekly Notable Startup Funding Report: 10/19/26",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2pKMjRzMVBPYndsdDcxZmZsSkhzRVhLaDFSb2t1UkExT016QlE5RXhVQjFFajZEM0lGWHBWRGtlb0Vzd1MwYXA4VmlxZzNlcW40SFQwd21TeUpKMHlBVEpsNUFMNGlDUEg5YThoaVRGSWpFYnVnTUctdUFLRFRxcHp2aFRCTmRrZTNYMVV0QQ?oc=5",
+   "source": "AlleyWatch",
+   "lane": "takes",
+   "published": "2026-10-18T19:28:09+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T23:11:28.904801+00:00",
    "cluster": "e820e79303377c38",
    "coverage": 3,
    "heat": 2,
@@ -353,17 +458,17 @@
    "dental": false
   },
   {
-   "id": "1356b78c5d8a6239",
-   "title": "MRI2CT Secures FDA Clearance for AI Spine Imaging Platform",
+   "id": "591bc83e0bc9124a",
+   "title": "IPO News - US IPO Weekly Winners & Losers",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGVybEZzbS1sMFJyR2F2SkpEV29iOGFFQlladFhsZnl3VC1sX3dKajNJS1psbk1DZlh4RUVXWDVqd2hwVl9DV0haX3JoZ1NWSDlaZWg5XzNqanJHcDdCUXhhT2VZcHNQaXB1QVJKRlZEQ0tfMXB5azBoNHJkWUU1ME9xSy01TFJWNF9HUWJzcE1YTkNwTDc1TVdHTDZkMEF5Z0E?oc=5",
-   "source": "MyChesCo",
-   "lane": "regulatory",
-   "published": "2026-10-18T16:18:38+00:00",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oQWRzZWU3cXZqOVItc1JYTjBKSWR5X3lIYUhiRFNOdGUtYlRVb0NCUEU3QmVkbTFEWWJxLWZPQU1wVlZrMy1FUktCcGI5dHpoMlBweHlxeEFibllTRE9BTnIxdGFPNk1sSUY1eXg5LVB2Y28?oc=5",
+   "source": "Renaissance Capital",
+   "lane": "deals",
+   "published": "2026-10-18T16:02:27+00:00",
    "tier": 0,
-   "first_seen": "2026-10-18T11:03:31.292316+00:00",
-   "cluster": "1356b78c5d8a6239",
-   "coverage": 1,
+   "first_seen": "2026-10-18T18:05:19.742903+00:00",
+   "cluster": "eb27c95a792fcd50",
+   "coverage": 2,
    "heat": 2,
    "dental": false
   },
@@ -383,26 +488,11 @@
    "dental": false
   },
   {
-   "id": "591bc83e0bc9124a",
-   "title": "IPO News - US IPO Weekly Winners & Losers",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oQWRzZWU3cXZqOVItc1JYTjBKSWR5X3lIYUhiRFNOdGUtYlRVb0NCUEU3QmVkbTFEWWJxLWZPQU1wVlZrMy1FUktCcGI5dHpoMlBweHlxeEFibllTRE9BTnIxdGFPNk1sSUY1eXg5LVB2Y28?oc=5",
-   "source": "Renaissance Capital",
-   "lane": "deals",
-   "published": "2026-10-18T15:56:15+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-18T18:05:19.742903+00:00",
-   "cluster": "eb27c95a792fcd50",
-   "coverage": 2,
-   "heat": 2,
-   "dental": false
-  },
-  {
    "id": "d66d20c0efccab4d",
    "title": "UK's dental deserts where it's hardest to get an NHS dentist revealed as health crisis laid bare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0t2YlRsMHIzdGJycDZoazJLMGR3WlVRajBpcjlIYmZmWGx3TGRuRjFZczBGVzlaY0JWOGxEX1dXaDhjMGppcFlCeGRrWW5YU2lqbjhXOGs2bkZhbmZFMnRJYVpEdWNwS25BVUZDNGk0WWF3YmRtZXNRY1gyRWlMdUI4dFp2QlNaSjdndFUyVdIBlAFBVV95cUxOM2x4UXRSa0w1UnRmbUtsMnd4WkZqR003dVItYlRza3hMYmotaThMVlhaWXJUWE5IVllLbXFCRjZqakVOejRjSTh6QnV3aEZsS2lRMFJUc2l3bXpwRV9GVF9Fd0F5Q0lVOUpjbEVaZHppR1RBMlJBemtRMVZ0cVhvejltaXZ2WVFFVy1OT1k0a19jRnh3?oc=5",
-   "source": "Daily Mirror",
+   "source": "The Mirror",
    "lane": "industry",
    "published": "2026-10-18T15:55:00+00:00",
    "tier": 0,
@@ -467,9 +557,9 @@
    "published": "2026-10-18T15:05:00+00:00",
    "tier": 0,
    "first_seen": "2026-10-18T11:03:31.292316+00:00",
-   "cluster": "fa6adfd2586257d6",
-   "coverage": 1,
-   "heat": 1,
+   "cluster": "0ec42f71ea8697b9",
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -500,21 +590,6 @@
    "cluster": "9280a64a7a20a543",
    "coverage": 1,
    "heat": 4,
-   "dental": false
-  },
-  {
-   "id": "0e763dd5acd4c04c",
-   "title": "Nelson Advisors: The Leap from Rules Based Chat Assistants to Agentic AI in Healthcare - Architectural Foundations, Enterprise Orchestration and the Autonomous Clinical Workforce",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb19pVVJhSnN5Zl9Lb2lQclNQZk95eFlTSWpXYTY1a0ZBaFF2U2VMTVlzUzZuWUgwdklGMEFBYUsyUE45bWdEbko1NnR1WGpfbjRKM0s0ZEg0dmcxTXk1UHB5YWlfRnZJX3B1aTRKMTRnUGFnRVhrZURLMEU1VmNtamVDa0R1TVhsbFc4M3Q3WTVGX2ZuSjdZWGxDWUN1bWxjcW04Mk9nMENZbGhiMng4OERuVHlYUEQ3UmstTlhqOGZ1NjFxdmkzLWRXY0hDVXJDaXRrcF9URQ?oc=5",
-   "source": "https://www.healthcare.digital/",
-   "lane": "regulatory",
-   "published": "2026-10-18T14:25:24+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-18T11:03:31.292316+00:00",
-   "cluster": "0e763dd5acd4c04c",
-   "coverage": 1,
-   "heat": 2,
    "dental": false
   },
   {
@@ -910,6 +985,21 @@
    "dental": false
   },
   {
+   "id": "1356b78c5d8a6239",
+   "title": "MRI2CT Secures FDA Clearance for AI Spine Imaging Platform",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGVybEZzbS1sMFJyR2F2SkpEV29iOGFFQlladFhsZnl3VC1sX3dKajNJS1psbk1DZlh4RUVXWDVqd2hwVl9DV0haX3JoZ1NWSDlaZWg5XzNqanJHcDdCUXhhT2VZcHNQaXB1QVJKRlZEQ0tfMXB5azBoNHJkWUU1ME9xSy01TFJWNF9HUWJzcE1YTkNwTDc1TVdHTDZkMEF5Z0E?oc=5",
+   "source": "MyChesCo",
+   "lane": "regulatory",
+   "published": "2026-10-18T10:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T11:03:31.292316+00:00",
+   "cluster": "1356b78c5d8a6239",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "ef4820d777e6f0e1",
    "title": "Matthew Kurian: FDA Clears AI Tool to Predict Breast Cancer Recurrence Risk Before Surgery",
    "summary": "",
@@ -944,7 +1034,7 @@
    "title": "Behind Micron's Rise: Survival Battle, Capital Game & AI Rebirth of the Only Remaining U.S. Memory Chip Manufacturer",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tSjhOMVdwM24zcVVHalRDclJobkt0cWpjdENjMzZzZVNrUUxha2s5bk5JSUdHemhHWmZhcERmZTJ3QkYxT2ZsOC1uZEJnYlByMlFr?oc=5",
-   "source": "36氪",
+   "source": "36Kr",
    "lane": "industry",
    "published": "2026-10-18T09:21:26+00:00",
    "tier": 0,
@@ -967,6 +1057,21 @@
    "cluster": "ef5b2a34e6512b0c",
    "coverage": 1,
    "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "0ec42f71ea8697b9",
+   "title": "Brokerages back Jio Platforms IPO, cite strong earnings growth, cash flows and digital expansion",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcjNkUjMyZUhBS3ZKV2hWSUxsM3hqaUtfNUdYb1FST2J2dlBXVklxMW5mX2hCbnktYkF0Z2ZQUzlhYzNadHhNSmVwaGNURVpNdmRPQy1lMHRhNWo2SkwxVDlYMmxyQklpSmRscE9XWC1HeU44WUxXZ2xQTUhaUzdFNVM4WWU3djZDczRTT2lJaGJPZUVONnpaQjhiYjhJbWNGM2thQTB5VXZ2Wk1peFUzUDAtTW1sbFF0b1dkMERPSTE2cS1FNUpaSWhKTUJZQVdjNHJTbGJMczdBTWctZGc?oc=5",
+   "source": "ANI News",
+   "lane": "deals",
+   "published": "2026-10-18T09:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T23:11:28.904801+00:00",
+   "cluster": "0ec42f71ea8697b9",
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -1580,6 +1685,21 @@
    "tier": 0,
    "first_seen": "2026-10-18T11:03:31.292316+00:00",
    "cluster": "12173a2db2e126dc",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "e9979b73489a765c",
+   "title": "\"Decoding and Translating the Languages of Biology: towards de novo cell design\" by Jian Shu",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hUGpDdVA4b0FVMlhtdU1qRUtDdFFHdExCcEU2bmtaY0VabW9aT0xjaUFiVEd4LTFQNTVvd1FlWWpzbjRhSmtwYUpSRkZ4T3lkQ29HWndiRVNIZENt?oc=5",
+   "source": "YouTube",
+   "lane": "regulatory",
+   "published": "2026-10-18T00:53:18+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-18T23:11:28.904801+00:00",
+   "cluster": "e9979b73489a765c",
    "coverage": 1,
    "heat": 1,
    "dental": false
@@ -7777,7 +7897,7 @@
    "first_seen": "2026-10-16T07:08:47.202797+00:00",
    "cluster": "a99b696d5d1702a7",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7807,7 +7927,7 @@
    "first_seen": "2026-10-16T01:20:18.913694+00:00",
    "cluster": "0f21fa6c0c13a9a0",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7822,7 +7942,7 @@
    "first_seen": "2026-10-16T01:20:18.913694+00:00",
    "cluster": "0abece4ec48f1b15",
    "coverage": 3,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -7837,7 +7957,7 @@
    "first_seen": "2026-10-16T01:20:18.913694+00:00",
    "cluster": "fef80375c56447c1",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7867,7 +7987,7 @@
    "first_seen": "2026-10-16T01:20:18.913694+00:00",
    "cluster": "dc0fcfb67fc53c7a",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7927,7 +8047,7 @@
    "first_seen": "2026-10-16T21:07:09.514357+00:00",
    "cluster": "f694d8f2fb6df089",
    "coverage": 4,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -7942,7 +8062,7 @@
    "first_seen": "2026-10-15T22:17:13.539944+00:00",
    "cluster": "ded34524bbbb0654",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7957,7 +8077,7 @@
    "first_seen": "2026-10-15T22:17:13.539944+00:00",
    "cluster": "00e9c775ab80b635",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7987,7 +8107,7 @@
    "first_seen": "2026-10-15T22:17:13.539944+00:00",
    "cluster": "d3544ff3b86cf877",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -8002,7 +8122,7 @@
    "first_seen": "2026-10-16T01:20:18.913694+00:00",
    "cluster": "d3544ff3b86cf877",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -8077,7 +8197,7 @@
    "first_seen": "2026-10-15T22:17:13.539944+00:00",
    "cluster": "604e5be64d5e6077",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -8122,7 +8242,7 @@
    "first_seen": "2026-10-16T12:24:18.660576+00:00",
    "cluster": "5e071710cadcd5b1",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -8137,7 +8257,7 @@
    "first_seen": "2026-10-16T01:20:18.913694+00:00",
    "cluster": "5e071710cadcd5b1",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -8152,7 +8272,7 @@
    "first_seen": "2026-10-16T12:24:18.660576+00:00",
    "cluster": "a5f5627285721cdf",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -8167,7 +8287,7 @@
    "first_seen": "2026-10-15T22:17:13.539944+00:00",
    "cluster": "5097fa452bd11ba8",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -8182,7 +8302,7 @@
    "first_seen": "2026-10-16T01:20:18.913694+00:00",
    "cluster": "7757c47856976be9",
    "coverage": 4,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
