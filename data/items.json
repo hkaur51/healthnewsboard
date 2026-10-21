@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T22:21:19.987750+00:00",
+ "generated_at": "2026-10-21T01:35:16.431269+00:00",
  "sources": [
   {
    "name": "STAT",
@@ -182,33 +182,39 @@
   },
   {
    "name": "Google News: (\"digital health\" OR healthtech OR \"health tech\"…",
-   "ok": true,
-   "count": 29
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22digital+health%22+OR+healthtech+OR+%22health+tech%"
   },
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
-   "ok": true,
-   "count": 55
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28healthcare+OR+hospital+OR+pharma+OR+medtech%29+%28acq"
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
-   "ok": true,
-   "count": 37
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22FDA+clearance%22+OR+%22FDA+clears%22+OR+%22510%28k"
   },
   {
    "name": "Google News: CMS (rule OR reimbursement OR payment) (AI OR di…",
-   "ok": true,
-   "count": 23
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=CMS+%28rule+OR+reimbursement+OR+payment%29+%28AI+OR+digi"
   },
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
-   "ok": true,
-   "count": 36
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28dental+OR+dentistry%29+%28AI+OR+startup+OR+funding+OR"
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
-   "ok": true,
-   "count": 14
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22General+Catalyst%22+OR+%22a16z%22+OR+%22Andreessen"
   },
   {
    "name": "FDA 510(k) database",
@@ -217,6 +223,21 @@
   }
  ],
  "items": [
+  {
+   "id": "70575b182f97d71a",
+   "title": "FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician",
+   "summary": "Rick Abramson, a radiologist by training and the director of FDA’s Digital Health Center of Excellence said, “We ended up putting out this idea that maybe these devices are starting to behave a little bit more like me as a physician than a heart valve or a defibrillator.” The post FDA Official Believes GenAI-enabled…",
+   "url": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
+   "source": "MedCity News",
+   "lane": "regulatory",
+   "published": "2026-10-20T22:23:38+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-21T01:35:16.431269+00:00",
+   "cluster": "70575b182f97d71a",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
   {
    "id": "2be4ee95bbf30a48",
    "title": "Hackensack Meridian Health signs definitive agreement to acquire Hunterdon Health, commits $230M",
@@ -1358,6 +1379,21 @@
    "dental": false
   },
   {
+   "id": "13d368ee597d8e33",
+   "title": "Baba Raises $40M to Expand Medicare Applied AI Platform, Debuts BabaBench",
+   "summary": "What You Should Know Applied artificial intelligence and healthcare navigation company Baba secures $40M in Series A financing led by FirstMark Capital with participation from CVS Health Ventures and value-based healthcare specialist Valtruis, alongside returning venture investors General Catalyst, Genius Ventures,…",
+   "url": "https://hitconsultant.net/2026/10/20/applied-ai-company-baba-raises-40m-series-a-firstmark-cvs-health-ventures-bababench-medicare/",
+   "source": "HIT Consultant",
+   "lane": "deals",
+   "published": "2026-10-20T15:00:41+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-21T01:35:16.431269+00:00",
+   "cluster": "13d368ee597d8e33",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "b29107870e6a85c9",
    "title": "Pfizer ends Phase 2 autoimmune study; Lycia aims for $227M IPO",
    "summary": "Pfizer halts Phase 2 autoimmune trial: The study was testing a program called PF-06835375 in the rare autoimmune disorder primary immune thrombocytopenia. The federal clinical trials database noted the halt was ...",
@@ -1460,6 +1496,21 @@
    "cluster": "6bd03e4b39410f77",
    "coverage": 4,
    "heat": 3,
+   "dental": false
+  },
+  {
+   "id": "562b20108968a77b",
+   "title": "Zoom Embeds Clinical Notes Across Meetings, Phone, and In-Person Visits",
+   "summary": "What You Should Know Video communications and collaboration infrastructure leader Zoom announced at Zoomtopia 2026, the rollout of enhanced Zoom Clinical Notes, an ambient clinical documentation solution powered by Zoom AI designed to convert clinical encounters into structured medical notes across in-person, video,…",
+   "url": "https://hitconsultant.net/2026/10/20/zoom-launches-enhanced-zoom-clinical-notes-ambient-ai-documentation-meetings-phone/",
+   "source": "HIT Consultant",
+   "lane": "industry",
+   "published": "2026-10-20T14:41:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-21T01:35:16.431269+00:00",
+   "cluster": "562b20108968a77b",
+   "coverage": 1,
+   "heat": 2,
    "dental": false
   },
   {
@@ -1685,6 +1736,21 @@
    "cluster": "85136d57a65d5ae8",
    "coverage": 1,
    "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "a3f9c44a4a36b1c6",
+   "title": "￼MEDITECH Partners with Lifemed AI to Arm Hospitals Against Payer Claims Denials",
+   "summary": "What You Should Know Healthcare electronic health record (EHR) vendor MEDITECH and healthcare artificial intelligence company Lifemed AI announced a formal enterprise partnership, designating Lifemed as an Accelerator-level member of the MEDITECH Alliance program. The partnership embeds Lifemed’s proprietary…",
+   "url": "https://hitconsultant.net/2026/10/20/meditech-lifemed-ai-partner-revenue-cycle-automation-deepclaim-denial-prevention/",
+   "source": "HIT Consultant",
+   "lane": "industry",
+   "published": "2026-10-20T14:03:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-21T01:35:16.431269+00:00",
+   "cluster": "a3f9c44a4a36b1c6",
+   "coverage": 1,
+   "heat": 2,
    "dental": false
   },
   {
@@ -2075,6 +2141,21 @@
    "cluster": "29d7453252bd2d94",
    "coverage": 1,
    "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "4a41459d9c466204",
+   "title": "ATA Action Responds to FDA on Generative AI Medical Devices: Two-Axis Risk, PCCPs, and Manufacturer Accountability",
+   "summary": "What You Should Know ATA Action, the advocacy affiliate of the American Telemedicine Association (ATA), formally submitted comments to Dr. Michelle Tarver, M.D., Ph.D., Director of the FDA’s Center for Devices and Radiological Health (CDRH), addressing Docket No. FDA-2026-N-7874 (Considerations for the Regulation of…",
+   "url": "https://hitconsultant.net/2026/10/20/ata-action-responds-fda-discussion-paper-generative-ai-medical-devices-pccp-sandbox/",
+   "source": "HIT Consultant",
+   "lane": "regulatory",
+   "published": "2026-10-20T13:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-21T01:35:16.431269+00:00",
+   "cluster": "4a41459d9c466204",
+   "coverage": 1,
+   "heat": 2,
    "dental": false
   },
   {
@@ -4044,6 +4125,21 @@
    "dental": false
   },
   {
+   "id": "59f56f4bc8e99c0b",
+   "title": "VA-Epic Connection Enables Direct Specialist Scheduling for Veterans: External Provider Scheduling and WellHive Integration",
+   "summary": "What You Should Know The U.S. Department of Veterans Affairs (VA) announced a major operational interoperability milestone enabling VA staff to book community specialist appointments directly with health systems using Epic. Leverages the VA’s External Provider Scheduling (EPS) platform, replacing traditional,…",
+   "url": "https://hitconsultant.net/2026/10/19/va-epic-connection-external-provider-scheduling-wellhive-veteran-specialist-appointments/",
+   "source": "HIT Consultant",
+   "lane": "industry",
+   "published": "2026-10-19T23:24:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-21T01:35:16.431269+00:00",
+   "cluster": "59f56f4bc8e99c0b",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "f57f8ce43205b993",
    "title": "AdvaMed’s 4 Policy Priorities, According to Its CEO",
    "summary": "AdvaMed CEO Scott Whitaker outlined four policy priorities at the MedTech Conference: tariffs, FDA user fees, payment and coverage, and cybersecurity. The post AdvaMed’s 4 Policy Priorities, According to Its CEO appeared first on MedCity News .",
@@ -5244,6 +5340,21 @@
    "dental": false
   },
   {
+   "id": "24d154c34592a6ee",
+   "title": "￼Sunlight AI Secures $17.4M to Scale Operating Infrastructure and Collections for Independent Physicians",
+   "summary": "What You Should Know Healthcare administrative and practice-operating platform Sunlight AI officially launched, announcing a $17.4M seed financing round led by Lan Xuezhao, Founder of Basis Set Ventures. The seed syndicate includes Sofeon Ventures, Social Leverage, Actions Capital, Overlook Ventures, Early Light…",
+   "url": "https://hitconsultant.net/2026/10/19/sunlight-ai-launches-17m-seed-basis-set-ventures-operating-layer-independent-physicians/",
+   "source": "HIT Consultant",
+   "lane": "deals",
+   "published": "2026-10-19T15:27:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-21T01:35:16.431269+00:00",
+   "cluster": "24d154c34592a6ee",
+   "coverage": 1,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "13d8cea26645d8fe",
    "title": "AI Disruption in IV Therapy and Vein Access: Smart",
    "summary": "",
@@ -5526,6 +5637,21 @@
    "cluster": "c847fcb7494a67ff",
    "coverage": 1,
    "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "d62c5fc14812bafd",
+   "title": "M&A: Tegria Acquires CloudWave in First Move Under Altaris to Consolidate Healthcare Cyber Defense",
+   "summary": "What You Should Know Global healthcare consulting, managed services, and technology solutions company Tegria announced its strategic acquisition of CloudWave, a full-service healthcare-exclusive cloud hosting, managed IT, and cybersecurity services provider. Marks a major corporate expansion milestone: this…",
+   "url": "https://hitconsultant.net/2026/10/19/ma-tegria-acquires-cloudwave/",
+   "source": "HIT Consultant",
+   "lane": "deals",
+   "published": "2026-10-19T14:42:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-21T01:35:16.431269+00:00",
+   "cluster": "d62c5fc14812bafd",
+   "coverage": 1,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10282,7 +10408,7 @@
    "first_seen": "2026-10-08T23:20:30.022285+00:00",
    "cluster": "600a5b97aa28fd51",
    "coverage": 1,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
