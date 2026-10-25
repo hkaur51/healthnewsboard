@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T19:36:28.214626+00:00",
+ "generated_at": "2026-10-25T22:32:48.948734+00:00",
  "sources": [
   {
    "name": "STAT",
@@ -34,7 +34,7 @@
   {
    "name": "Endpoints News",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "name": "MobiHealthNews",
@@ -182,33 +182,39 @@
   },
   {
    "name": "Google News: (\"digital health\" OR healthtech OR \"health tech\"…",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22digital+health%22+OR+healthtech+OR+%22health+tech%"
   },
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
-   "ok": true,
-   "count": 28
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28healthcare+OR+hospital+OR+pharma+OR+medtech%29+%28acq"
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22FDA+clearance%22+OR+%22FDA+clears%22+OR+%22510%28k"
   },
   {
    "name": "Google News: CMS (rule OR reimbursement OR payment) (AI OR di…",
-   "ok": true,
-   "count": 11
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=CMS+%28rule+OR+reimbursement+OR+payment%29+%28AI+OR+digi"
   },
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28dental+OR+dentistry%29+%28AI+OR+startup+OR+funding+OR"
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
-   "ok": true,
-   "count": 2
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22General+Catalyst%22+OR+%22a16z%22+OR+%22Andreessen"
   },
   {
    "name": "FDA 510(k) database",
@@ -217,6 +223,21 @@
   }
  ],
  "items": [
+  {
+   "id": "38fd8398b48ebacc",
+   "title": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic",
+   "summary": "The latest news from Novant Health, Function, Withings, Quest Diagnostics and more.",
+   "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-quest-diagnostics-reports-cybersecurity-breach-novant-health-launches",
+   "source": "Fierce Healthcare",
+   "lane": "industry",
+   "published": "2026-10-25T22:32:48.948734+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-25T22:32:48.948734+00:00",
+   "cluster": "38fd8398b48ebacc",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
   {
    "id": "cf81884065332f29",
    "title": "Fierce Healthcare Regulatory Recap: New women’s health initiatives in Trump EO; CMS doles out RHTP funding to 3 more states",
@@ -6041,6 +6062,21 @@
    "dental": false
   },
   {
+   "id": "12e299de843f717a",
+   "title": "Digging Into the Money Behind the US Healthcare System",
+   "summary": "Healthcare makes up a growing share of the U.S. economy — and household budgets. We break down how much money the nation is spending and on what.",
+   "url": "https://kffhealthnews.org/health-care-costs/money-us-healthcare-system-gdp-economy-nhe-prices-graphics/",
+   "source": "KFF Health News",
+   "lane": "industry",
+   "published": "2026-10-23T08:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-25T22:32:48.948734+00:00",
+   "cluster": "12e299de843f717a",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "2a268a0328d271ed",
    "title": "Inossia raises SEK 88m – targets US approval",
    "summary": "",
@@ -7552,7 +7588,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "56181700fd0334a8",
    "coverage": 2,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -7597,7 +7633,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "303a5bbc090f92db",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7627,7 +7663,7 @@
    "first_seen": "2026-10-23T18:20:38.059228+00:00",
    "cluster": "ebba2af2dde5158d",
    "coverage": 4,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7657,7 +7693,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "3f4bf78362a9a1b2",
    "coverage": 2,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7672,7 +7708,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "3f4bf78362a9a1b2",
    "coverage": 2,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7732,7 +7768,7 @@
    "first_seen": "2026-10-23T01:30:46.613325+00:00",
    "cluster": "08c3c8b85a28507d",
    "coverage": 2,
-   "heat": 3,
+   "heat": 2,
    "dental": true
   },
   {
@@ -7747,7 +7783,7 @@
    "first_seen": "2026-10-23T13:25:55.800107+00:00",
    "cluster": "2fb7488740ce8c09",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7762,7 +7798,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "6be7b91e5990334a",
    "coverage": 3,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -7777,7 +7813,7 @@
    "first_seen": "2026-10-23T01:30:46.613325+00:00",
    "cluster": "c75d8103313e542a",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -7792,7 +7828,7 @@
    "first_seen": "2026-10-23T01:30:46.613325+00:00",
    "cluster": "f5c0c2ecb2160b22",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7807,7 +7843,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "4e75b00787fe32b3",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7837,7 +7873,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "e224f8f8ebe74e89",
    "coverage": 1,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -7852,7 +7888,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "bf33107ee6ae102e",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7867,7 +7903,7 @@
    "first_seen": "2026-10-23T18:20:38.059228+00:00",
    "cluster": "bf33107ee6ae102e",
    "coverage": 3,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7897,7 +7933,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "1a9a11c275b71ffc",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7942,7 +7978,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "d45b443ab34ec4c9",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -7957,7 +7993,7 @@
    "first_seen": "2026-10-22T18:32:28.754495+00:00",
    "cluster": "06b15d8ec5f77406",
    "coverage": 1,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -7972,7 +8008,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "56181700fd0334a8",
    "coverage": 2,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
@@ -7987,7 +8023,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "1859d20288d81b33",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": true
   },
   {
@@ -8002,7 +8038,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "cbf21ec13590d2ec",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": true
   },
   {
@@ -8017,7 +8053,7 @@
    "first_seen": "2026-10-22T22:20:18.338714+00:00",
    "cluster": "33fd2e82c8f47184",
    "coverage": 5,
-   "heat": 4,
+   "heat": 3,
    "dental": false
   },
   {
