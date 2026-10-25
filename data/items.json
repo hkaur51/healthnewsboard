@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T23:13:22.301742+00:00",
+ "generated_at": "2026-10-25T01:11:05.379022+00:00",
  "sources": [
   {
    "name": "STAT",
@@ -183,12 +183,12 @@
   {
    "name": "Google News: (\"digital health\" OR healthtech OR \"health tech\"…",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "name": "Google News: (healthcare OR hospital OR pharma OR medtech) (a…",
    "ok": true,
-   "count": 46
+   "count": 41
   },
   {
    "name": "Google News: (\"FDA clearance\" OR \"FDA clears\" OR \"510(k)\" OR …",
@@ -203,7 +203,7 @@
   {
    "name": "Google News: (dental OR dentistry) (AI OR startup OR funding …",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "name": "Google News: (\"General Catalyst\" OR \"a16z\" OR \"Andreessen\" OR…",
@@ -217,6 +217,21 @@
   }
  ],
  "items": [
+  {
+   "id": "28e668e8ecbff41f",
+   "title": "Jamuna Bank Foundation holds free medical camp, distributes blankets",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbzlzV1E4OEREUkZVNWF0S0pGXzNEWmJGQzZ1VHF4cG5mWll4Y1B0QjNobmVuOWk4aUs4MTB2RDEyYXNLUnpRY0xveHYtdjBhM1pnZEJxZmgwRVRHbUZoaDEwbEV4MV9uc2gxUXlIS3I1RTJYcTNyQUoxNjl5cmhmSzRCZWl1RkF3LXlFQjB2VEVFRl9TblZ2eVAzanBkTzJKTTR2NzVnbnR1R1dLWU9RMV9udGpTMzF1R2FjRld5M2hvRHY4UHlEbDVtRjPSAdgBQVVfeXFMT3lja0l6cXlMOTd4RDNzTmxBS1RUMi1FSWFTbHdGUFplQXE2UGpfalpVVktnY0Iwcl9ZV1hHTnBXN0FOWnJQWDZFaUFDd1ZOeFlESWVPRXc4YV80NFpCQmdEcXFQZUVwclUyeWxmR1ZvS0tIRndXdkp2RHlLMHE2d25neTZTaWpYcWJIbENjMFgxTjZMVlVGUFB0NXlib0FoX1dNdnR0MzcxZzlOMm5FbVc1ckdmQUE5VTVsZUlhX0cyS0V2ZVNRbTE2NDZTWWhkdUxwREZTdTVQ?oc=5",
+   "source": "The Financial Express",
+   "lane": "industry",
+   "published": "2026-10-24T23:59:06+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-25T01:11:05.379022+00:00",
+   "cluster": "28e668e8ecbff41f",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
   {
    "id": "e105738d20a46b8d",
    "title": "Zocdoc's first acquisition in nearly 20 years is an insurance checker",
@@ -246,6 +261,36 @@
    "coverage": 1,
    "heat": 2,
    "dental": false
+  },
+  {
+   "id": "2dc0b7426c3b96e8",
+   "title": "Medtech innovation is shifting: Who will drive the next wave of device growth?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1BzanFUckFkQ2kwQk44U1BmMGZ3T1J4WTRQYmx6WlJmamJQNGNTakx0V2M3enZLQklSaXE4WTFrdmQ2V05KREVkaWZjeWJiZFRaTXR5OVNlM2VieUZUWHNKLVZZZ0Y1R2Vfa1lhTDEycW01dzU2VnplVjdkTXRfbmhhUHM3aEJKUHVZUjZsUlJVQmpvd2J1V2FzTU1VQQ?oc=5",
+   "source": "RSM US",
+   "lane": "deals",
+   "published": "2026-10-24T22:06:31+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-25T01:11:05.379022+00:00",
+   "cluster": "2dc0b7426c3b96e8",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
+   "id": "7abf6b9315dc778a",
+   "title": "Free Dental Services for Veterans at Tribal Clinic",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGRmWXkwanlnYkxkUTl6Wk1nT2JmU2JMMEMxV2tYUUFsUUg0LVRiSUNvVm81MWp1Mlo3TFBsYmFMRnU3YWx1Y1E2cnlDY0hkYW1ObVNROE5yMlZ5ZFdaa0lYQVpxdHV2ZXNIX2tXYUVrbUNESkV4UnZ0SzVac2pnT28tLWhxLThNR05lZjBpNA?oc=5",
+   "source": "The Santa Barbara Independent",
+   "lane": "industry",
+   "published": "2026-10-24T22:06:10+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-22T01:31:34.350057+00:00",
+   "cluster": "7abf6b9315dc778a",
+   "coverage": 1,
+   "heat": 2,
+   "dental": true
   },
   {
    "id": "52f9b7dc4bba9ddb",
@@ -428,6 +473,21 @@
    "dental": false
   },
   {
+   "id": "95ec665675437634",
+   "title": "Why Hospital Purchased Services Remain a Supply Chain Blind Spot",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT1dBWUJ2SW1NMzB5S2xOT0lmaENrRmVROC1oQ1U3Uy13Vlhtenlyd1NGTHJZenJWT2dzRVNmT2g5N05TZGJDcmRGTWVGVkc3S0hoUUNrM0RyRmxmUlpRYVZxcFB0Zm1wRFlkWHluNmdlNmNKNHRBdU16Z1NkQ1hVMTRucmVNY01ESHhEekxkdUdmai1mS3RaZW5VR2JCMHp4SzhNRWNlSmd0Mm1FNV9Vcm1tb3JyR09lV3NNMi1LMkpka09KQWF6OG5zRUZUamFrTEJIR0FBYw?oc=5",
+   "source": "Supply & Demand Chain Executive",
+   "lane": "deals",
+   "published": "2026-10-24T18:17:50+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-24T20:48:20.029002+00:00",
+   "cluster": "95ec665675437634",
+   "coverage": 1,
+   "heat": 1,
+   "dental": false
+  },
+  {
    "id": "a9d9d1a0847bc352",
    "title": "Synovus Is Building Its Own AI Agents in the Middle of a $117 Billion Merger",
    "summary": "",
@@ -440,21 +500,6 @@
    "cluster": "a9d9d1a0847bc352",
    "coverage": 1,
    "heat": 4,
-   "dental": false
-  },
-  {
-   "id": "95ec665675437634",
-   "title": "Hospital Purchased Services: The Supply Chain Gap",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT1dBWUJ2SW1NMzB5S2xOT0lmaENrRmVROC1oQ1U3Uy13Vlhtenlyd1NGTHJZenJWT2dzRVNmT2g5N05TZGJDcmRGTWVGVkc3S0hoUUNrM0RyRmxmUlpRYVZxcFB0Zm1wRFlkWHluNmdlNmNKNHRBdU16Z1NkQ1hVMTRucmVNY01ESHhEekxkdUdmai1mS3RaZW5VR2JCMHp4SzhNRWNlSmd0Mm1FNV9Vcm1tb3JyR09lV3NNMi1LMkpka09KQWF6OG5zRUZUamFrTEJIR0FBYw?oc=5",
-   "source": "Supply & Demand Chain Executive",
-   "lane": "deals",
-   "published": "2026-10-24T18:11:15+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-24T20:48:20.029002+00:00",
-   "cluster": "95ec665675437634",
-   "coverage": 1,
-   "heat": 1,
    "dental": false
   },
   {
@@ -878,6 +923,21 @@
    "dental": false
   },
   {
+   "id": "4b184be8d0cb0a99",
+   "title": "Study finds hospital consolidation efforts fueled price hikes in NY",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVkwdFZGU2FyV1pFdTdCd1E3QlRUTEFPZnlUV0xSQ1lIY3RSNnVzZDMtM1lMR2daRGVVOHpjenBDRER5bjdXUi1Xek44R25nM0JjenhPQnRTNHI3V2g1R25uTGh0U0FWTl9hMV84M2E3enc3Q2tHeW1nY2VXSnQzS1J1NGhkOTUwMjVnX0Rfc2NMSFhva2FjbXFoXy0?oc=5",
+   "source": "Yahoo",
+   "lane": "deals",
+   "published": "2026-10-24T11:00:00+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-25T01:11:05.379022+00:00",
+   "cluster": "f343376b76c086d8",
+   "coverage": 2,
+   "heat": 2,
+   "dental": false
+  },
+  {
    "id": "7a4dc29ad869f34e",
    "title": "Mid-career professionals drive healthcare GCC hiring in 2026: Report",
    "summary": "",
@@ -993,8 +1053,8 @@
    "tier": 0,
    "first_seen": "2026-10-24T18:08:44.243588+00:00",
    "cluster": "f343376b76c086d8",
-   "coverage": 1,
-   "heat": 1,
+   "coverage": 2,
+   "heat": 2,
    "dental": false
   },
   {
@@ -1703,6 +1763,21 @@
    "dental": false
   },
   {
+   "id": "88a2a910aa3d2f98",
+   "title": "Robotic Dental Implant Surgery Comes to Wallingford",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVThOX2pVOHBmY0k4emFKTXoxckIyaWY0UjluUWRKSjBkb1VUM293ejU5Q2VLOGh2XzZhT0dwWTlvZzZGUTRMQmZ0U2tyZ1c5TW05emlVbXhwenNoOWFKdUo5UVVkMkx2TTUwTkFNd3loTk1jbUo4ZUFWSWxPaGVhMGZyZ015djAxN2xNS3FPVUdnYUVHLXFCVWJTQzU3bURQTXVVRGJLX1U1cEk?oc=5",
+   "source": "El Paso Times",
+   "lane": "industry",
+   "published": "2026-10-24T02:37:59+00:00",
+   "tier": 0,
+   "first_seen": "2026-10-25T01:11:05.379022+00:00",
+   "cluster": "1748be0528255bb1",
+   "coverage": 4,
+   "heat": 4,
+   "dental": true
+  },
+  {
    "id": "9db56f3447d71c81",
    "title": "7 discount, cashback credit cards for online festive shopping in 2026: One ofthem is lifetime free",
    "summary": "",
@@ -1893,8 +1968,8 @@
    "tier": 0,
    "first_seen": "2026-10-24T23:13:22.301742+00:00",
    "cluster": "1748be0528255bb1",
-   "coverage": 3,
-   "heat": 3,
+   "coverage": 4,
+   "heat": 4,
    "dental": true
   },
   {
@@ -1968,8 +2043,8 @@
    "tier": 0,
    "first_seen": "2026-10-24T00:41:36.977148+00:00",
    "cluster": "1748be0528255bb1",
-   "coverage": 3,
-   "heat": 3,
+   "coverage": 4,
+   "heat": 4,
    "dental": true
   },
   {
@@ -1983,8 +2058,8 @@
    "tier": 0,
    "first_seen": "2026-10-24T05:52:51.166429+00:00",
    "cluster": "1748be0528255bb1",
-   "coverage": 3,
-   "heat": 3,
+   "coverage": 4,
+   "heat": 4,
    "dental": true
   },
   {
@@ -10482,21 +10557,6 @@
    "dental": false
   },
   {
-   "id": "7abf6b9315dc778a",
-   "title": "Free Dental Services for Veterans at Tribal Clinic",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGRmWXkwanlnYkxkUTl6Wk1nT2JmU2JMMEMxV2tYUUFsUUg0LVRiSUNvVm81MWp1Mlo3TFBsYmFMRnU3YWx1Y1E2cnlDY0hkYW1ObVNROE5yMlZ5ZFdaa0lYQVpxdHV2ZXNIX2tXYUVrbUNESkV4UnZ0SzVac2pnT28tLWhxLThNR05lZjBpNA?oc=5",
-   "source": "The Santa Barbara Independent",
-   "lane": "industry",
-   "published": "2026-10-22T01:26:20+00:00",
-   "tier": 0,
-   "first_seen": "2026-10-22T01:31:34.350057+00:00",
-   "cluster": "7abf6b9315dc778a",
-   "coverage": 1,
-   "heat": 2,
-   "dental": true
-  },
-  {
    "id": "bcc8336524d7b4e4",
    "title": "AI Proteins Announces Research Collaboration and License Agreement With Astellas Pharma to Discover and Develop Novel Miniprotein-Based Therapeutics Valued at Over $400 Million",
    "summary": "",
@@ -10523,7 +10583,7 @@
    "first_seen": "2026-10-22T07:34:19.590227+00:00",
    "cluster": "c1e56f4d8ed10ca5",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10553,7 +10613,7 @@
    "first_seen": "2026-10-22T01:31:34.350057+00:00",
    "cluster": "6a018657d7abd7e5",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10568,7 +10628,7 @@
    "first_seen": "2026-10-22T01:31:34.350057+00:00",
    "cluster": "ec743f1f55ddcaea",
    "coverage": 2,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10583,7 +10643,7 @@
    "first_seen": "2026-10-22T07:34:19.590227+00:00",
    "cluster": "c8535831dba63a5e",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10598,7 +10658,7 @@
    "first_seen": "2026-10-22T07:34:19.590227+00:00",
    "cluster": "7fe6f4d680aadf23",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
@@ -10613,7 +10673,7 @@
    "first_seen": "2026-10-22T01:31:34.350057+00:00",
    "cluster": "8b31e0cfd98e9111",
    "coverage": 9,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10733,7 +10793,7 @@
    "first_seen": "2026-10-22T18:32:28.754495+00:00",
    "cluster": "5cb0794a4b3992c2",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10748,7 +10808,7 @@
    "first_seen": "2026-10-22T18:32:28.754495+00:00",
    "cluster": "a3254aafb4de662a",
    "coverage": 1,
-   "heat": 3,
+   "heat": 2,
    "dental": false
   },
   {
@@ -10793,7 +10853,7 @@
    "first_seen": "2026-10-22T01:31:34.350057+00:00",
    "cluster": "3956629a47c51080",
    "coverage": 1,
-   "heat": 2,
+   "heat": 1,
    "dental": false
   },
   {
